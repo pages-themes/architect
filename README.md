@@ -2,7 +2,7 @@
 
 Architect is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
-You can preview the theme at http://pages-theme.github.io/architect.
+You can preview the theme at http://pages-themes.github.io/architect.
 
 ### Usage
 
