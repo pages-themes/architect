@@ -1,4 +1,4 @@
-# Architect `jekyll-theme-architect`
+# `jekyll-theme-architect`
 
 Architect is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
