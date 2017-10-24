@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-architect"
-  s.version       = "0.0.3"
+  s.version       = "0.1.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Jason Long", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-architect@github.com"]
@@ -14,5 +14,6 @@ Gem::Specification.new do |s|
   end
 
   s.platform      = Gem::Platform::RUBY
-  s.add_runtime_dependency "jekyll", "~> 3.3"
+  s.add_runtime_dependency "jekyll", "~> 3.5"
+  s.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
 end
