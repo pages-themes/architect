@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-architect'
   s.version       = '0.1.1'
