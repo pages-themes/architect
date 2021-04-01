@@ -6,6 +6,8 @@ title:  How I 'Discovered' Shadertoy"
 | -------- | -------- | -------- |
 | [IQ - Happy Jumping](https://www.shadertoy.com/view/3lsSzf) | Inigo impressive near 6 hour tutorial "LIVE Coding and Painting with Maths" | ![No Preview](https://www.shadertoy.com/media/shaders/3lsSzf.jpg) |
 
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3lsSzf?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
 In March 2020, the COVID made me having more time to search about creative coding.
 
 
