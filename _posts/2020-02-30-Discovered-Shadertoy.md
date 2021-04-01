@@ -9,7 +9,9 @@ title:  How I 'Discovered' Shadertoy"
 
 In March 2020, the COVID made me having more time to search about creative coding.
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3lsSzf?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+<iframe width="320" height="180" frameborder="0" src="https://www.shadertoy.com/embed/3lsSzf?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
 
 And in fact I discovered more than I expected !
 * This site started from the very generous idea of **"Create and Share your best shaders with the world and find Inspiration"**. It's a place to watch small pieces of **GLSL** code generating awesome images. 
