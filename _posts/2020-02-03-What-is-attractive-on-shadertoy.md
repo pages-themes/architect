@@ -1,6 +1,6 @@
 ---
 layout:default
-title: "What is addictive on Shadertoy"
+title: "What is addictive with Shadertoy"
 tags: shadertoy
 ---
 What is special with Shadertoy is the **community**, animated by IQ and other big contributors. They are present on the site to comment the newly  published shaders, and it's really cool. 
