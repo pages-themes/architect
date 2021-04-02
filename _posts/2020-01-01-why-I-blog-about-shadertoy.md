@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Why I felt the need to blog about Shadertoy
+title: "Why I felt the need to blog about Shadertoy"
 tags: shadertoy
 ---
 The idea of this notebook is to references some usefull information I found in the shaders of Shadertoy.
