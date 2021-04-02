@@ -18,9 +18,9 @@ First have the idea and want to share it, work on the message associated to your
 
 As IQ repeat in these videos, **you just need to detect ugly things**, and this needs a lot of time for a newbie, but it's realy pleasant. And the more you learn, the more you are able to see ugly things to fix.
 
-{% for my_shaders in site.data.my_shaders reversed %}
-  ![{{ my_shaders.title }}](https://www.shadertoy.com/media/shaders/{{ my_shaders.id }}.jpg)  
-**[{{ my_shaders.title }}](https://www.shadertoy.com/view/{{ my_shaders.id }})** by **[{{ my_shaders.author }}](https://www.shadertoy.com/user/{{ my_shaders.author }})**
+{% for my_shader in site.data.my_shaders reversed %}
+  ![{{ my_shader.title }}](https://www.shadertoy.com/media/shaders/{{ my_shader }}.jpg)  
+**[{{ my_shader.title }}](https://www.shadertoy.com/view/{{ my_shader }})** by **[{{ my_shader.author }}](https://www.shadertoy.com/user/{{ my_shader.author }})**
 
->{{ my_shaders.comments }} 
+>{{ my_shader.comments }} 
 {% endfor %}
