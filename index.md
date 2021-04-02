@@ -9,10 +9,7 @@ I'am not a professional, but love to create effects on the **Shadertoy** web sit
 [Here](https://www.shadertoy.com/user/sylvain69780) a link to my experiments.
 
 {% for my_shaders in site.data.my_shaders %}
-    <img 
-      src="https://www.shadertoy.com/view/{{ my_shaders.id }}"
-      alt="{{ my_shaders.title }}" 
-      />
+  <img src="https://www.shadertoy.com/view/{{ my_shaders.id }}" alt="{{ my_shaders.title }}" />
 {% endfor %}
 
 # Posts 
