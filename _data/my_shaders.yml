@@ -1,25 +1,83 @@
-- id : wsBBR3
-  title : SDF for Moss's Egg - for comment
+- id: wsBBR3
+  title: SDF for Moss's Egg - for comment
   author: sylvain69780
-  comments : |
+  comments: |
     I'am so proud, this stupid function of mine (total newbie) inspired IQ.
     He updated his page about 2D distance functions after my publishing ! 
     This pushed me to find more distance functions, on spirals, helix ... 
     And I found it very fun.  
-- id : 3dSBRG
-  title : Rocket Toy
+- id: 3dSBRG
+  title: Rocket Toy
   author: sylvain69780
-  comments : |
+  comments: |
     **Was very happy with this one**.
     I modelled the rocket for the first time with IQ's SDFs, without even understanding how the ligthing is working.
     Added a BigWings tutorial starfield background. 
     Tried also a glow effect. 
     Newbies can dare all.
-- id : ts3yzB
-  title : Roundabout symetry
+- id: ts3yzB
+  title: Roundabout symetry
   author: sylvain69780
-  comments : |
+  comments: |
     **tuto** about polar repetition. 
     I think this transformation is missing the the IQ page about distance functions. 
     But this is mentioned in one of his video tutorial. 
-  
+- id: tscfzs
+  title: Walking donuts
+  author: sylvain69780
+  comments: |
+    After working on polar repetition again. 
+    There is instructions for newbies to change and make variations of the code.
+- id: wdVyDR
+  title: Rocket planet
+  author: sylvain69780
+  comments: |
+    After searching for some polyhedron functions in order to compute only 1 rocket.
+- id: WdcfDs
+  title: Mousable Looper Caterpillar
+  author: sylvain69780
+  comments: |
+    After studying IQ's joint functions based on a set of capped torus, 
+    and BigWings 2D shaders technics (smiley face youtube tutorials). 
+    I had fun testing the results of diffrents procedural patterns from Shane.
+    I spent time to work on the amination.
+- id: 3dVfDc
+  title: Decorated Christmas Spiral
+  author: sylvain69780
+  comments: |
+    After searching for archimedian spiral functions. 
+    Fun to see that many comments were about the twisted cylinders wrapped around the spiral, 
+    much simplier to get.
+- id: 3tdczX
+  title: Happy New Year using a Scytale !
+  author: sylvain69780
+  comments: |
+    My creation after searching for HELIX functions.
+- id: 3tGcDR
+  title: Waiting for two injections
+  author: sylvain69780
+  comments: |
+    On this one I played with the 3D fonts and the transparent effect. 
+    There is also a may be too serious message. 
+    But I'am not pulishing on Shadertoy to fight against Anti-vax peoples.
+- id: wtdBzl
+  title: Heart Ribbon
+  author: sylvain69780
+  comments: |
+    The 'Helicoid' shape is too complicated for me,
+    more than the Archimedian spiral, 
+    The distance function is not good enough. 
+- id: ttyfDV
+  title: Egg Hunt
+  author: sylvain69780
+  comments: |
+    Very quickly done, based on a BigWings post about domain repetition.
+    The result is nice ! 
+    I spent a long time to watch it, 
+    I think the humain brain is wired to catch Eggs.
+- id: ssX3W2
+  title: Bee Waggle Dance
+  author: sylvain69780
+  comments: |
+    I started by trying to replicate the map of my dinner room 
+    that has some bee pattern on it, and this ended with this.
