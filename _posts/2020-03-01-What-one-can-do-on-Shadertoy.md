@@ -1,6 +1,6 @@
 ---
 layout : default
-title : What you can do on Shadertoy
+title : What one can do on Shadertoy
 tags : shadertoy
 ---
 **Generative art** is all what Shadertoy is about. I think this video explains quite well what it is.
