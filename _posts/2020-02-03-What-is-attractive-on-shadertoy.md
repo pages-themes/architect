@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: "What is addictive with Shadertoy"
 tags: shadertoy
 ---
