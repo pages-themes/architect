@@ -6,7 +6,9 @@ layout: default
 
 I'am not a professional, but love to create effects on the **Shadertoy** web site.
 
-[Here](https://www.shadertoy.com/user/sylvain69780) a link to my Shadertoy's pulished shaders.
+[Here](https://www.shadertoy.com/user/sylvain69780) a link to Shadertoy showing my published shaders.
+
+Below my experiments, by order of creation time.
 
 {% for my_shaders in site.data.my_shaders %}
   ![{{ my_shaders.title }}](https://www.shadertoy.com/media/shaders/{{ my_shaders.id }}.jpg)  
