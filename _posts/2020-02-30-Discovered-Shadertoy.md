@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Shocked to 'Discovered' Shadertoy"
+title:  "Shocked to 'Discover' Shadertoy"
 tags : shadertoy
 ---
 
