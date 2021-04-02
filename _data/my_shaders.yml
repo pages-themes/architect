@@ -1,4 +1,4 @@
-wsBBR3:
+- id: wsBBR3
   title: SDF for Moss's Egg - for comment
   author: sylvain69780
   comments: |
@@ -6,7 +6,7 @@ wsBBR3:
     He updated his page about 2D distance functions after my publishing ! 
     This pushed me to find more distance functions, on spirals, helix ... 
     And I found it very fun.  
-3dSBRG:
+- id: 3dSBRG
   title: Rocket Toy
   author: sylvain69780
   comments: |
@@ -15,25 +15,25 @@ wsBBR3:
     Added a BigWings tutorial starfield background. 
     Tried also a glow effect. 
     Newbies can dare all.
-ts3yzB:
+- id: ts3yzB
   title: Roundabout symetry
   author: sylvain69780
   comments: |
     **tuto** about polar repetition. 
     I think this transformation is missing the the IQ page about distance functions. 
     But this is mentioned in one of his video tutorial. 
-tscfzs:
+- id: tscfzs
   title: Walking donuts
   author: sylvain69780
   comments: |
     After working on polar repetition again. 
     There is instructions for newbies to change and make variations of the code.
-wdVyDR:
+- id: wdVyDR
   title: Rocket planet
   author: sylvain69780
   comments: |
     After searching for some polyhedron functions in order to compute only 1 rocket.
-WdcfDs:
+- id: WdcfDs
   title: Mousable Looper Caterpillar
   author: sylvain69780
   comments: |
@@ -41,33 +41,33 @@ WdcfDs:
     and BigWings 2D shaders technics (smiley face youtube tutorials). 
     I had fun testing the results of diffrents procedural patterns from Shane.
     I spent time to work on the amination.
-3dVfDc:
+- id: 3dVfDc
   title: Decorated Christmas Spiral
   author: sylvain69780
   comments: |
     After searching for archimedian spiral functions. 
     Fun to see that many comments were about the twisted cylinders wrapped around the spiral, 
     much simplier to get.
-3tdczX:
+- id: 3tdczX
   title: Happy New Year using a Scytale !
   author: sylvain69780
   comments: |
     My creation after searching for HELIX functions.
-3tGcDR:
+- id: 3tGcDR
   title: Waiting for two injections
   author: sylvain69780
   comments: |
     On this one I played with the 3D fonts and the transparent effect. 
     There is also a may be too serious message. 
     It's a risk to have to fight against some Anti-vax militants.
-wtdBzl:
+- id: wtdBzl
   title: Heart Ribbon
   author: sylvain69780
   comments: |
     The 'Helicoid' shape is too complicated for me,
     more than the Archimedian spiral, 
     The distance function is not good enough. 
-ttyfDV:
+- id: ttyfDV
   title: Egg Hunt
   author: sylvain69780
   comments: |
@@ -75,7 +75,7 @@ ttyfDV:
     The result is nice ! 
     I spent a long time to watch it, 
     I think the humain brain is wired to catch Eggs.
-ssX3W2:
+- id: ssX3W2
   title: Bee Waggle Dance
   author: sylvain69780
   comments: |
