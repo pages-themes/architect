@@ -1,6 +1,7 @@
 ---
 layout : default
 title : What you can do on Shadertoy
+tags : shadertoy
 ---
 **Generative art** is all what Shadertoy is about. I think this video explains quite well what it is.
 [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
