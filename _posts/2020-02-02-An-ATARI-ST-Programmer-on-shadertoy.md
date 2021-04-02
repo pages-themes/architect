@@ -1,6 +1,6 @@
 ---
 layout: default
-title: An ATARI 520 ST programmer on Shadertoy  
+title: "An ATARI 520 ST programmer on Shadertoy"
 tags: shadertoy
 ---
 I should say that is was a BIG shock for me to discover the power of the fragment shaders, procedural rendering and the massive parallelism of the moderm graphic cards. I was crazy about it.
