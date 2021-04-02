@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Is there alternatives to Shadertoy ?
+title: "Is there alternatives to Shadertoy ?"
 tags : shadertoy
 ---
 I like the community of Shadertoy, so even if more featured sites may exist, there is no better place for me today than Shadertoy to post a shader !
