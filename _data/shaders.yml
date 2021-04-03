@@ -590,3 +590,108 @@
   category: monthly
   comments: |
     by mplanck. A very fun tentacle with Inverse Kinematic
+- id: llySRh
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    I never really understood how to make a good use of the font texture, but this shader from Fabrice may help 
+- id: Wd3BWj
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    Usage of the font texture
+- id: XsjBWW
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    the is also this great one short
+- id: lt2SDc
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    A large number of metaballs to simulate cell division 
+- id: Ws3fR7
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    A simple effect Ocean effect
+- id: ts3fDs
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    A very short Twister shader
+- id: lsfcRB
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    Noticed nice Torus based shaders of balkhan Kaiman, this one has a blackbody color function
+- id: XtSyzh
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    Cubic truchet is very nice and there is a lot of examples in Shadertoy, even a good explanation here. 
+    This shader uses also the keyboard with memory of key pressed ! Usefull. 
+- id: 4lfcRl
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    One among many Shane examples, 
+    **greatly commented with lot of tricks !** I like the little Windows blinking.
+- id: MtSyRz
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    This one managed to implement a flow in the truchet 3d pattern
+- id: 3d3fRr
+  title: Fab31 #inktober2020 "crawl" 
+  author: xx
+  category: monthly
+  comments: |
+    During Inktober, Fabrice made a crawling worm.
+- id: WldGWM
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    this may be a good exercice to make it with joins as described by IQ here
+- id: 3tKGDW
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    What is missing is the function to get the position matrix for the next segment of the joint. 
+    This in done in 3D by PixelPhil in a function named joint3DMatrix
+- id: 3ld3DM
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    this in not in the IQ example for joints, Would probably have to make it from my own.
+- id: XtSczy
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    There is also inverse kinematik approach like in
+- id: XldSDn
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    very nice
+- id: Xtf3Rj
+  title: xx
+  author: xx
+  category: monthly
+  comments: |
+    This one 
