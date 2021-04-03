@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Why I felt the need to blog about Shadertoy"
+title: "My Published Shaders on Shadertoy"
 tags: shadertoy
 ---
 [Here](https://www.shadertoy.com/user/sylvain69780) a link to Shadertoy showing my published shaders.
