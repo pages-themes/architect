@@ -9,7 +9,7 @@ I made a database of shaders I reviewed, but will prefer to make playlists in sh
 * [Blog - Discovered Shadertoy](https://www.shadertoy.com/playlist/MXtXWl)
 >Inigo's impressive near 6 hours tutorial "LIVE Coding and Painting with Maths" available on Youtube
 * [Blog - Video Jockey](https://www.shadertoy.com/playlist/XXyXzR)
->I noticed great creations that would be great in a party !
+>I noticed creations that would be nice in a party !
 
 {% assign shaders_by_category = site.data.shaders | group_by:"category" %}
 
