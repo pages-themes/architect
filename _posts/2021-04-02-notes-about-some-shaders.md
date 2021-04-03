@@ -4,6 +4,12 @@ title: Usefull notes about some Shaders
 tags: shadertoy
 ---
 
+I made a database of shaders I reviewed, but will prefer to make playlists in shadertoy instead.
+
+* [Blog - Discovered Shadertoy](https://www.shadertoy.com/playlist/MXtXWl)
+* [Blog - Video Jockey](https://www.shadertoy.com/playlist/XXyXzR)
+
+
 {% assign shaders_by_category = site.data.shaders | group_by:"category" %}
 
 {% for category in shaders_by_category %}
