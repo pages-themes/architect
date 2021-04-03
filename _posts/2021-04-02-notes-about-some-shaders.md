@@ -9,7 +9,10 @@ tags: shadertoy
 {% for category in shaders_by_category %}
   <dt>{{category.name}}</dt>
   {% for shader in category.items %}
-  <dd><a href="{{post.url}}">{{post.title}}</a></dd>
-  {% endfor %}
+![{{ shader.title }}](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  
+**[{{ shader.title }}](https://www.shadertoy.com/view/{{ shader.id }})** by **[{{ shader.author }}](https://www.shadertoy.com/user/{{ shader.author }})**
+
+>{{ shader.comments }} 
+{% endfor %}
 {% endfor %}
 
