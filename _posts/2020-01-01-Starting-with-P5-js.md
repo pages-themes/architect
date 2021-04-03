@@ -9,7 +9,7 @@ The P5.js online editor is great for starting some animations an you can make co
 The subject I used are my son's school drawings about emotions. I scanned and underlined using Inkscape to get an SVG format image. 
 Later I was able to add a fire effect shader for the backgroud thanks to shadertoy contributors.
 
-![Screensshot](assets/images/damien_mechant.png)
+![Screensshot](/assets/images/damien_mechant.png)
 
 [Fist version](https://editor.p5js.org/sylvain69780/sketches/zzg14OI9i)
 [With fire backgroud](https://editor.p5js.org/sylvain69780/sketches/SYOoiwzKX)
