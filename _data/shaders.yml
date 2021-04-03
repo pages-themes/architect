@@ -50,339 +50,543 @@
   category: monthly
   comments: |
     Impressive 2D Fractal
-- id: xxx
-  title: xxx
+- id: ttGfz1
+  title: Quick Lighting Tech
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Blackle : A gold mine of tricks for a fast ligthing, the[Youtube Video](https://youtu.be/FilPE91ACOA) is great. Discovered his[page](https://suricrasia.online/demoscene/functions/) about live coding GLSL functions. "
+- id: tl3fRS
+  title: Coaster Jungle 
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Good use of domain repetition. "
+- id: WldBRH
+  title: High-Collar Cubes
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    I like the patterns on these cubes, the rendering to good also. "
+- id: Wl3fD2
+  title: Perfect Pistons Example
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Blackle Tricks How to make domain repetition without artifacts. Many ideas in the discussion. "
+- id: 3scyWN
+  title: Alchemical symbols
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    I like this way to display symbols using SDF "
+- id: 4ts3z2
+  title: Xyptonjtroz
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Many nice effects from nimitz, noise and dust storm. "
+- id: WlVyRV
+  title: Dry ice 2
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Nice fog simulation"
+- id: 3ltfzM
+  title: Metallic Tubeworms
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    DR2 made it before I do ! "
+- id: wttBzM
+  title: 4D Wild Kifs
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+     Iapafoto Awsome again "
+- id: 4lKXzd
+  title: Metaballs: Let's get together
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    A lot of tricks on golfing shared in the comments of this simple shader. "
+- id: WtfyDj
+  title: Paint streams
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Shader of the week, awsome fluid simulation."
+- id: Wlt3DM
+  title: Simple Bend
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    IQ shows a way to bend the space, I also had a deep look at ""Joint 3d"" of iapafoto."
+- id: 3tycDW
+  title: Octopi
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    A rope function based on spline interpolation that may be very usefull for animation ! "
+- id: MstGWX
+  title: Drippy Room
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Water effect to study "
+- id: 3tyyWm
+  title: Raymarch template GGX
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    A proposal for a template thanks to darkeclipz "
+- id: WtycWW
+  title: Specular highlight models 
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    At least I will understand how to get a specular ligthing. "
+- id: 3lKyDR
+  title: Marble Marcher: SE
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Playable game ! A big piece of work. "
+- id: 3lVyD1
+  title: Electric Flower (Music)
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Nice effect for the music. Using buffer feedback effect seems simple. "
+- id: lsl3RH
+  title: Warping - procedural 2
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    IQ teaching Deformation of procedural textures as far I understand, to be studied. "
+- id: WlsSWS
+  title: Procedural walk animation
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+     Procedural animation, very difficult exercice. "
+- id: 4tdcWS
+  title: SH18 Woman
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Photographic look"
+- id: wlf3WX
+  title: Head
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    How to model an human head using SDF. "
+- id: Md3GR4
+  title: Meditation for dummies
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Head by Iapafoto"
+- id: wl2Gzc
+  title: Sparks from fire
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Good fire particle effect "
+- id: wl2Gzc
+  title: lots o' particles
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Making particles in a shader is not simple, this is a try to use multipass but the move of the particles is very limited. "
+- id: WlKyzW
+  title: Buckyball Fracture
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Many be usefull when trying some **explosion effects** "
+- id: 54sKBW3
+  title: Ray marching practice 
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    The **flower** shape seems to me very good, it's not easy to get a petal. "
+- id: wlVSDK
+  title: Danger Noodle 
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Perfect modelling, the skin and the eyes are incredible, BigWings masterpiece. "
+- id: wttyDX
+  title: Mandelcloud explorer
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    I like the fuzzy rendering. And the code seems accessible to me. "
+- id: WsfcRn
+  title: Euclidean Honeycombs
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    How to tile the 3D space. "
+- id: MsfGzM 
+  title: Two Tweets
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Found this shader in the IQ playlist, very short like a Tweet,  my understanding is that this is a minimal ray marching algorithm. Try `return length(fract(p)-.5)-0.2; ` to get spheres"
+- id: 3ltyRB
+  title: Joe Gardner (Soul Pixar)
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    This shader show a neat and nice looking approach to compute transparent objects. **usefull to me** "
+- id: WlcyD7
+  title: TIE Fighters
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    dean_the_coder is not stopping to publish very elaborated SDF modelling, keeping the code short and clear. Many comments too about optimization. Impressive ! "
+- id: wsyBDm
+  title: hexastairs: ladder like + doors
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Fabrice gives a neat example of how to make false 3D using hexagons tiles. Inspiring ! One can imagine to make a animated character here. "
+- id: 3sVBDd
+  title: Marching Die
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Shane publishing a new shader is always an event, like when you just received your favorite magazine."
+- id: ttdyRs
+  title: Planetary gears golfed ( 439 ch)
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Nice logo creation, golfed by Fabrice"
+- id: wsyBWc
+  title: Caves - WebGLSamples 
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Interactive creation on holes in a terrain"
+- id: ttB3DV
+  title: Springs of Arbitrary Profile
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    **usefull to me** "
+- id: lt33RB
+  title: DNA helix
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    shader with a lot of usefull functions **usefull to me** "
+- id: tdlfWX
+  title: Infinite stair
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    One of Fabrice's many pulishing **inspiring to me** "
+- id: WtccD7
+  title: OKLab color space
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+     **RGB** is not the perfect tool to pick a color based on human perception, **HSV** is widely used instead, and this **OKLab** encoding even seems a better approach for some good reasons. **usefull for me**     "
+- id: wl3czN
+  title: Day at the lake
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Cloud, water, terrain, **still magical for me**. "
+- id: XlX3zB
+  title: Polyhedron again
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Polyhedrons good reference by **knighty**"
+- id: ldXczX
+  title: Wythoff construction
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Contruction of polyhedrons based on reflextions, perfect to be used in a shader. It's based on repeated reflexions regarding 3 plans, not really easy to me to visualize the construction. The numbers refers to the fractions of angles on the triangular tiles and the pipe sign the position of the point to use as vertex to the polyhedra. **interested** "
+- id: ttScDc
+  title: AURORA landscape
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    **still magical for me** "
+- id: tttyRH
+  title: opensimplex noise
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Even if seems there is many other noise functions possible and found on Shadertoy, this one is a ""well known"" and popular one, there is a **Coding Train** youtube video about it. **usefull to me** "
+- id: 4sXXWM
+  title: metaball shader
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    colorfull, don't know how it works yet. **still magical** "
+- id: XlcSDr
+  title: Clickable Starfield
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    I had noticed this Incredible work of iapafoto "
+- id: ttGyDW
+  title: Clickable Starfield
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Reworked by Ollj "
+- id: WdjSDw
+  title: Shaw - WASP Coils
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Here I found at least a clear way of how to make an easy **glow effect** : Shaw and helix **usefull to me** "
+- id: tdGfDy
+  title: Satisfaction Machine
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Great idea, Helix **usefull to me** "
+- id: Xd3fWr
+  title: Modeling of the bridge, and boat
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    fast and accurate using spheres and cylinder intersect "
+- id: WsccDH
+  title: Flame shader
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    fast and nice. Theory behind to read also. IQ liked it, it should be good. "
+- id: 4lfcz4
+  title: Snow is falling
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    Snow falling from tholzer good effect "
+- id: Xsd3zf
+  title: Miracle Snowflakes
   author: xx
   category: monthly
   comments: |
-    xxx
-- id: xxx
-  title: xxx
+    There is a music sound shader in this one. "
+- id: wlKXWc
+  title: Sphere and Cable
   author: xx
   category: monthly
   comments: |
-    xxx
+    A ball in a torus made of cables, well animated and rendered. Notable equation for cables reaction. Fabrice made a golfed version of it. "
+- id: ltcSzs
+  title: Christmas 2016 orbs
+  author: xx
+  category: monthly
+  comments: |
+    Many light sources, interested me "
+- id: ldcSzB
+  title: Rosace 3d
+  author: xx
+  category: monthly
+  comments: |
+    Oh nooo ! Fabrice short rosace with textures. Seems a variant of the twister trick. "
+- id: XtcfRH
+  title: Polar Grid Motion
+  author: xx
+  category: monthly
+  comments: |
+    Shane again ! "
+- id: ld3GWS
+  title: Magic Particles Multi-Pass
+  author: xx
+  category: monthly
+  comments: |
+    How to add magic sparks "
+- id: Xs33R2
+  title: Magic Sparks
+  author: xx
+  category: monthly
+  comments: |
+    Nice "
+- id: tdyfRy
+  title: GPU Bossa (sound)
+  author: xx
+  category: monthly
+  comments: |
+    Very relaxing sound  "
+- id: 3stBDf
+  title: The Shining
+  author: xx
+  category: monthly
+  comments: |
+    It is nice to see short AND readable programs, very usefull style, but too bloody for me ! The preview is black. "
+- id: WsyfWh
+  title: Several types of stella
+  author: xx
+  category: monthly
+  comments: |
+    To be studied "
+- id: wsGBDh
+  title: TRuck Driving
+  author: xx
+  category: monthly
+  comments: |
+    Very fun ! "
+- id: tdyfRR
+  title: (not) moving circle illusion
+  author: xx
+  category: monthly
+  comments: |
+    Fun illusion !"
+- id: llySRh
+  title: Fabrice's utilities
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: tdyBDh
+  title: Joint 3D from iapafoto
+  author: xx
+  category: monthly
+  comments: |
+    very usefull for modelling. I wonder if there is a problem with the sign function that becomes zero and causes some artifacts at some instants (difficult to capture). "
+- id: lttBzN
+  title: impulse_glass
+  author: xx
+  category: monthly
+  comments: |
+    Refractions"
+- id: WtXcWB
+  title: Whack-A-Mole Pistons
+  author: xx
+  category: monthly
+  comments: |
+     I copied the Mettalic effect.[Video explanation from Blackle]( https://www.twitch.tv/videos/590616102) and[fake ibl tdhooper"
+- id: MlGSRR
+  title: Arrows
+  author: xx
+  category: monthly
+  comments: |
+    Re usable patterns"
+- id: ttdXRf
+  title: Interactive fluid with caustics
+  author: xx
+  category: monthly
+  comments: |
+    [Fluid simulation](http://developer.download.nvidia.com/GTC/SIGGRAPH_Asia_2011/PDF/WaterSim_Chentanez.pdf) Seems the height **fluid** simulation of my nephew Cyrille"
+- id: 4ljBWd
+  title: Spiral patterns
+  author: xx
+  category: monthly
+  comments: |
+    I copied this one to do my Helix shader procedural texture."
+- id: MtjfDG
+  title: Golfed
+  author: xx
+  category: monthly
+  comments: |
+    Golfed version."
+- id: Ws3Bzf
+  title: Human Meat Grinder 
+  author: xx
+  category: monthly
+  comments: |
+    This shader uses a dedicated shade function , good idea to keep"
+- id: WsSBzh
+  title: Selfie girl
+  author: xx
+  category: monthly
+  comments: |
+    IQ published Hoody (renamed Selfie girl) and it's just mind blowing. There is a youtube video about how it's modelled and enlightened ! "
+- id: wdGfzD
+  title: a Cube in a spiral
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: 4ldyWN
+  title: Spiral with N branches
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: lsdfD8
+  title: Fabrice helix here
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: Mdd3R7
+  title: This spiral with UV is used
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: lsS3WV
+  title: Nyarchimedes Spiral 
+  author: xx
+  category: monthly
+  comments: |
+    **usefull to me** to create my Christmas shader. "
+- id: 4l33zN
+  title: wet ink britney
+  author: xx
+  category: monthly
+  comments: |
+    Again UV on an archimedian spiral"
+- id: wls3W4
+  title: Fabrice Short spiral
+  author: xx
+  category: monthly
+  comments: |
+    Again UV on an archimedian spiral"
+- id: wdsSWs
+  title: Logpolar domain repetition
+  author: xx
+  category: monthly
+  comments: |
+    "
+- id: 4s2XRd
+  title: Fast edge detection
+  author: xx
+  category: monthly
+  comments: |
+    is very nice for cartoon like shading."
+- id: ld3Szs
+  title: 3D Cellular Tiling
+  author: xx
+  category: monthly
+  comments: |
+    Shane is source of inspiration and astonishment, I should go to have a deep look at it."
+- id: tlV3zy
+  title: Snaliens
+  author: xx
+  category: monthly
+  comments: |
+    This very nice shader of the day is simple but colorfull and using simple 2d primitives with blending. Note for myself : I have to be cute to be liked, because I'am not technically impressive !"
+- id: 4s33zf
+  title: over the moon
+  author: xx
+  category: monthly
+  comments: |
+    There is also the Bigwings tutorials[other the moon](https://www.youtube.com/watch?v=LLZPnh_LK8c) about blending and 2d effects."
+- id: swlj3zV
+  title: Torus Pipe
+  author: xx
+  category: monthly
+  comments: |
+    by iq. shows how to make a jonction of capped torus to make a long pipe. Here there is 32 capped torus, this is impacting the frame rate. I see now obvious way to improve by boxing, the calculations are already quite cheap. Will not be fluid on mobile, but good on PC."
+- id: XldSDn
+  title: Dancing Tentacle
+  author: xx
+  category: monthly
+  comments: |
+    by mplanck. A very fun tentacle with Inverse Kinematic"

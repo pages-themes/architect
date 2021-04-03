@@ -8,7 +8,7 @@ tags: shadertoy
 
 {% for category in shaders_by_category %}
 
-#{{category.name}}
+# {{category.name}}
 
 {% for shader in category.items %}
 ![{{ shader.title }}](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  

@@ -21,3 +21,5 @@ Making shaders is like cooking, we try to impress and make me happy and also peo
 * Have to learn about terrain rendering
 * Have to learn about cell shading
 * To be continued.
+
+I want probably make another shader related more to geomery than modelling, especially methods for having more domain repetition methods. There is many topics possibles. Like this [Fibonacci mapping](https://dokumen.tips/reader/f/spherical-fibonacci-mapping-fibonacci-mapping-benjamin-keinert-1matthias-innmann)
