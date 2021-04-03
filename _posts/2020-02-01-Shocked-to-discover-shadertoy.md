@@ -8,15 +8,13 @@ In March 2020, the COVID made me having more time to search about creative codin
 
 And in fact I discovered more than I expected !
 
-| Shader | Comments | Preview |
-| -------- | -------- | -------- |
-| [IQ - Happy Jumping](https://www.shadertoy.com/view/3lsSzf) | Inigo impressive near 6 hour tutorial "LIVE Coding and Painting with Maths" | ![No Preview](https://www.shadertoy.com/media/shaders/3lsSzf.jpg) |
-
 {% for shader in site.data.shaders reversed %}
-  ![{{ shader.title }}](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  
+{% if shader.id == "3lsSzf" %}
+![{{ shader.title }}](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  
 **[{{ shader.title }}](https://www.shadertoy.com/view/{{ shader.id }})** by **[{{ shader.author }}](https://www.shadertoy.com/user/{{ shader.author }})**
 
 >{{ shader.comments }} 
+{% endif %}
 {% endfor %}
 
 * I (re)discovered the **demoscene** and their community very active on Shadertoy.
