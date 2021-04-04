@@ -22,9 +22,12 @@ Below some noticable contributors
 
 # Shane
 >Creations always nice to watch, code easy to read and commented extensively. 
->[web](http://Rhomboid.com) [Shadertoy](https://www.shadertoy.com/user/Shane)
+>[web](http://Rhomboid.com)
+>[Shadertoy](https://www.shadertoy.com/user/Shane)
 
 # FabriceNeyret2
 >Many comments describe him as a smart guy. 
 >Spends a lot of time posting kind comments and tutos. 
->A lot of advice to take ! |[web](http://evasion.imag.fr/~Fabrice.Neyret/demos/Shadertoy/) [Shadertoy](https://www.shadertoy.com/user/FabriceNeyret2)
+>A lot of advice to take ! 
+>[web](http://evasion.imag.fr/~Fabrice.Neyret/demos/Shadertoy/) 
+>[Shadertoy](https://www.shadertoy.com/user/FabriceNeyret2)
