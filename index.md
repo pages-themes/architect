@@ -10,6 +10,8 @@ I'am not a professional, but love to create effects on the **Shadertoy** web sit
 
 And in [this post]({% post_url 2020-01-01-my-published-shaders %}) a commented list of it.
 
+In [this post]({% post_url 2021-04-02-notes-about-some-shaders %}) list of shaders I noted.
+
 # Posts 
 
 {% for tag in site.tags %}
