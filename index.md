@@ -2,7 +2,7 @@
 layout: default
 ---
 # About
-## My Shadertoy published Shaders
+## About me
 
 I'am not a professional, but love to create effects on the **Shadertoy** web site.
 
@@ -11,6 +11,8 @@ I'am not a professional, but love to create effects on the **Shadertoy** web sit
 And in [this post]({% post_url 2020-01-01-my-published-shaders %}) a commented list of it.
 
 In [this post]({% post_url 2021-04-02-notes-about-some-shaders %}) list of shaders I noted.
+
+I also have another [Blog](https://sylvain69780.github.io/digital-culture/) to initiate child and olders to some computer culture.
 
 # Posts 
 
