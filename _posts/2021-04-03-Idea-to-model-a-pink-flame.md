@@ -9,3 +9,4 @@ I had the idea to model the **pink flame**
 
 It's a very strange and colorfull bird.
 
+A real challenge to make the modelling and animation.
