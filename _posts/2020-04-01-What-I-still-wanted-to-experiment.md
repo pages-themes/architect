@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "What I still wanted to experiment"
+title: "What I still want to experiment"
 tags: shadertoy
 ---
 ## My motivations
 
-Making shaders is like cooking, we try to impress and make me happy and also people watching at it. This is my first motivation.
+I believe making shaders, and art in general, is like cooking, we try to impress and make me happy and also people watching at it. This is my first motivation.
 
 ## I am and will still be an hobbyist, not a professional !
 

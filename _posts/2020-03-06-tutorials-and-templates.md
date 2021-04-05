@@ -11,6 +11,5 @@ tags: shadertoy
     * https://www.youtube.com/c/TheArtofCodeIsCool/about
         * Noise values 
         * [Ray marching starting point](https://shadertoy.com/view/WtGXDD) 
-* Demofox blog
-    * https://blog.demofox.org/
-    
+* [Demofox blog](https://blog.demofox.org/)
+* [Blackle blog](https://suricrasia.online/demoscene/functions/) and [youtube](https://www.youtube.com/watch?v=FilPE91ACOA)
