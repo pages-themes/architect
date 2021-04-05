@@ -26,3 +26,5 @@ Iq made a short verion of it here :
 >{{ shader.comments }} 
 {% endif %}
 {% endfor %}
+
+Please note that there is an infinite zoom possible on the Mandelbrot's set, the only limits are the precision of the float and the number of allowed iterations to compute the details of the set.
