@@ -1,3 +1,9 @@
+- id: ltjXzt
+  title: "Verlet Spider!"
+  author: Dave_Hoskins
+  category: animation
+  comments: |
+    It uses Verlet Integration to place the 'knees' correctly.
 - id: wtfXWB
   title: "Tetrahedral Voxel Traversal"
   author: fizzer
