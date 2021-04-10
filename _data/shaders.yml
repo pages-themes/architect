@@ -1,3 +1,21 @@
+- id: 4tc3WB
+  title: "Shaderdough"
+  author: tdhooper
+  category: polyhedrons
+  comments: |
+    Offsetting the centre of the icosahedron-twist operation gives some fun results.
+- id: ltjXzt
+  title: "Verlet Spider!"
+  author: Dave_Hoskins
+  category: animation
+  comments: |
+    It uses Verlet Integration to place the 'knees' correctly.
+- id: wtfXWB
+  title: "Tetrahedral Voxel Traversal"
+  author: fizzer
+  category: geometry
+  comments: |
+    A lot of Math to study here I believe.
 - id: lllGWH
   title: "[2TC 15] Mandelbrot"
   author: iq
