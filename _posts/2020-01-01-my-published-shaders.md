@@ -13,6 +13,7 @@ In general, I also try to gives instructions to have different fun results by a 
 
 The question comes many times : **how many time** it took to me to make these shaders.
 I can tell between 10 to 20 hours of cumulated time in general. 
+But again this is very pleasant.
 
 {% for my_shaders in site.data.my_shaders reversed %}
   ![{{ my_shaders.title }}](https://www.shadertoy.com/media/shaders/{{ my_shaders.id }}.jpg)  
