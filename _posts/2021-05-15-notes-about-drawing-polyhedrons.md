@@ -40,11 +40,6 @@ float sdOctahedron( vec3 p, float s)
 
 Using the IQ's Rasterizer shader, I learnt more about how to declare a Mesh object.
 
-{% for shader in site.data.shaders reversed %}
-{% if shader.id == "ftf3zn" %}
-![{{ shader.title }}](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  
-**[{{ shader.title }}](https://www.shadertoy.com/view/{{ shader.id }})** by **[{{ shader.author }}](https://www.shadertoy.com/user/{{ shader.author }})**
+![Rasterizer Icosdahedron](https://www.shadertoy.com/media/shaders/{{ shader.id }}.jpg)  
+**[Rasterizer - Icosahedron](https://www.shadertoy.com/view/ftf3zn)** 
 
->{{ shader.comments }} 
-{% endif %}
-{% endfor %}
