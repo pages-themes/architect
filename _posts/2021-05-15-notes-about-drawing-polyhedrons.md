@@ -36,7 +36,7 @@ float sdOctahedron( vec3 p, float s)
 }
 ```
 
-# Icosahedron and Docecahedron 
+# Icosahedron and Dodecahedron 
 
 Using the IQ's Rasterizer shader, I learnt more about how to declare a Mesh object.
 
