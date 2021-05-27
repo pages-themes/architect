@@ -14,7 +14,7 @@ Les premiers ordinateurs, comme le BBC Micro de 1982 permettait déjà de faire 
 Les ordinateurs sont simplement un peu plus puissants.
 
 Live Coding, VJing, Jeux, Illusions d'optique, Programme le plus court ...  
-Polyèdres, Pavages, Tracé de rayon, Eclairage, Fractales, Théorèmes, Palettes de couleurs, Filtres ...
+Polyèdres, Pavages, Tracé de rayon, Eclairage, Fractales, Théorèmes, Palettes de couleurs, Filtres video ...
 
 Voilà l'univers du Generative art, avec ses professionels et ses amateurs comme moi.
 
@@ -25,6 +25,8 @@ Je vous lance donc un défi artistique !
 Vous pourrez découvrir une communauté méconnue, réunie autour de Inigo Quilez, createur du site Shadertoy.
 
 Modifiez les valeures numeriques dans le code [ici](https://www.shadertoy.com/view/7ls3D4) en suivant les instructions en commentaire. L'image animée qui s'affiche en apperçu est entièrement générée par le code du volet de droite ! 
+
+>Astuce : <ALT>+<ENTREE> ou la flèche en bas pour compiler et voir le résultat
 
 Saurez vous réaliser une oeuvre originale et relever les 5 challenges ? 
 
