@@ -26,7 +26,7 @@ Vous pourrez découvrir une communauté méconnue, réunie autour de Inigo Quile
 
 Modifiez les valeures numeriques dans le code [ici](https://www.shadertoy.com/view/7ls3D4) en suivant les instructions en commentaire. L'image animée qui s'affiche en apperçu est entièrement générée par le code du volet de droite ! 
 
->Astuce : <ALT>+<ENTREE> ou la flèche en bas pour compiler et voir le résultat
+>Astuce : ALT+ENTREE ou la flèche en bas pour compiler et voir le résultat
 
 Saurez vous réaliser une oeuvre originale et relever les 5 challenges ? 
 
