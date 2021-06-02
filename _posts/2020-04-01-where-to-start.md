@@ -3,7 +3,7 @@ layout: default
 title: "How to start to create your first shaders ?"
 tags: shadertoy
 ---
-
+# Where to start
 In fact it's simple, all the links to start about shaders are at the bottom of [Shadertoy's main page](https://www.shadertoy.com/) ! 
 * After going the shadertoy page bottom links, you may go here : 
 * Inigo page [2D distance functions](https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm)
@@ -26,3 +26,16 @@ In fact it's simple, all the links to start about shaders are at the bottom of [
 * Font texture explanation :
     * https://www.shadertoy.com/view/llcXRl (by creator)
     * https://www.shadertoy.com/view/4sBfRd
+
+# Templates and tutorials
+
+- Inigo Quilez
+    - [Youtube](https://www.youtube.com/c/InigoQuilez/about)
+    - Starter shader : [here](https://www.shadertoy.com/view/ldfSWs)
+    - Catalog of [3D SDF](https://www.shadertoy.com/view/Xds3zN)
+- Art of Code
+    * [Youtube](https://www.youtube.com/c/TheArtofCodeIsCool/about)
+    * [Ray marching starting point](https://shadertoy.com/view/WtGXDD) 
+- [Demofox blog](https://blog.demofox.org/)
+- [Blackle blog](https://suricrasia.online/demoscene/functions/) and [youtube](https://www.youtube.com/watch?v=FilPE91ACOA)
+- [Nathan Vaughn's Blog tutorials](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1)
