@@ -38,3 +38,4 @@ the dot product simplifies to cos(rotation)=1/3, meaning rotation = acos(1/3) = 
 
 ![preview](/assets/images/dihedral_desmos.png)
 
+Next challenge is to find the exact location for the pin points between 2 pieces. To be continued.
