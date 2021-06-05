@@ -12,7 +12,7 @@ I had the **chance** to own a "scorpius slider spider puzzle", a piece of wood a
 
 I learnt reading [this page](https://www.lairdubois.fr/creations/14279-le-scorpius.html) that it's a rare puzzle, very few makers exists.
 
-I spend some time trying to reproduce the shape on Shadertoy, and wanted to understand the strange geometry behind.
+I spent some time trying to reproduce the shape on Shadertoy, and wanted to understand the strange geometry behind.
 
 This video shows how to mount and unmout it (in French)
 [Le Scorpius on Youtube](https://www.youtube.com/watch?time_continue=13&v=2orJ6rTSx2s&feature=emb_logo)
