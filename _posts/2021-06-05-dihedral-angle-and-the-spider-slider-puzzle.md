@@ -38,7 +38,7 @@ We can compute that n1 is vec3(-sqrt(3),1/2,0) and n2 is vec3(-cos(rotation)* sq
 
 the dot product simplifies to cos(rotation)=1/3, meaning rotation = acos(1/3) = 70,5287294 degres
 
-Below a geomery I tried on [Desmos](https://www.desmos.com/geometry/g1cdjpyrzq)
+Below a 2D geomery I tried on [Desmos](https://www.desmos.com/geometry/g1cdjpyrzq) showing from the top the pieces connected before the rotation.
 ![preview](/assets/images/dihedral_desmos.png)
 
 Next challenge is to find the exact location for the pin points between 2 pieces. To be continued.
