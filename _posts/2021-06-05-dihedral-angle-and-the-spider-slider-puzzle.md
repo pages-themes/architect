@@ -28,9 +28,9 @@ I suspected that 70 degres was not an exact value, and wanted to compute it by m
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
-# Calculation of exact needed bend angle
+# Calculation of the bend angle
 
-When assembled, the Dihedral angle of the planes formed by the ** connected faces** of one piece and the next one should be 90 degres, in order to get this **4 times** rotation symetry.
+When assembled, the Dihedral angle of the planes formed by the **connected faces** of one piece and the next one should be 90 degres, in order to get this **4 times** rotation symetry.
 
 The Dihedral angle is **cos(angle) = dot(n1,n2)**, n1 and n2 are the normals of the planes and we want the angle to be 90 degres, and cos(90 degres)=0.
 
