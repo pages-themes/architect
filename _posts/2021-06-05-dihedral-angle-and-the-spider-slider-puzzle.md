@@ -22,7 +22,7 @@ This video shows how to mount and unmout it (in French)
 What fascinated me is the rotation angle needed to bend each little piece when connecting them.
 
 Refering to **Philippe Cichon**, this bend angle is 70 degres, but where this value is coming from ?  
-All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle, but once the construction done, all pieces are connected with a symetry of 90 degres around a central point.
+All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle, but when assembled, all pieces are connected with a symetry of 90 degres around a central point.
 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
 
