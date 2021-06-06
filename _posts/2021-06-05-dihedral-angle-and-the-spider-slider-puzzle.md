@@ -6,7 +6,7 @@ tags: shadertoy
 
 # What is this ?
 
-I had the **chance** to own a "scorpius slider spider puzzle", a piece of **wood art** that is still kept by my parents.
+I have the **chance** to own a "scorpius slider spider puzzle", a piece of **wood art** bought 30 years ago.
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
@@ -50,3 +50,42 @@ Below a 2D geomery I tried on [Desmos](https://www.desmos.com/geometry/g1cdjpyrz
 ![preview](/assets/images/dihedral_desmos.png)
 
 Next challenge is to find the exact location for the pin points between 2 pieces. To be continued.
+
+# Is it possible to use polar domain repetition ?
+
+Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
+The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans. I'am quite sure this is the method used to draw [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
+We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried.
+
+# Elevation of upper corner point
+
+We are searching for the Y coordinate of the intersection point of the edge and the X axis.  
+
+[Desmos schema here](https://www.desmos.com/geometry/s4evom660u)
+
+The edge normal is 
+```
+vec2 n1 = vec2(1,0)
+```
+and we apply the bend angle rotation of approx. 70 degres to the edge normal.
+```
+vec2 n2 = vec2(cos(rotation),sin(rotation))
+```
+This Line is passing by p, p has the same coordinates as n2.
+
+We can now solve ( result to be multiplied by l, the width of the largest side (2) )
+```
+dot(vec2(0.0,y)-p,n2) = 0
+```
+This leads to nothing of course, 0 = 0
+Let's try the equation of the line y=ax+b, here we are searching for b
+```
+dot(vec2(x,y)-p,n2) = 0
+(x-cos(r))*cos(r) + (y-sin(r))*sin(r) = 0
+x*cos(r)-cos2(r) + y*sin(r) - sin2(r) = 0
+y*sin(r) = cos2(r) - cos(r)*x +sin2(r)
+b = (cos2(r)+sin2(r))/sin(r)
+p.z -= l*(cos(r)*cos(r)+sin(r)*sin(r))/sin(r);  // elevation to reach the edge 
+```
+At the end, l shoud be corrected by the truncated top part.
+
