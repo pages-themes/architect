@@ -37,10 +37,14 @@ The [Dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is **cos(
 - as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
 
 We can compute that  
->n1 = vec3(-sqrt(3),1/2,0)
->n2 = vec3(-cos(rotation)* sqrt(3)/2,-1/2,-sin(rotation)*sqrt(3)/2)
-
-the dot product simplifies to cos(rotation)=1/3, meaning rotation = acos(1/3) = 70,5287294 degres
+```
+n1 = vec3(-sqrt(3),1/2,0)  
+n2 = vec3(-cos(rotation)* sqrt(3)/2,-1/2,-sin(rotation)*sqrt(3)/2)
+```
+the dot product simplifies to cos(rotation)=1/3, meaning 
+```
+rotation = acos(1/3) = 70,5287294 degres
+```
 
 Below a 2D geomery I tried on [Desmos](https://www.desmos.com/geometry/g1cdjpyrzq) showing from the top the pieces connected before the rotation.
 ![preview](/assets/images/dihedral_desmos.png)
