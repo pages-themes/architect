@@ -108,6 +108,7 @@ Using the slope of the middle line of the second face, we can compute that it cr
     // Location of the pin point
     // This is the 3rd value usefull to build the puzzle
     // For building the wood puzzle d1 = 15 * 0,777817459 = 11,66726189 mm 
+    // The difference of elevation with the top of the piece is 16,97056275 mm
     float d1 = 0.5*l-.5/tan(r);
     vec2 p1 = vec2(.5,d1);    
 ```
