@@ -43,10 +43,12 @@ n2 = vec3(-cos(rotation)* sqrt(3)/2,-1/2,-sin(rotation)*sqrt(3)/2)
 ```
 the dot product simplifies to cos(rotation)=1/3, meaning 
 ```
-rotation = acos(1/3) = 70,5287294 degres
+    // Bend angle of approx 70,52877937 degres
+    // This is the first key value to build the puzzle
+    float r = acos(1./3.);
 ```
 
-Below a 2D geomery I tried on [Desmos](https://www.desmos.com/geometry/g1cdjpyrzq) showing from the top the pieces connected before the rotation.
+Below [a 2D geomery I tried on Desmos](https://www.desmos.com/geometry/g1cdjpyrzq) showing from the top the pieces connected before the rotation.
 ![preview](/assets/images/dihedral_desmos.png)
 
 Next challenge is to find the exact location for the pin points between 2 pieces. To be continued.
@@ -59,9 +61,9 @@ We also need to take these plans into account in the ray marching. This is quite
 
 # Elevation of upper corner point
 
-We are searching for the Y coordinate of the intersection point of the edge and the X axis.  
+We are searching for the Y coordinate of the top of the top end of a piece.  
 
-[Desmos schema here](https://www.desmos.com/geometry/s4evom660u)
+[Desmos schema here to be more clear](https://www.desmos.com/geometry/s4evom660u)
 
 The edge normal is 
 ```
@@ -73,19 +75,63 @@ vec2 n2 = vec2(cos(rotation),sin(rotation))
 ```
 This Line is passing by p, p has the same coordinates as n2.
 
-We can now solve ( result to be multiplied by l, the width of the largest side (2) )
-```
-dot(vec2(0.0,y)-p,n2) = 0
-```
-This leads to nothing of course, 0 = 0
-Let's try the equation of the line y=ax+b, here we are searching for b
+Let's try the equation of the line y=ax+b, here we are searching for b.
 ```
 dot(vec2(x,y)-p,n2) = 0
 (x-cos(r))*cos(r) + (y-sin(r))*sin(r) = 0
 x*cos(r)-cos2(r) + y*sin(r) - sin2(r) = 0
 y*sin(r) = cos2(r) - cos(r)*x +sin2(r)
 b = (cos2(r)+sin2(r))/sin(r)
-p.z -= l*(cos(r)*cos(r)+sin(r)*sin(r))/sin(r);  // elevation to reach the edge 
+p.z -= l*(cos(r)*cos(r)+sin(r)*sin(r))/sin(r);  // elevation over the x axis to reach the edge 
+simplified to l/sin(r) because sin2+cos2 = 1
 ```
-At the end, l shoud be corrected by the truncated top part.
+At the end, l shoud be corrected by the length of the truncated top part.
 
+```
+    float c = 0.9; // pct of cut of the sharper edge.
+    // elevation to reach the edge 
+    // this is the second value usefull to build the puzzle.
+    // For building the wood puzzle l = 15 * 1,909188309 = 28,63782464 mm 
+    float l = 2.0*c/sin(r);
+```
+
+# Location on each face of the pin points
+
+[Desmos Geometry of the plan connecting the pieces](https://www.desmos.com/geometry/eqby2qihrk?lang=fr)
+
+We want the pin points to be on the middle line of each respective faces.
+
+We localize the pin point on the little face, it's the intersection point between middle lines of each face, when the second face is bended to 70 degres.  
+Using the slope of the middle line of the second face, we can compute that it crosses the middle line of the first face at ```vec2(.5,0.5*el-.5/tan(r))```
+
+```
+    // Location of the pin point
+    // This is the 3rd value usefull to build the puzzle
+    // For building the wood puzzle d1 = 15 * 0,777817459 = 11,66726189 mm 
+    float d1 = 0.5*l-.5/tan(r);
+    vec2 p1 = vec2(.5,d1);    
+```
+
+Now, we have to find the location of the matching Hole on the larger face.
+
+searching y for
+vec2 p2 = vec2(l*0.5,y) rotated of 70 degres arrives on p1.
+
+It appears that y is the distance of p1 to the line crossing the second face.
+y = dot(p1,n)
+n = vec2(-sin(r),cos(r))
+y = dot(p1,vec2(-sin(r),cos(r)
+
+```
+    // Location of the hole of the pin point on the larger face
+    // This is the 4th value usefull to build the puzzle
+    // For building the wood puzzle d2 = 15 * -0,212132034 = -3,181980515 mm 
+    float d2 = (l-1.0/tan(r))/6.0-.5*sin(r);
+    vec2 p2 = vec2(c,d2); 
+```
+
+[Simplified on Desmos](https://www.desmos.com/geometry/xe3jsvrvck)
+
+# Others dimensions
+
+To be continued
