@@ -168,19 +168,15 @@
        transform="matrix(0.37075798,0,0,0.39346055,-36.698387,69.817665)"><tspan
          x="179.91602"
          y="38.758981"
-         id="tspan4757">Quotes : 
+         id="tspan2086">Grand coté = 30 mm
 </tspan><tspan
          x="179.91602"
          y="51.988107"
-         id="tspan4759">Grand coté = 30 mm
+         id="tspan2088">Coupé à 10% de la pente = 27 mm 
 </tspan><tspan
          x="179.91602"
          y="65.217233"
-         id="tspan4761">Coupé à 10% de la pente = 27 mm 
-</tspan><tspan
-         x="179.91602"
-         y="78.446359"
-         id="tspan4763">...</tspan></text>
+         id="tspan2090">...</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.083333,60.854167 -7.564296,-0.008 -7.564296,-0.008"
