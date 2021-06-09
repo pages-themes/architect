@@ -22,7 +22,7 @@ This video of Philippe Cichon shows how to mount and unmout it (in French)
 What fascinated me is the rotation angle needed to bend each little piece when mounting the puzzle.
 
 Refering to the article on "L'air du bois", this bend angle is 70 degres, but why this value ?  
-All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with side 1,2,sqrt(3), but when assembled, all pieces are connected with a symetry of 90 degres around a central point.
+All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all pieces are connected with a symetry of 90 degres around a central point.
 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
 
@@ -53,39 +53,33 @@ Below [a 2D geomery I tried on Desmos](https://www.desmos.com/geometry/g1cdjpyrz
 
 Next challenge is to find the exact location for the pin points between 2 pieces. To be continued.
 
-# Is it possible to use polar domain repetition ?
-
-Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
-The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans. I'am quite sure this is the method used to draw [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
-We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried.
-
 # Elevation of upper corner point
 
-We are searching for the Y coordinate of the top of the top end of a piece.  
+In our figure, we are putting edge to edge 2 identical pieces and rotated the first one of r=acos(1/3).
+[we are searching point P in this Desmos schema](https://www.desmos.com/geometry/s4evom660u)
 
-[Desmos schema here to be more clear](https://www.desmos.com/geometry/s4evom660u)
+The intersection point of the two left edges is by construct ```vec2(0.0,0.0)```
+We are now searching for the Y coordinate ```vec2(0.0,d0)``` of the intersection point of the right edge of the second rotated piece with the left border of the first piece. (y axis).  
 
-The edge normal is 
-```
-vec2 n1 = vec2(1,0)
-```
-and we apply the bend angle rotation of approx. 70 degres to the edge normal.
-```
-vec2 n2 = vec2(cos(rotation),sin(rotation))
-```
-This Line is passing by p, p has the same coordinates as n2.
+This is important because it gives the top end of the piece, and will allow to position all other geometry like the pin points.
 
-Let's try the equation of the line y=ax+b, here we are searching for b.
+>Again we compute an half equilateral triangle with sides 1,2,sqrt(3), and will multiply by 15 to have the final proportions of the Puzzle.
+
 ```
-dot(vec2(x,y)-p,n2) = 0
-(x-cos(r))*cos(r) + (y-sin(r))*sin(r) = 0
-x*cos(r)-cos2(r) + y*sin(r) - sin2(r) = 0
-y*sin(r) = cos2(r) - cos(r)*x +sin2(r)
-b = (cos2(r)+sin2(r))/sin(r)
-p.z -= l*(cos(r)*cos(r)+sin(r)*sin(r))/sin(r);  // elevation over the x axis to reach the edge 
-simplified to l/sin(r) because sin2+cos2 = 1
+s = 15.0
+r = acos(1.0/3.0)
+c = 0.9
 ```
-At the end, l shoud be corrected by the length of the truncated top part.
+
+We can see that the surface of superposition of the 2 faces forms a parallelogram.
+The triangle OHP is rectangle, with OH=2*s*c and angle HPO = arccos(1/3).
+OP length is the value **l** that we are looking at.
+Sinus is [opposite side on Hypotenuse](https://www.mathsisfun.com/sine-cosine-tangent.html) so
+sin(arccos(1/3)) = OH / OP
+
+```
+l = 2*s*c/sin(r)
+```
 
 ```
     float c = 0.9; // pct of cut of the sharper edge.
@@ -133,6 +127,13 @@ y = dot(p1,vec2(-sin(r),cos(r)
 
 [Simplified on Desmos](https://www.desmos.com/geometry/xe3jsvrvck)
 
-# Others dimensions
+# Others measures
 
 To be continued
+
+# Is it possible to use polar domain repetition ?
+
+Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
+The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans.  
+This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
+We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried.
