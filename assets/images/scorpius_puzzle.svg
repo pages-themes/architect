@@ -16,6 +16,12 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <rect
+       x="265"
+       y="355"
+       width="95"
+       height="45"
+       id="rect22103" />
     <marker
        style="overflow:visible;"
        id="marker35235"
@@ -173,16 +179,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96626931"
-     inkscape:cx="520.04135"
-     inkscape:cy="471.40067"
+     inkscape:zoom="5.4660446"
+     inkscape:cx="252.6507"
+     inkscape:cy="454.53343"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1358"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -220,19 +226,27 @@
     <text
        xml:space="preserve"
        id="text22"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.37075798,0,0,0.39346055,-36.698387,69.817665)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37075798,0,0,0.39346055,-28.483803,65.025825)"><tspan
          x="179.91602"
-         y="38.758981"
-         id="tspan66090">Grand coté = 30 mm
+         y="36.271904"
+         id="tspan64463">Grand coté = 30 mm
 </tspan><tspan
          x="179.91602"
-         y="51.988107"
-         id="tspan66092">Coupé à 10% de la pente = 27 mm 
+         y="45.831634"
+         id="tspan64465">Coupé à 10% de la pente = OH = 27 mm
 </tspan><tspan
          x="179.91602"
-         y="65.217233"
-         id="tspan66094">...</tspan></text>
+         y="55.391365"
+         id="tspan64467">Petit coté OI = 15 mm
+</tspan><tspan
+         x="179.91602"
+         y="64.951095"
+         id="tspan64469">Plan de contact penché à 70,5° 
+</tspan><tspan
+         x="179.91602"
+         y="74.510826"
+         id="tspan64471">θ =arccos(1/3)</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.083333,60.854167 -7.564296,-0.008 -7.564296,-0.008"
@@ -605,17 +619,24 @@
        d="m 59.7779,109.0011 a 2.2101614,2.2101614 0 0 1 -2.083281,1.51715 l -0.01544,-2.21011 z" />
     <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:2.11667px;line-height:1;font-family:sans-serif;stroke-width:0.264583"
        x="58.408276"
-       y="111.75412"
+       y="113.39703"
        id="text7135"><tspan
          sodipodi:role="line"
-         id="tspan7133"
-         style="stroke-width:0.264583"
+         style="font-size:2.11667px;stroke-width:0.264583"
          x="58.408276"
-         y="111.75412"><tspan
-   style="font-size:1.41111px"
-   id="tspan9879">70,5°</tspan> </tspan></text>
+         y="113.39703"
+         id="tspan59539"><tspan
+           id="tspan9879"
+           style="font-size:2.11667px">θ </tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="58.408276"
+         y="115.5137"
+         id="tspan59547"><tspan
+   id="tspan59549"
+   style="font-size:2.11667px">70,5°</tspan> </tspan></text>
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect11093"
@@ -634,7 +655,7 @@
          style="stroke-width:0.0721792"
          x="111.73817"
          y="115.43243"
-         id="tspan19781-3">OP = OH/sin(70,5°) = 28,64 mm</tspan></text>
+         id="tspan19781-3">OP = OH/sin(θ) = 28,64 mm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
        d="m 65.179175,102.12909 v 46.30208"
@@ -701,15 +722,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="66.305992"
-       y="135.90486"
+       x="73.382927"
+       y="138.47192"
        id="text6159-0-7-3-2-7-3-8-2"
        inkscape:transform-center-x="-0.75300349"
        inkscape:transform-center-y="-8.9675871"><tspan
          sodipodi:role="line"
          style="stroke-width:0.0721792"
-         x="66.305992"
-         y="135.90486"
+         x="73.382927"
+         y="138.47192"
          id="tspan19781-3-2-9-9-6">I</tspan></text>
     <text
        xml:space="preserve"
@@ -722,10 +743,6 @@
          x="59.639801"
          y="122.60227"
          id="tspan19781-3-2-9-92">O'</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
-       d="m 62.233854,124.05507 2.945321,1.04299"
-       id="path29053" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker35225);marker-end:url(#marker35235)"
        d="m 57.150007,125.09806 v 11.47828"
@@ -740,7 +757,7 @@
          style="stroke-width:0.0721792"
          x="111.41759"
          y="120.94971"
-         id="tspan19781-3-3">OJ = OP/2 - 7,5 / tan(70,5°) = 11,67 mm</tspan></text>
+         id="tspan19781-3-3">OJ = OP/2 - (OI/2)/tan(θ) = 11,67 mm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 65.179175,125.09806 H 57.679174"
@@ -755,7 +772,39 @@
          style="stroke-width:0.0721792"
          x="111.41436"
          y="126.24146"
-         id="tspan19781-3-3-8">O'T = (27/sin(70,5°)-15/tan(70,5°))/6.0-7,5*sin(70,5°)) = -3,18 mm</tspan></text>
+         id="tspan19781-3-3-8">O'T = (OH/sin(θ)-OI/tan(θ))/6.0-OI*sin(θ))/2 = -3,18 mm</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect1039"
+       width="0.77929431"
+       height="0.91075391"
+       x="57.724285"
+       y="124.17387" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text22101"
+       style="line-height:1.25;font-family:sans-serif;font-size:10.66666667px;white-space:pre;shape-inside:url(#rect22103)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.679179,122.44217 7.499996,2.65589 h -7.499996 z"
+       id="path62268" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.233854,124.05506 -4.55468,12.52134"
+       id="path62697" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker35235);marker-end:url(#marker35225)"
+       d="m 54.089838,146.32225 2.945323,1.043"
+       id="path63360" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect11093-7"
+       width="0.53129971"
+       height="0.58762163"
+       x="-96.750389"
+       y="100.21008"
+       transform="rotate(-70.5)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -769,5 +818,13 @@
        height="68.791664"
        x="57.67918"
        y="102.12914" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
+       d="M 65.179175,125.09806 57.03516,147.36525"
+       id="path63744" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
+       d="m 57.786394,136.61431 -3.696558,9.70794"
+       id="path63746" />
   </g>
 </svg>
