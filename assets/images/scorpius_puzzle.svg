@@ -171,6 +171,44 @@
          cy="8.4845562"
          r="5.0000124" />
     </marker>
+    <rect
+       x="179.91667"
+       y="29.104168"
+       width="302.70432"
+       height="133.57312"
+       id="rect24-0" />
+    <rect
+       x="179.91667"
+       y="29.104168"
+       width="302.70432"
+       height="133.57312"
+       id="rect24-0-6" />
+    <marker
+       style="overflow:visible"
+       id="marker1506-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1504-9" />
+    </marker>
+    <rect
+       x="179.91667"
+       y="29.104168"
+       width="186.39419"
+       height="61.516853"
+       id="rect24-0-7" />
+    <rect
+       x="179.91667"
+       y="29.104168"
+       width="180.72618"
+       height="145.69073"
+       id="rect24-0-7-3" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -179,9 +217,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9662693"
-     inkscape:cx="588.3453"
-     inkscape:cy="254.06996"
+     inkscape:zoom="0.68325557"
+     inkscape:cx="354.91844"
+     inkscape:cy="179.28869"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -222,38 +260,48 @@
      inkscape:label="Dessin"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 195.43954,142.54494 18.87295,0.18867 1e-5,53.05805 z"
+       id="path25232" />
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 195.61155,46.63333 h 14.13414 l 2.65585,7.499999 -14.13523,-8e-6 z"
+       id="path50810" />
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 180.93232,67.633328 -4.81,-13.39374 8.06539,-7.1e-5 4.71808,13.323426 z"
+       id="path50517" />
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.321955,150.64997 -10.661149,-0.23431 0.03759,-29.76565 z"
+       id="path29085" />
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.321955,150.64997 104.38154,132.92351 110.85842,150.65 Z"
+       id="path28689" />
     <text
        xml:space="preserve"
-       id="text22"
-       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.37075798,0,0,0.39346055,-11.608445,77.410387)"><tspan
+       id="text22-8"
+       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24-0);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37075798,0,0,0.39346055,-57.644901,79.388505)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan14282">Grand coté = 30 mm
+         id="tspan54173">CJD is a triangle rectangle in J
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan14284">Coupé à 10% de la pente 
+         id="tspan54175">SIN(θ)=CD/JD
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan14286">OH = 27 mm
+         id="tspan54177">With JD=13,5 mm and θ=acos(1/3) this gives 
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan14288">Petit coté 
-</tspan><tspan
-         x="179.91602"
-         y="74.510826"
-         id="tspan14290">IJ = 15 mm
-</tspan><tspan
-         x="179.91602"
-         y="84.070556"
-         id="tspan14292">Plan de contact penché à 70,5° 
-</tspan><tspan
-         x="179.91602"
-         y="93.630287"
-         id="tspan14294">θ =acos(1/3)</tspan></text>
+         id="tspan54181"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan54179">CD=14,31891232 mm </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.083333,60.854167 -7.564296,-0.008 -7.564296,-0.008"
@@ -417,9 +465,10 @@
        id="path7332-1-6-2-3"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.33199998;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.33199998,0.33199998;stroke-dashoffset:0"
-       d="m 113.77083,105.83333 h 100"
-       id="path949" />
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.332, 0.332;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 106.99809,105.83333 h 100"
+       id="path949"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.33202802;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.33202802,0.33202802;stroke-dashoffset:0"
        d="m 113.77083,82.63333 h 100"
@@ -459,11 +508,6 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 193.62386,80.886371 212.40154,54.133329"
        id="path3197"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 193.62386,82.633329 18.78468,23.200001"
-       id="path4501"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.332028;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.332028, 1.32811;stroke-dashoffset:0;stroke-opacity:1"
@@ -506,24 +550,34 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
        x="181.41902"
-       y="14.105691"
+       y="12.188954"
        id="text6159-0-7"><tspan
          sodipodi:role="line"
          id="tspan6157-6-8"
          style="stroke-width:0.0721792"
          x="181.41902"
-         y="14.105691">14,8 mm</tspan></text>
+         y="12.188954">KI</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="181.41902"
+         y="15.797904"
+         id="tspan3262">14,8 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="200.40239"
-       y="13.985426"
+       x="200.12857"
+       y="12.342509"
        id="text6159-0-7-8"><tspan
          sodipodi:role="line"
          id="tspan6157-6-8-0"
          style="stroke-width:0.0721792"
-         x="200.40239"
-         y="13.985426">17,0 mm</tspan></text>
+         x="200.12857"
+         y="12.342509">CE</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="200.12857"
+         y="15.951459"
+         id="tspan4200">17,0 mm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1506)"
        d="M 223.77083,54.133329 V 81.13333"
@@ -554,116 +608,6 @@
          x="230.18843"
          y="67.81826"
          id="tspan19781">27,0 mm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.11667px;line-height:1;font-family:sans-serif;stroke-width:0.264583"
-       x="220.51282"
-       y="138.10416"
-       id="text7135-6"><tspan
-         sodipodi:role="line"
-         style="font-size:2.11667px;stroke-width:0.264583"
-         x="220.51282"
-         y="138.10416"
-         id="tspan59539-0"><tspan
-           id="tspan9879-1"
-           style="font-size:2.11667px">θ </tspan></tspan><tspan
-         sodipodi:role="line"
-         style="font-size:2.11667px;stroke-width:0.264583"
-         x="220.51282"
-         y="140.22083"
-         id="tspan59547-4"><tspan
-   id="tspan59549-7"
-   style="font-size:2.11667px">70,5°</tspan> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="54.173374"
-       y="122.11079"
-       id="text6159-0-7-3-2"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="54.173374"
-         y="122.11079"
-         id="tspan19781-3">OP = OH/sin(θ) = 28,64 mm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="170.94305"
-       y="148.1496"
-       id="text6159-0-7-3-2-7-2"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="170.94305"
-         y="148.1496"
-         id="tspan19781-3-2-6">O</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="224.99174"
-       y="127.06052"
-       id="text6159-0-7-3-2-7-3-1"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="224.99174"
-         y="127.06052"
-         id="tspan19781-3-2-9-3">H</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="194.92877"
-       y="148.11093"
-       id="text6159-0-7-3-2-7-3-7-9"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="194.92877"
-         y="148.11093"
-         id="tspan19781-3-2-9-4-2">J</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="193.68449"
-       y="111.85667"
-       id="text6159-0-7-3-2-7-3-8-2-4"
-       inkscape:transform-center-x="-0.75300349"
-       inkscape:transform-center-y="-8.9675871"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="193.68449"
-         y="111.85667"
-         id="tspan19781-3-2-9-9-6-0">I</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="199.78427"
-       y="138.06145"
-       id="text6159-0-7-3-2-7-3-0-7"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="199.78427"
-         y="138.06145"
-         id="tspan19781-3-2-9-92-5">O'</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="53.852787"
-       y="127.62807"
-       id="text6159-0-7-3-2-70"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="53.852787"
-         y="127.62807"
-         id="tspan19781-3-3">PJ = OP/2 + (IJ/2)/tan(θ) = 17,0 mm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="53.84956"
-       y="132.91983"
-       id="text6159-0-7-3-2-70-8"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.0721792"
-         x="53.84956"
-         y="132.91983"
-         id="tspan19781-3-3-8">O'T = (OH/sin(θ)-IJ/tan(θ))/6.0-IJ*sin(θ))/2 = -3,18 mm</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -719,92 +663,495 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 193.62386,80.88637 v 1.746959"
        id="path4461" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1039-1-0"
+       width="3.322403"
+       height="3.3794012"
+       x="-213.86523"
+       y="-140.09158"
+       ry="0"
+       transform="matrix(-0.33380686,-0.94264149,-0.94264149,0.33380686,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 177.4099,160.44914 25.02957,-8.86344 25.02957,-8.86343"
+       id="path10889-7"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:sans-serif;stroke-width:0.264583"
+       x="103.76725"
+       y="146.79663"
+       id="text7135-6-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="103.76725"
+         y="146.79663"
+         id="tspan59547-4-6">θ  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:sans-serif;stroke-width:0.264583"
+       x="47.793453"
+       y="147.04654"
+       id="text7135-6-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="47.793453"
+         y="147.04654"
+         id="tspan59547-4-6-5">θ  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="231.24284"
-       y="147.46599"
-       id="text6159-0-7-3-2-7-8-1"><tspan
+       x="41.870243"
+       y="118.9668"
+       id="text6159-0-7-3-2-7-2-0"><tspan
          sodipodi:role="line"
          style="stroke-width:0.0721792"
-         x="231.24284"
-         y="147.46599"
-         id="tspan19781-3-2-2-1">P</tspan></text>
+         x="41.870243"
+         y="118.9668"
+         id="tspan19781-3-2-6-4">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="100.07916"
+       y="119.03527"
+       id="text6159-0-7-3-2-7-2-0-1"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="100.07916"
+         y="119.03527"
+         id="tspan19781-3-2-6-4-5">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="54.584305"
+       y="153.62469"
+       id="text6159-0-7-3-2-7-2-0-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="54.584305"
+         y="153.62469"
+         id="tspan19781-3-2-6-4-1">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="105.01749"
+       y="128.80539"
+       id="text6159-0-7-3-2-7-3-7-9-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="105.01749"
+         y="128.80539"
+         id="tspan19781-3-2-9-4-2-8">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="41.958477"
+       y="153.27057"
+       id="text6159-0-7-3-2-7-3-8-2-4-9"
+       inkscape:transform-center-x="-0.75300349"
+       inkscape:transform-center-y="-8.9675871"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="41.958477"
+         y="153.27057"
+         id="tspan19781-3-2-9-9-6-0-3">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="112.23825"
+       y="152.94109"
+       id="text6159-0-7-3-2-7-8-1-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="112.23825"
+         y="152.94109"
+         id="tspan19781-3-2-2-1-3">C</tspan></text>
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       id="rect11093-3"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11093-3-2"
        width="2.6458333"
        height="2.6458333"
-       x="193.64822"
-       y="142.47818" />
+       x="43.681286"
+       y="147.78633" />
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       id="rect1039-1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1039-1-1"
        width="3.322403"
        height="3.3794012"
-       x="-198.0285"
-       y="-168.02994"
+       x="-163.46489"
+       y="-54.02359"
        ry="0"
        transform="matrix(-0.33380686,-0.94264149,-0.94264149,0.33380686,0,0)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 162.70299,115.17488 h 56.53656 l 10.6234,29.99999 -56.5364,-3e-5 z"
-       id="path2579-6-6-0-4" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 229.86296,145.17487 162.703,115.17488"
-       id="path2738-7-8-7" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 219.23956,115.17488 -45.913,29.99996"
-       id="path2740-5-5-6" />
+       d="m 43.698397,120.65001 h 56.536563 l 10.62346,29.99999 -56.536463,-3e-5 z"
+       id="path2579-6-6-0-4-8" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 173.32655,145.17484 25.02957,-8.86344 25.02957,-8.86343"
-       id="path10889"
+       d="m 54.321957,150.64997 25.029573,-8.86344 25.02959,-8.86343"
+       id="path10889-8"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path11660"
+       id="path11660-8"
        sodipodi:type="arc"
-       sodipodi:cx="-213.57837"
-       sodipodi:cy="-168.21831"
+       sodipodi:cx="-179.01476"
+       sodipodi:cy="-54.21196"
        sodipodi:rx="5.5427995"
        sodipodi:ry="5.4800429"
        sodipodi:start="0"
        sodipodi:end="1.2431134"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="m -208.03557,-168.21831 a 5.5427995,5.4800429 0 0 1 -3.75885,5.18846"
-       transform="matrix(-0.33380686,-0.94264149,-0.94264149,0.33380686,0,0)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 204.06772,152.1583 -5.31175,-14.99995"
-       id="path14407" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 198.76681,137.20466 -5.31175,-14.99995"
-       id="path14407-6" />
+       transform="matrix(-0.33380686,-0.94264149,-0.94264149,0.33380686,0,0)"
+       d="m -173.47196,-54.21196 a 5.5427995,5.4800429 0 0 1 -3.75884,5.188453" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 196.28301,142.74259 -1e-5,-12.5677 0.0376,-17.19795"
-       id="path14910"
+       d="m 43.660807,150.41566 -10e-6,-12.5677 0.0376,-17.19795"
+       id="path14910-9"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 196.283,130.17489 -25.09782,-4e-5"
-       id="path16184" />
+       d="m 54.17082,150.64999 -25.09778,-4e-5"
+       id="path16184-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path9312"
+       sodipodi:type="arc"
+       sodipodi:cx="-160.11473"
+       sodipodi:cy="-0.8387987"
+       sodipodi:rx="5.5427995"
+       sodipodi:ry="5.4800429"
+       sodipodi:start="0"
+       sodipodi:end="1.2431134"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       transform="matrix(-0.33380686,-0.94264149,-0.94264149,0.33380686,0,0)"
+       d="m -154.57193,-0.8387987 a 5.5427995,5.4800429 0 0 1 -3.75885,5.1884533" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1039-1-1-8"
+       width="3.322403"
+       height="3.3794012"
+       x="210.98941"
+       y="142.73331"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 246.13792,195.8388 -18.87229,-53.29371 -31.8254,1.5e-4 18.87226,53.29355 z"
+       id="path2579-6-6-0-4-8-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 214.31249,195.83879 1e-5,-26.55259 -1e-5,-26.55259"
+       id="path10889-8-8"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path11660-8-0"
+       sodipodi:type="arc"
+       sodipodi:cx="195.43954"
+       sodipodi:cy="142.54494"
+       sodipodi:rx="5.5427995"
+       sodipodi:ry="5.4800429"
+       sodipodi:start="0"
+       sodipodi:end="1.2431134"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 200.98234,142.54494 a 5.5427995,5.4800429 0 0 1 -3.75884,5.18845" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="196.96066"
-       y="128.00291"
-       id="text6159-0-7-3-2-7-3-8-7"><tspan
+       x="214.08029"
+       y="52.306995"
+       id="text6159-0-7-3-2-7-8-1-3-0"><tspan
          sodipodi:role="line"
          style="stroke-width:0.0721792"
-         x="196.96066"
-         y="128.00291"
-         id="tspan19781-3-2-9-9-4">T</tspan></text>
+         x="214.08029"
+         y="52.306995"
+         id="tspan19781-3-2-2-1-3-11">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="193.36346"
+       y="56.971405"
+       id="text6159-0-7-3-2-7-3-8-2-4-9-7"
+       inkscape:transform-center-x="-0.75300349"
+       inkscape:transform-center-y="-8.9675871"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="193.36346"
+         y="56.971405"
+         id="tspan19781-3-2-9-9-6-0-3-9">I</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 198.30415,54.239517 -2.71026,-7.606187 h 14.13144"
+       id="path27003" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="198.29431"
+       y="57.102375"
+       id="text6159-0-7-3-2-7-2-0-9-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="198.29431"
+         y="57.102375"
+         id="tspan19781-3-2-6-4-1-9">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="191.90938"
+       y="44.51078"
+       id="text6159-0-7-3-2-7-2-0-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="191.90938"
+         y="44.51078"
+         id="tspan19781-3-2-6-4-3">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="210.16872"
+       y="45.547344"
+       id="text6159-0-7-3-2-7-2-0-1-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="210.16872"
+         y="45.547344"
+         id="tspan19781-3-2-6-4-5-3">B</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.305514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1506)"
+       d="M 55.5625,108.47917 97.895833,142.875"
+       id="path28014"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.305514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1506-8)"
+       d="M 71.4375,171.97917 47.625,156.10417"
+       id="path28014-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text22-8-3"
+       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24-0-6);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37075798,0,0,0.39346055,11.24243,150.68261)"><tspan
+         x="179.91602"
+         y="36.271904"
+         id="tspan54183">AID is a triangle rectangle in I
+</tspan><tspan
+         x="179.91602"
+         y="45.831634"
+         id="tspan54185">TAN(θ)=AI/ID and ID=AI/TAN(θ)
+</tspan><tspan
+         x="179.91602"
+         y="55.391365"
+         id="tspan54187">With AI=7,5 mm and θ=acos(1/3) this gives 
+</tspan><tspan
+         x="179.91602"
+         y="64.951095"
+         id="tspan54189">ID=2,651650429 mm 
+</tspan><tspan
+         x="179.91602"
+         y="74.510826"
+         id="tspan54191">and 
+</tspan><tspan
+         x="179.91602"
+         y="84.070556"
+         id="tspan54195"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan54193">CI = CD+DI = 16,97056275 mm</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.12232,54.239588 4.74298,13.39374 8.06541,2e-6 h -7.99839 z"
+       id="path50110" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:sans-serif;stroke-width:0.264583"
+       x="200.99904"
+       y="147.22057"
+       id="text7135-6-2-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="200.99904"
+         y="147.22057"
+         id="tspan59547-4-6-7">θ  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="227.87263"
+       y="141.70021"
+       id="text6159-0-7-3-2-7-2-0-1-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="227.87263"
+         y="141.70021"
+         id="tspan19781-3-2-6-4-5-9">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="192.90306"
+       y="140.5984"
+       id="text6159-0-7-3-2-7-2-0-1-2-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="192.90306"
+         y="140.5984"
+         id="tspan19781-3-2-6-4-5-9-4">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="211.1566"
+       y="199.18597"
+       id="text6159-0-7-3-2-7-2-0-1-2-2-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="211.1566"
+         y="199.18597"
+         id="tspan19781-3-2-6-4-5-9-4-2">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="246.21202"
+       y="199.18597"
+       id="text6159-0-7-3-2-7-2-0-1-2-2-3-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="246.21202"
+         y="199.18597"
+         id="tspan19781-3-2-6-4-5-9-4-2-6">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="213.13745"
+       y="140.51582"
+       id="text6159-0-7-3-2-7-2-0-1-2-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="213.13745"
+         y="140.51582"
+         id="tspan19781-3-2-6-4-5-9-3">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="197.10855"
+       y="155.99014"
+       id="text6159-0-7-3-2-7-3-1-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="197.10855"
+         y="155.99014"
+         id="tspan19781-3-2-9-3-9">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="174.7484"
+       y="52.347866"
+       id="text6159-0-7-3-2-7-2-0-1-2-2-8"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="174.7484"
+         y="52.347866"
+         id="tspan19781-3-2-6-4-5-9-4-5">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="179.19035"
+       y="52.908558"
+       id="text6159-0-7-3-2-7-2-0-1-2-6-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="179.19035"
+         y="52.908558"
+         id="tspan19781-3-2-6-4-5-9-3-6">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="184.23645"
+       y="51.90239"
+       id="text6159-0-7-3-2-7-2-0-1-2-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0721792"
+         x="184.23645"
+         y="51.90239"
+         id="tspan19781-3-2-6-4-5-9-46">E</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text22-8-9"
+       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24-0-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37075798,0,0,0.39346055,75.309619,103.20427)"><tspan
+         x="179.91602"
+         y="36.271904"
+         id="tspan54197">The triangle EFL is same as AID
+</tspan><tspan
+         x="179.91602"
+         y="45.831634"
+         id="tspan54199">cos(θ) = ID/AD
+</tspan><tspan
+         x="179.91602"
+         y="55.391365"
+         id="tspan54201">AD = ID/cos(θ)
+</tspan><tspan
+         x="179.91602"
+         y="64.951095"
+         id="tspan54203">With ID = 2,651650429 mm  this gives 
+</tspan><tspan
+         x="179.91602"
+         y="74.510826"
+         id="tspan54205">EF = AD
+</tspan><tspan
+         x="179.91602"
+         y="84.070556"
+         id="tspan54209"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan54207">EF = 7,954951287 mm</tspan>
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text22-8-9-4"
+       style="font-style:normal;font-weight:normal;font-size:8.31281px;line-height:1.15;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24-0-7-3);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.37075798,0,0,0.39346055,159.33629,90.608575)"><tspan
+         x="179.91602"
+         y="36.271904"
+         id="tspan54211">The triangle GKF is rectangle in K
+</tspan><tspan
+         x="179.91602"
+         y="45.831634"
+         id="tspan54213">tan(θ) = GK/KF
+</tspan><tspan
+         x="179.91602"
+         y="55.391365"
+         id="tspan54215">KF = GK/tan(θ)
+</tspan><tspan
+         x="179.91602"
+         y="64.951095"
+         id="tspan54217">With GK = 13,5 mm and θ = acos(1/3) 
+</tspan><tspan
+         x="179.91602"
+         y="74.510826"
+         id="tspan54219">KF = 4,772970773 mm
+</tspan><tspan
+         x="179.91602"
+         y="84.070556"
+         id="tspan54221">EK = EF - EK
+</tspan><tspan
+         x="179.91602"
+         y="93.630287"
+         id="tspan54223">EK = 3,181980515 mm
+</tspan><tspan
+         x="179.91602"
+         y="103.19002"
+         id="tspan54225">KI = CD-ID+EK
+</tspan><tspan
+         x="179.91602"
+         y="112.74975"
+         id="tspan54229"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan54227">KI = 14,84924241 mm</tspan>
+</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 206.99809,105.83333 193.62386,82.633327"
+       id="path53388" />
   </g>
   <g
      inkscape:groupmode="layer"
