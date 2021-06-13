@@ -50,7 +50,7 @@ the dot product simplifies to cos(rotation)=1/3, meaning
 
 >I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face.
 
-The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this stange equivalence.
+The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this strange equivalence.
 
 ```
 2*arctan(1/√2)-arccos(1/3) = 0
