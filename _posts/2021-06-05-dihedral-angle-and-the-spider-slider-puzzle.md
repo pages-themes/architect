@@ -12,7 +12,7 @@ I have the **chance** to own a "scorpius slider spider puzzle", a piece of **woo
 
 I learnt reading [this article of Philippe Cichon](https://www.lairdubois.fr/creations/14279-le-scorpius.html) that it's a rare puzzle, very few makers exists.
 
-The shape is very cool and I tried to reproduce it on Shadertoy. For this I needed to understand the geometry in place here.
+The shape is very cool and I tried to reproduce it on Shadertoy. For this I needed to understand the geometry in place here, with only my elementary knowledge. 
 
 This video of Philippe Cichon shows how to mount and unmout it (in French)
 [Le Scorpius on Youtube](https://www.youtube.com/watch?time_continue=13&v=2orJ6rTSx2s&feature=emb_logo)
@@ -71,3 +71,6 @@ The polar repetition is based on non-overlapping domains, and the bending of the
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
 We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but time is missing.
 
+# More sources about the geometry
+
+[PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
