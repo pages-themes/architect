@@ -48,9 +48,19 @@ the dot product simplifies to cos(rotation)=1/3, meaning
     float r = acos(1./3.);
 ```
 
+>I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face.
+
+The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this stange equivalence.
+
+```
+2*arctan(1/√2)-arccos(1/3) = 0
+```
+
+[I verified with Wolfram](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
+
 # Position of the contact surfaces and pin point on each face
 
-One can find on [this schema](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg) the calculations using basic trigonomerty.
+One can find on [this schema](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg) the calculations using painfull but basic trigonomerty formulas.
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
 
