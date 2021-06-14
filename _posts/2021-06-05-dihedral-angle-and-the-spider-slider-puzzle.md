@@ -71,6 +71,15 @@ The polar repetition is based on non-overlapping domains, and the bending of the
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
 We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but time is missing.
 
-# More sources about the geometry
+# The Puzzling World of Polyhedral Dissections
+
+This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
+
+>The Puzzling World of Polyhedral Dissections was obviously not written by Stewart to get rich. Anyone who produces such works does it as a labor of love for a subject that is very dear to them. As puzzle collectors, we owe Stewart a huge debt of gratitude for sharing with us his knowledge about the mathematics, aesthetics and philosophy of geometric puzzles. If you enjoy it as much as I do, drop Stewart a line and thank him for his unselfish gesture.
+
+>So, during a recent visit with Stewart, I asked him what he thought about publishing it on the Internet. I hope you are as happy as I am that he said, "go for it!"
+
+>John Rausch
+>Oregonia, Ohio 1998
 
 [PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
