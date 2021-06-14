@@ -10,7 +10,7 @@ I have the **chance** to own a "scorpius slider spider puzzle", a piece of **woo
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
-I learnt reading [this article of Philippe Cichon](https://www.lairdubois.fr/creations/14279-le-scorpius.html) that it's a rare puzzle, very few makers exists.
+I learnt reading [Philippe Cichon's blog (French)](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1) that it's a rare puzzle, very few makers exists.
 
 The shape is very cool and I tried to reproduce it on Shadertoy. For this I needed to understand the geometry in place here, with only my elementary knowledge. 
 
@@ -83,3 +83,26 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 >Oregonia, Ohio 1998
 
 [PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
+
+# More about the Rhombic Dodecahedron
+
+[Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
+
+[Rhombic Dodecahedron SDF ](https://www.shadertoy.com/view/Wd2Gzt)
+
+```cpp
+float scene(vec3 p)
+{
+    // minified version
+    p = abs(p);
+    p += p.yzx;
+    return (max(max(p.x,p.y),p.z)-1.) * sqrt(.5);
+    
+    // initial version - intersection of 3 planes in a mirrored space
+    /*p = abs(p);
+    float a = dot(p,normalize(vec3(0,1,1)))-sqrt(2.)*.5;
+    float b = dot(p,normalize(vec3(1,0,1)))-sqrt(2.)*.5;
+    float c = dot(p,normalize(vec3(1,1,0)))-sqrt(2.)*.5;
+    return max(max(a,b),c);*/
+}
+```
