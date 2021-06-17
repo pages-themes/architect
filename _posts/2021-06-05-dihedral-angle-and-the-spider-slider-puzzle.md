@@ -86,11 +86,15 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 # More about the Rhombic Dodecahedron
 
+If you want to build a fantastic light using this geometric shape have a look at the youtube video below.
+
 [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
 
-Using this SDF from yx, I can verify that [he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm).
+[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm).
 
 ![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
+
+Using this SDF from yx, I can verify that. 
 
 [Rhombic Dodecahedron SDF](https://www.shadertoy.com/view/Wd2Gzt)
 
