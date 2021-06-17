@@ -94,6 +94,8 @@ Using this SDF from yx, I can verify that [he rhombic dodecahedron can be totall
 
 [Rhombic Dodecahedron SDF](https://www.shadertoy.com/view/Wd2Gzt)
 
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wd2Gzt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
 ```cpp
 float scene(vec3 p)
 {
