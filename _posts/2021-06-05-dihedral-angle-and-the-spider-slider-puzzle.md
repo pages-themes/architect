@@ -88,7 +88,11 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
 
-[Rhombic Dodecahedron SDF ](https://www.shadertoy.com/view/Wd2Gzt)
+Using this SDF from yx, I can verify that [he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm).
+
+![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
+
+[Rhombic Dodecahedron SDF](https://www.shadertoy.com/view/Wd2Gzt)
 
 ```cpp
 float scene(vec3 p)
@@ -106,3 +110,4 @@ float scene(vec3 p)
     return max(max(a,b),c);*/
 }
 ```
+
