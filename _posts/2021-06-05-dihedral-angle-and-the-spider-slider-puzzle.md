@@ -6,7 +6,7 @@ tags: shadertoy
 
 # What is this ?
 
-I have the **chance** to own a "scorpius slider spider puzzle", a piece of **wood art** bought 30 years ago.
+When I was a child, I had the chance to own a "scorpius slider spider puzzle", a piece of wood art bought 30 years ago.
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
@@ -116,4 +116,13 @@ float scene(vec3 p)
     return max(max(a,b),c);*/
 }
 ```
+
+I published the animation showing this neat fact and was happy to get some likes.  
+
+I also made an effort to extensibly comment the code, taking Shane as reference for the formatting.
+
+** Rhombic Dodecahedron Enclosing **
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slSGzy?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
 
