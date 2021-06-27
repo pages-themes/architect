@@ -11,3 +11,5 @@ Below alternative sites I noticed
     * Allow to make animations, ready to use templates available. Focus on animation.
 * https://www.vertexshaderart.com/
     * To learn about verted Shaders in GLSL, the sound texture offers a lot of possibilities.
+* https://neort.io/popular
+    * Digital artists can demonstrate their skills.
