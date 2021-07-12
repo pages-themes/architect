@@ -64,3 +64,5 @@ Here Shadertoy meets the Christalography science, where these lattices are named
 ![Lattice Framework](https://www.shadertoy.com/media/shaders/lttGDn.jpg)  
 **[Shane - Lattice Framework](https://www.shadertoy.com/view/lttGDn)** 
 
+> Here shane shows some great tricks to short code the map fonction, taking all the advandages of the geomery of the lattice.
+ 
