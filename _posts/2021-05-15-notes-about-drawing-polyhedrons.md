@@ -51,6 +51,10 @@ Tiling space is usually done using cubes, but it is also possible using truncate
 
 Here Shadertoy meets the Christalography science, where these lattices are named CC, FCC, BCC. [Cubic crystal system - Wikipedia](https://en.wikipedia.org/wiki/Cubic_crystal_system)
 
+* Primitive cubic (abbreviated cP and alternatively called simple cubic)
+* Body-centered cubic (abbreviated cI or bcc)
+* Face-centered cubic (abbreviated cF or fcc, and alternatively called cubic close-packed or ccp)
+
 ![CC / FCC / BCC Lattices](https://www.shadertoy.com/media/shaders/llfGRj.jpg)  
 **[CC / FCC / BCC Lattices ](https://www.shadertoy.com/view/llfGRj)** 
 
