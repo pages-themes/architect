@@ -47,7 +47,9 @@ Let's do it using a mesh.
 
 # Polyhedrons as Voronoi's cell for 3D lattices
 
-Tiling space with cubes, but possible also using truncated octahedrons and rhombic dodecahedrons.
+Tiling space is usually done using cubes, but it is also possible using truncated octahedrons and rhombic dodecahedrons.
+
+Here Shadertoy meets the Christalography science, where these lattices are named CC, FCC, BCC. [Cubic crystal system - Wikipedia](https://en.wikipedia.org/wiki/Cubic_crystal_system)
 
 ![CC / FCC / BCC Lattices](https://www.shadertoy.com/media/shaders/llfGRj.jpg)  
 **[CC / FCC / BCC Lattices ](https://www.shadertoy.com/view/llfGRj)** 
