@@ -45,3 +45,16 @@ Let's do it using a mesh.
 ![Rasterizer Icosdahedron](https://www.shadertoy.com/media/shaders/ftf3zn.jpg)  
 **[Rasterizer - Icosahedron](https://www.shadertoy.com/view/ftf3zn)** 
 
+# Polyhedrons as Voronoi's cell for 3D lattices
+
+Tiling space with cubes, but possible also using truncated octahedrons and rhombic dodecahedrons.
+
+![CC / FCC / BCC Lattices](https://www.shadertoy.com/media/shaders/llfGRj.jpg)  
+**[CC / FCC / BCC Lattices ](https://www.shadertoy.com/view/llfGRj)** 
+
+![Rhombic Dodecahedron Voxels](https://www.shadertoy.com/media/shaders/WdXBR8.jpg)  
+**[Spalmer - Rhombic Dodecahedron Voxels](https://www.shadertoy.com/view/WdXBR8)** 
+
+![Lattice Framework](https://www.shadertoy.com/media/shaders/lttGDn.jpg)  
+**[Shane - Lattice Framework](https://www.shadertoy.com/view/lttGDn)** 
+
