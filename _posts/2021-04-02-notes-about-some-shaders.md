@@ -4,7 +4,7 @@ title: Usefull notes about some Shaders
 tags: shadertoy
 ---
 
-I made a database of shaders I reviewed, but will prefer to make playlists in shadertoy instead.
+I made a database of shaders I reviewed, but will now prefer to make more playlists in shadertoy instead.
 
 * [Blog - Discovered Shadertoy](https://www.shadertoy.com/playlist/MXtXWl)
 >Inigo's impressive near 6 hours tutorial "LIVE Coding and Painting with Maths" available on Youtube

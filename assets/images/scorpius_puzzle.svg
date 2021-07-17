@@ -217,16 +217,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3665111"
-     inkscape:cx="844.12045"
-     inkscape:cy="526.52333"
+     inkscape:zoom="4.4507015"
+     inkscape:cx="260.52073"
+     inkscape:cy="209.51754"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -236,11 +236,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-object-midpoints="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-object-midpoints="false"
      inkscape:snap-nodes="true"
      inkscape:snap-global="true"
-     inkscape:snap-bbox="false">
+     inkscape:snap-bbox="false"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-grids="false">
     <inkscape:grid
        type="xygrid"
        id="grid10" />
@@ -287,25 +290,25 @@
        transform="matrix(0.37075798,0,0,0.39346055,-57.644901,79.388505)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan8633">CJD is a triangle rectangle in J
+         id="tspan3042">CJD is a triangle rectangle in J
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan8635">SIN(θ)=CD/JD
+         id="tspan3044">SIN(θ)=CD/JD
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan8637">CD=JD/SIN(θ)
+         id="tspan3046">CD=JD/SIN(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan8639">With JD=13,5 mm and θ=acos(1/3) this gives 
+         id="tspan3048">With JD=13,5 mm and θ=acos(1/3) this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan8643"><tspan
+         id="tspan3052"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan8641">CD=14,31891232 mm </tspan></tspan></text>
+           id="tspan3050">CD=14,31891232 mm </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.083333,60.854167 -7.564296,-0.008 -7.564296,-0.008"
@@ -457,11 +460,6 @@
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1472);marker-end:url(#marker1506)"
        d="M 59.53125,69.58542 H 74.083333"
        id="path67-28"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 66.145833,64.822917 v -7.9375"
-       id="path7332-1-6-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
@@ -941,33 +939,33 @@
        transform="matrix(0.37075798,0,0,0.39346055,11.24243,150.68261)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan8645">AID is a triangle rectangle in I
+         id="tspan3054">AID is a triangle rectangle in I
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan8647">TAN(θ)=AI/ID 
+         id="tspan3056">TAN(θ)=AI/ID 
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan8649">ID=AI/TAN(θ)
+         id="tspan3058">ID=AI/TAN(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan8651">With AI=7,5 mm and θ=acos(1/3) this gives 
+         id="tspan3060">With AI=7,5 mm and θ=acos(1/3) this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan8653">ID=2,651650429 mm 
+         id="tspan3062">ID=2,651650429 mm 
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan8655">and 
+         id="tspan3064">and 
 </tspan><tspan
          x="179.91602"
          y="93.630287"
-         id="tspan8659"><tspan
+         id="tspan3068"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan8657">CI = CD+DI = 16,97056275 mm</tspan></tspan></text>
+           id="tspan3066">CI = CD+DI = 16,97056275 mm</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 176.12232,54.239588 4.74298,13.39374 8.06541,2e-6 h -7.99839 z"
@@ -1089,29 +1087,29 @@
        transform="matrix(0.37075798,0,0,0.39346055,75.309619,103.20427)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan8661">The triangle EFL is same as AID
+         id="tspan3070">The triangle EFL is same as AID
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan8663">cos(θ) = ID/AD
+         id="tspan3072">cos(θ) = ID/AD
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan8665">AD = ID/cos(θ)
+         id="tspan3074">AD = ID/cos(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan8667">With ID = 2,651650429 mm  this gives 
+         id="tspan3076">With ID = 2,651650429 mm  this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan8669">EF = AD
+         id="tspan3078">EF = AD
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan8673"><tspan
+         id="tspan3082"><tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan8671">EF = 7,954951287 mm</tspan>
+   id="tspan3080">EF = 7,954951287 mm</tspan>
 </tspan></text>
     <text
        xml:space="preserve"
@@ -1120,46 +1118,112 @@
        transform="matrix(0.37075798,0,0,0.39346055,159.33629,90.608575)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan8675">The triangle GKF is rectangle in K
+         id="tspan3084">The triangle GKF is rectangle in K
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan8677">tan(θ) = GK/KF
+         id="tspan3086">tan(θ) = GK/KF
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan8679">KF = GK/tan(θ)
+         id="tspan3088">KF = GK/tan(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan8681">With GK = 13,5 mm and θ = acos(1/3) 
+         id="tspan3090">With GK = 13,5 mm and θ = acos(1/3) 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan8683">KF = 4,772970773 mm
+         id="tspan3092">KF = 4,772970773 mm
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan8685">EK = EF - EK
+         id="tspan3094">EK = EF - EK
 </tspan><tspan
          x="179.91602"
          y="93.630287"
-         id="tspan8687">EK = 3,181980515 mm
+         id="tspan3096">EK = 3,181980515 mm
 </tspan><tspan
          x="179.91602"
          y="103.19002"
-         id="tspan8689">KI = CD-ID+EK
+         id="tspan3098">KI = CD-ID+EK
 </tspan><tspan
          x="179.91602"
          y="112.74975"
-         id="tspan8693"><tspan
+         id="tspan3102"><tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan8691">KI = 14,84924241 mm</tspan>
+   id="tspan3100">KI = 14,84924241 mm</tspan>
 </tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 206.99809,105.83333 193.62386,82.633327"
        id="path53388" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 287.33747,29.104166 H 237.06664"
+       id="path1443" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.793749;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 263.52497,2.6458333 V 55.562499"
+       id="path1445" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.31499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 263.52497,29.104166 h 15"
+       id="path1447" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.276469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 263.52498,29.104167 V 3.1041663 l 14.99999,25.9999997"
+       id="path1562" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.02497,16.113785 7.5,12.990381 15.01667,-25.9903722 -22.51667,12.9999912"
+       id="path2852"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.02497,42.094547 7.5,-12.990381 -30.01666,-0.0096 22.51666,13.000011"
+       id="path2852-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 275.16666,29.104166 c -0.50319,-1.442323 -0.15873,-2.473993 1.78195,-2.732364"
+       id="path3695"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="269.95667"
+       y="27.237206"
+       id="text11194"><tspan
+         sodipodi:role="line"
+         id="tspan11192"
+         style="stroke-width:0.264583"
+         x="269.95667"
+         y="27.237206">60° </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 248.52493,29.104166 h 30.00004"
+       id="path13422" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 262.20205,29.104166 v 5.613207"
+       id="path13424" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.02496,29.104166 v 5.553761"
+       id="path13619" />
+    <path
+       style="fill:#e3e3e3;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 74.083332,60.854166 V 39.6875 H 71.437499 L 59.12645,60.838349 Z"
+       id="path1376" />
+    <path
+       style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 281.6994,72.052038 V 50.885372 h -2.64583 l -12.31105,21.150849 z"
+       id="path1376-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.265,0.265;stroke-dashoffset:0"
+       d="m 66.60489,60.846258 0.03582,3.832685"
+       id="path2809" />
   </g>
   <g
      inkscape:groupmode="layer"

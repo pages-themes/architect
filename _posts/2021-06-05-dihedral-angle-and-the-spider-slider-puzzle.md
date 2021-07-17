@@ -26,17 +26,25 @@ All pieces have a triangular section, with angles 30, 60 and 90 degres, this is 
 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+# Calculation of the angle to bend the pieces
 
-# Calculation of the bend angle
+A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angle between two intersecting planes
 
-When assembled, the Dihedral angle of the planes formed by the **connected faces** of one piece and the next one should be 90 degres, in order to get this **4 times** rotation symetry.
+When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
 
-The [Dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is **cos(angle) = dot(n1,n2)**. n1 and n2 are the normals of the planes.
+The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 and n2 identifying the normals of the planes.
 - we want the angle between the faces to be 90 degres
 - as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
 
-We can compute that  
+![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
+
+Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute that 
+
+![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_angle.svg)
+
+![preview](https://sylvain69780.github.io/assets/images/dihedral_faces.png)
+
+
 ```
 n1 = vec3(-sqrt(3),1/2,0)  
 n2 = vec3(-cos(rotation)* sqrt(3)/2,-1/2,-sin(rotation)*sqrt(3)/2)
@@ -47,31 +55,40 @@ the dot product simplifies to cos(rotation)=1/3, meaning
     // This is the first key value to build the puzzle
     float r = acos(1./3.);
 ```
+And it works !
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 >I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face.
 
-The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this strange equivalence.
+The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence.
 
 ```
 2*arctan(1/√2)-arccos(1/3) = 0
 ```
 
-[I verified with Wolfram](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
+[Check with Wolfram](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
 
 # Position of the contact surfaces and pin point on each face
+
+Compute the bend angle between two pieces is good but not enough.
 
 One can find on [this schema](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg) the calculations using painfull but basic trigonomerty formulas.
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
+
+
 
 # Is it possible to use polar domain repetition ?
 
 Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
 The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans.  
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
-We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but time is missing.
+We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but may be later.
 
 # The Puzzling World of Polyhedral Dissections
+
+With Philippe Cichon's blog, I discovered an incredible book available online for free.
 
 This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
 
@@ -84,13 +101,13 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 [PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
 
+[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
+
 # More about the Rhombic Dodecahedron
 
 If you want to build a fantastic light using this geometric shape have a look at the youtube video below.
 
 [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
-
-[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm).
 
 ![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
 
@@ -121,7 +138,7 @@ I published the animation showing this neat fact and was happy to get some likes
 
 I also made an effort to extensibly comment the code, taking Shane as reference for the formatting.
 
-** Rhombic Dodecahedron Enclosing **
+**Rhombic Dodecahedron Enclosing**
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slSGzy?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 

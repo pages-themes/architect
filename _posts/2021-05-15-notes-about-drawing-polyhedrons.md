@@ -64,5 +64,6 @@ Here Shadertoy meets the Christalography science, where these lattices are named
 ![Lattice Framework](https://www.shadertoy.com/media/shaders/lttGDn.jpg)  
 **[Shane - Lattice Framework](https://www.shadertoy.com/view/lttGDn)** 
 
-> Here shane shows some great tricks to short code the map fonction, taking all the advandages of the geomery of the lattice.
- 
+> Here shane shows some great tricks to short code the map fonction, taking all the advandages of the geomery of the lattice, combining distances to create more shapes. No UV coordinates are used for textures, only triplanar mapping using hit point coordinates and the normal. Powerfull. Beautyfull.
+
+
