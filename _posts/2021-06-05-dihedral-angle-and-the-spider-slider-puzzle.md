@@ -21,45 +21,44 @@ This video of Philippe Cichon shows how to mount and unmout it (in French)
 
 What fascinated me is the rotation angle needed to bend each little piece when mounting the puzzle.
 
-Refering to the article on "L'air du bois", this bend angle is 70 degres, but why this value ?  
-All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all pieces are connected with a symetry of 90 degres around a central point.
+Refering to the article on [Philippe Cichon's blog (French)](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1), this bend angle is 70 degres, but why this value ?  
+All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all 4 pieces are connected with a polar symetry of 90 degres around a central point.
 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
 
 # Calculation of the angle to bend the pieces
 
-A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angle between two intersecting planes
-
-When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
-
-The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 and n2 identifying the normals of the planes.
-- we want the angle between the faces to be 90 degres
-- as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
-
 ![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
 
-Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute that 
+A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angle between two intersecting planes
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_angle.svg)
 
+When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
+
+The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 and n2 identifying the normals of the planes of 2 faces rotating.
+- we want the angle between the faces to be 90 degres
+- as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
+
+Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute that 
+
 ![preview](https://sylvain69780.github.io/assets/images/dihedral_faces.png)
 
+```
+// looking for r
+n1 = vec3(-sqrt(3)/2.0,1/2,0)  
+n2 = vec3(-cos(r)* sqrt(3)/2,-1/2,-sin(r)*sqrt(3)/2)
 
+dot(n1,n2) = 3/4*cos(r) - 1/4 
 ```
-n1 = vec3(-sqrt(3),1/2,0)  
-n2 = vec3(-cos(rotation)* sqrt(3)/2,-1/2,-sin(rotation)*sqrt(3)/2)
-```
-the dot product simplifies to cos(rotation)=1/3, meaning 
+the dot product simplifies to cos(r)=1/3, meaning 
 ```
     // Bend angle of approx 70,52877937 degres
     // This is the first key value to build the puzzle
     float r = acos(1./3.);
 ```
-And it works !
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
->I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face.
+>I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
 The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence.
 
@@ -67,7 +66,14 @@ The French version says that it's value is **2*arctan(1/√2)** and it appears t
 2*arctan(1/√2)-arccos(1/3) = 0
 ```
 
-[Check with Wolfram](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
+[Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
+
+# Position the pieces on the Rhombic dodecahedron
+
+    float edge = (1.0/sin(r/2.0))*.5;  // length of the edge of the rhombus 
+    float scale = edge*cos(PI/2.0-r); // base of the equilateral triangle
+
+    
 
 # Position of the contact surfaces and pin point on each face
 
@@ -77,6 +83,9 @@ One can find on [this schema](https://sylvain69780.github.io/assets/images/scorp
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
 
+And it works !
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 
 # Is it possible to use polar domain repetition ?

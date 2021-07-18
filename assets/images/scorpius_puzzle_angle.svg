@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6708955"
-     inkscape:cx="367.85416"
-     inkscape:cy="105.02096"
+     inkscape:zoom="1.3354477"
+     inkscape:cx="314.12687"
+     inkscape:cy="22.838783"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1358"
@@ -167,6 +167,34 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3210" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22764-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22764-2" />
     </marker>
   </defs>
   <g
@@ -310,6 +338,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="92.812012"
+       y="22.186481"
+       id="text6159-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan6157-6-1"
+         style="stroke-width:0.0721792"
+         x="92.812012"
+         y="22.186481">n1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
        x="27.665545"
        y="19.944233"
        id="text6159-2"><tspan
@@ -402,6 +441,17 @@
          y="54.009689">face 1 </tspan></text>
     <text
        xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="71.131844"
+       y="37.881428"
+       id="text11194-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan11192-7-2"
+         style="font-size:2.11667px;stroke-width:0.264583"
+         x="71.131844"
+         y="37.881428">face 4 </tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:2.82223px;line-height:0.55;font-family:sans-serif;stroke-width:0.264583"
        x="21.500717"
        y="28.58366"
@@ -413,11 +463,6 @@
          y="28.58366"><tspan
    style="font-size:2.11667px"
    id="tspan18359">face 2</tspan> </tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 90.16473,47.768302 c 1.65232,-8.707235 7.70726,-6.307259 7.56509,-0.175118"
-       id="path22544"
-       sodipodi:nodetypes="cc" />
     <g
        id="g1650">
       <path
@@ -429,5 +474,24 @@
          d="M 143.70652,17.955886 V 59.984187"
          id="path978" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 96.371662,27.870793 -6.215766,-4.11955"
+       id="path1990" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-0)"
+       d="m 94.204313,44.758366 -6.215734,4.11955"
+       id="path1990-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="87.346634"
+       y="45.829769"
+       id="text6159-0-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan6157-6-1-0"
+         style="stroke-width:0.0721792"
+         x="87.346634"
+         y="45.829769">n2</tspan></text>
   </g>
 </svg>
