@@ -4,7 +4,8 @@ title: "Dihedral angle and the scorpius spider slider puzzle"
 tags: shadertoy
 ---
 
-# What is this ?
+# Dihedral angle and the scorpius spider slider puzzle
+## What is this ?
 
 When I was a child, I had the chance to own a "scorpius slider spider puzzle", a piece of wood art bought 30 years ago.
 
@@ -17,7 +18,7 @@ The shape is very cool and I tried to reproduce it on Shadertoy. For this I need
 This video of Philippe Cichon shows how to mount and unmout it (in French)
 [Le Scorpius on Youtube](https://www.youtube.com/watch?time_continue=13&v=2orJ6rTSx2s&feature=emb_logo)
 
-# The Dihedrial angle problem
+## Calculation of the angle to bend the pieces : The Dihedrial angle
 
 What fascinated me is the rotation angle needed to bend each little piece when mounting the puzzle.
 
@@ -25,8 +26,6 @@ Refering to the article on [Philippe Cichon's blog (French)](https://puzzles-et-
 All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all 4 pieces are connected with a polar symetry of 90 degres around a central point.
 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
-
-# Calculation of the angle to bend the pieces
 
 ![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
 
@@ -68,14 +67,14 @@ The French version says that it's value is **2*arctan(1/√2)** and it appears t
 
 [Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
 
-# Position the pieces on the Rhombic dodecahedron
+## Position the pieces on the Rhombic dodecahedron
 
     float edge = (1.0/sin(r/2.0))*.5;  // length of the edge of the rhombus 
     float scale = edge*cos(PI/2.0-r); // base of the equilateral triangle
 
     
 
-# Position of the contact surfaces and pin point on each face
+## Position of the contact surfaces and pin point on each face
 
 Compute the bend angle between two pieces is good but not enough.
 
@@ -88,14 +87,14 @@ And it works !
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 
-# Is it possible to use polar domain repetition ?
+## Is it possible to use polar domain repetition ?
 
 Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
 The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans.  
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
 We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but may be later.
 
-# The Puzzling World of Polyhedral Dissections
+## The Puzzling World of Polyhedral Dissections
 
 With Philippe Cichon's blog, I discovered an incredible book available online for free.
 
@@ -112,7 +111,7 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 [he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
 
-# More about the Rhombic Dodecahedron
+## More about the Rhombic Dodecahedron
 
 If you want to build a fantastic light using this geometric shape have a look at the youtube video below.
 
