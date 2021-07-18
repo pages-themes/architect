@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="104.69321mm"
-   height="69.313858mm"
-   viewBox="0 0 104.69321 69.313858"
+   width="132.09335mm"
+   height="85.161751mm"
+   viewBox="0 0 132.09336 85.161751"
    version="1.1"
    id="svg1117"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8886083"
-     inkscape:cx="202.53008"
-     inkscape:cy="156.99391"
+     inkscape:cx="294.66142"
+     inkscape:cy="196.1762"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1358"
@@ -152,12 +152,40 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1140" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker35235"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path35233" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1884"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1882" />
+    </marker>
   </defs>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.9312317,-5.0133423)">
+     transform="translate(7.2298326,2.5439488)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 51.291874,60.798931 -7.5643,-0.008 -7.56429,-0.008"
@@ -263,46 +291,95 @@
          x="37.873028"
          y="73.904274"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New'"
-           id="tspan8592">l</tspan><tspan
+           id="tspan8592">f1=l</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="tspan30570">=15,0 mm</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="16.145048"
-       y="6.841783"
+       x="51.80846"
+       y="63.29422"
+       id="text6159-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan6157-74-0"
+         style="stroke-width:0.0721792"
+         x="51.80846"
+         y="63.29422">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="64.419884"
+       y="63.228489"
+       id="text6159-7-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan6157-74-0-7"
+         style="stroke-width:0.0721792"
+         x="64.419884"
+         y="63.228489">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="51.87624"
+       y="45.735374"
+       id="text6159-7-2-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan6157-74-0-7-3"
+         style="stroke-width:0.0721792"
+         x="51.87624"
+         y="45.735374">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
+       x="-3.7476363"
+       y="1.5029465"
        id="text6159-7-9"><tspan
          sodipodi:role="line"
          id="tspan6157-74-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
-         x="16.145048"
-         y="6.841783">c=10% (capping percentage, adds complexity)</tspan><tspan
+         x="-3.7476363"
+         y="1.5029465">l is the base unit (15 mm here)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
-         x="16.145048"
-         y="10.515846"
+         x="-3.7476363"
+         y="5.1770101"
+         id="tspan139327">c = 10% (capping percentage, adds complexity)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
+         x="-3.7476363"
+         y="8.8510733"
          id="tspan73043">k = square root of 3 = 1,732 </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
-         x="16.145048"
-         y="14.18991"
-         id="tspan91485">height of the equilateral triangle</tspan></text>
+         x="-3.7476363"
+         y="12.525137"
+         id="tspan91485">height of the equilateral triangle</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
+         x="-3.7476363"
+         y="16.1992"
+         id="tspan139329">diameters of holes and pins can be 6,0 mm, drilling no more than 10,0 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
-       x="21.877501"
+       x="18.702497"
        y="40.862713"
-       id="text6159-9"><tspan
+       id="text6159-9"
+       inkscape:transform-center-x="1.9613208"><tspan
          sodipodi:role="line"
          id="tspan6157-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
-         x="21.877501"
+         x="18.702497"
          y="40.862713">27,0 mm</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
-         x="21.877501"
+         x="18.702497"
          y="44.536777"
-         id="tspan97298">l*2*(1-c)</tspan></text>
+         id="tspan97298">f2=</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.88716px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0721792"
+         x="18.702497"
+         y="48.210838"
+         id="tspan147371">l*2*(1-c)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.88716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0721792"
@@ -426,5 +503,32 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="M 26.84434,20.917585 11.954718,46.707159"
        id="path131379" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.872305,51.269795 1.202701,0.694378 1.114859,-1.930993 -1.195893,-0.690451 v 0"
+       id="path137920" />
+    <path
+       style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.612713,60.789749 2.22972,0.0024 v 1.379722 h -2.22972 z"
+       id="path138115" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26904px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect138748"
+       width="131.82431"
+       height="84.892708"
+       x="-7.0953126"
+       y="-2.4094288" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35235)"
+       d="m 51.291874,60.798951 14.74281,0.05826"
+       id="path1462"
+       inkscape:transform-center-x="-7.3714055"
+       inkscape:transform-center-y="0.02913" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35235)"
+       d="M 51.291874,60.798951 51.350133,46.05614"
+       id="path1577"
+       inkscape:transform-center-x="-0.02913"
+       inkscape:transform-center-y="-7.3714055" />
   </g>
 </svg>

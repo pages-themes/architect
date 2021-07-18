@@ -217,9 +217,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.4507015"
-     inkscape:cx="260.52073"
-     inkscape:cy="209.51754"
+     inkscape:zoom="2.2253508"
+     inkscape:cx="230.75014"
+     inkscape:cy="227.1552"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -243,7 +243,8 @@
      inkscape:snap-bbox="false"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="false"
+     inkscape:snap-center="true">
     <inkscape:grid
        type="xygrid"
        id="grid10" />
@@ -290,25 +291,25 @@
        transform="matrix(0.37075798,0,0,0.39346055,-57.644901,79.388505)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan3042">CJD is a triangle rectangle in J
+         id="tspan1812">CJD is a triangle rectangle in J
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan3044">SIN(θ)=CD/JD
+         id="tspan1814">SIN(θ)=CD/JD
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan3046">CD=JD/SIN(θ)
+         id="tspan1816">CD=JD/SIN(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan3048">With JD=13,5 mm and θ=acos(1/3) this gives 
+         id="tspan1818">With JD=13,5 mm and θ=acos(1/3) this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan3052"><tspan
+         id="tspan1822"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan3050">CD=14,31891232 mm </tspan></tspan></text>
+           id="tspan1820">CD=14,31891232 mm </tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.296975px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.083333,60.854167 -7.564296,-0.008 -7.564296,-0.008"
@@ -939,33 +940,33 @@
        transform="matrix(0.37075798,0,0,0.39346055,11.24243,150.68261)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan3054">AID is a triangle rectangle in I
+         id="tspan1824">AID is a triangle rectangle in I
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan3056">TAN(θ)=AI/ID 
+         id="tspan1826">TAN(θ)=AI/ID 
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan3058">ID=AI/TAN(θ)
+         id="tspan1828">ID=AI/TAN(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan3060">With AI=7,5 mm and θ=acos(1/3) this gives 
+         id="tspan1830">With AI=7,5 mm and θ=acos(1/3) this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan3062">ID=2,651650429 mm 
+         id="tspan1832">ID=2,651650429 mm 
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan3064">and 
+         id="tspan1834">and 
 </tspan><tspan
          x="179.91602"
          y="93.630287"
-         id="tspan3068"><tspan
+         id="tspan1838"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan3066">CI = CD+DI = 16,97056275 mm</tspan></tspan></text>
+           id="tspan1836">CI = CD+DI = 16,97056275 mm</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 176.12232,54.239588 4.74298,13.39374 8.06541,2e-6 h -7.99839 z"
@@ -1087,29 +1088,29 @@
        transform="matrix(0.37075798,0,0,0.39346055,75.309619,103.20427)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan3070">The triangle EFL is same as AID
+         id="tspan1840">The triangle EFL is same as AID
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan3072">cos(θ) = ID/AD
+         id="tspan1842">cos(θ) = ID/AD
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan3074">AD = ID/cos(θ)
+         id="tspan1844">AD = ID/cos(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan3076">With ID = 2,651650429 mm  this gives 
+         id="tspan1846">With ID = 2,651650429 mm  this gives 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan3078">EF = AD
+         id="tspan1848">EF = AD
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan3082"><tspan
+         id="tspan1852"><tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan3080">EF = 7,954951287 mm</tspan>
+   id="tspan1850">EF = 7,954951287 mm</tspan>
 </tspan></text>
     <text
        xml:space="preserve"
@@ -1118,41 +1119,41 @@
        transform="matrix(0.37075798,0,0,0.39346055,159.33629,90.608575)"><tspan
          x="179.91602"
          y="36.271904"
-         id="tspan3084">The triangle GKF is rectangle in K
+         id="tspan1854">The triangle GKF is rectangle in K
 </tspan><tspan
          x="179.91602"
          y="45.831634"
-         id="tspan3086">tan(θ) = GK/KF
+         id="tspan1856">tan(θ) = GK/KF
 </tspan><tspan
          x="179.91602"
          y="55.391365"
-         id="tspan3088">KF = GK/tan(θ)
+         id="tspan1858">KF = GK/tan(θ)
 </tspan><tspan
          x="179.91602"
          y="64.951095"
-         id="tspan3090">With GK = 13,5 mm and θ = acos(1/3) 
+         id="tspan1860">With GK = 13,5 mm and θ = acos(1/3) 
 </tspan><tspan
          x="179.91602"
          y="74.510826"
-         id="tspan3092">KF = 4,772970773 mm
+         id="tspan1862">KF = 4,772970773 mm
 </tspan><tspan
          x="179.91602"
          y="84.070556"
-         id="tspan3094">EK = EF - EK
+         id="tspan1864">EK = EF - EK
 </tspan><tspan
          x="179.91602"
          y="93.630287"
-         id="tspan3096">EK = 3,181980515 mm
+         id="tspan1866">EK = 3,181980515 mm
 </tspan><tspan
          x="179.91602"
          y="103.19002"
-         id="tspan3098">KI = CD-ID+EK
+         id="tspan1868">KI = CD-ID+EK
 </tspan><tspan
          x="179.91602"
          y="112.74975"
-         id="tspan3102"><tspan
+         id="tspan1872"><tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan3100">KI = 14,84924241 mm</tspan>
+   id="tspan1870">KI = 14,84924241 mm</tspan>
 </tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1224,6 +1225,18 @@
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.265,0.265;stroke-dashoffset:0"
        d="m 66.60489,60.846258 0.03582,3.832685"
        id="path2809" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35235)"
+       d="m 74.083332,60.854166 14.742811,0.05826"
+       id="path1462"
+       inkscape:transform-center-x="-7.3714055"
+       inkscape:transform-center-y="0.02913" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35235)"
+       d="m 74.083332,60.854166 0.05826,-14.742811"
+       id="path1577"
+       inkscape:transform-center-x="-0.02913"
+       inkscape:transform-center-y="-7.3714055" />
   </g>
   <g
      inkscape:groupmode="layer"
