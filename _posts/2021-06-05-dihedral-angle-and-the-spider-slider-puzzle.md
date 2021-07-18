@@ -11,7 +11,7 @@ When I was a child, I had the chance to own a "scorpius slider spider puzzle", a
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
-I learnt reading [Philippe Cichon's blog (French)](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1) that it's a rare puzzle, very few makers exists.
+I learnt reading [Philippe Cichon's blog](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1) that it's a rare puzzle, very few makers exists.
 
 The shape is very cool and I tried to reproduce it on Shadertoy. For this I needed to understand the geometry in place here, with only my elementary knowledge. 
 
@@ -25,7 +25,7 @@ What fascinated me is the rotation angle needed to bend each little piece when m
 Refering to the article on [Philippe Cichon's blog (French)](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1), this bend angle is 70 degres, but why this value ?  
 All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all 4 pieces are connected with a polar symetry of 90 degres around a central point.
 
-I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. It was not so easy.
+I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. Below my try for an explanation.
 
 ![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
 
@@ -41,8 +41,6 @@ The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 
 
 Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute that 
 
-![preview](https://sylvain69780.github.io/assets/images/dihedral_faces.png)
-
 ```
 // looking for r
 n1 = vec3(-sqrt(3)/2.0,1/2,0)  
@@ -56,6 +54,8 @@ the dot product simplifies to cos(r)=1/3, meaning
     // This is the first key value to build the puzzle
     float r = acos(1./3.);
 ```
+
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 >I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
