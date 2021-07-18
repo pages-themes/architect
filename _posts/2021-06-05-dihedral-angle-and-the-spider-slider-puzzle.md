@@ -28,10 +28,13 @@ All pieces have a triangular section, with angles 30, 60 and 90 degres, this is 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. Below my try for an explanation.
 
 ![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
+>Philippe's picture with the numbering of the faces, I will keep this convention here.
 
 A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angle between two intersecting planes
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_angle.svg)
+
+![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_face1.svg)
 
 When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
 
@@ -39,7 +42,7 @@ The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 
 - we want the angle between the faces to be 90 degres
 - as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
 
-Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute that 
+Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute like below.
 
 ```
 // looking for r
@@ -55,8 +58,6 @@ the dot product simplifies to cos(r)=1/3, meaning
     float r = acos(1./3.);
 ```
 
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
 >I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
 The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence.
@@ -67,7 +68,30 @@ The French version says that it's value is **2*arctan(1/√2)** and it appears t
 
 [Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
 
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+
+>When assembling the Sticks 4 by for, the 90° rotation symetry is clearly visible.
+
+## The Puzzling World of Polyhedral Dissections
+
+With Philippe Cichon's blog, I discovered an incredible book available online for free.
+
+This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
+
+>The Puzzling World of Polyhedral Dissections was obviously not written by Stewart to get rich. Anyone who produces such works does it as a labor of love for a subject that is very dear to them. As puzzle collectors, we owe Stewart a huge debt of gratitude for sharing with us his knowledge about the mathematics, aesthetics and philosophy of geometric puzzles. If you enjoy it as much as I do, drop Stewart a line and thank him for his unselfish gesture.
+
+>So, during a recent visit with Stewart, I asked him what he thought about publishing it on the Internet. I hope you are as happy as I am that he said, "go for it!"
+
+>John Rausch
+>Oregonia, Ohio 1998
+
+[PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
+
+[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
+
 ## Position the pieces on the Rhombic dodecahedron
+
+The face 1 is for me where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. Let's have our coordinates system start in the square angle edge of the face 1.
 
     float edge = (1.0/sin(r/2.0))*.5;  // length of the edge of the rhombus 
     float scale = edge*cos(PI/2.0-r); // base of the equilateral triangle
@@ -93,23 +117,6 @@ Domain repetition enables to compute a shape only once by defining repetition do
 The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans.  
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
 We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but may be later.
-
-## The Puzzling World of Polyhedral Dissections
-
-With Philippe Cichon's blog, I discovered an incredible book available online for free.
-
-This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
-
->The Puzzling World of Polyhedral Dissections was obviously not written by Stewart to get rich. Anyone who produces such works does it as a labor of love for a subject that is very dear to them. As puzzle collectors, we owe Stewart a huge debt of gratitude for sharing with us his knowledge about the mathematics, aesthetics and philosophy of geometric puzzles. If you enjoy it as much as I do, drop Stewart a line and thank him for his unselfish gesture.
-
->So, during a recent visit with Stewart, I asked him what he thought about publishing it on the Internet. I hope you are as happy as I am that he said, "go for it!"
-
->John Rausch
->Oregonia, Ohio 1998
-
-[PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
-
-[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
 
 ## More about the Rhombic Dodecahedron
 
