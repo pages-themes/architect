@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.83039936"
-     inkscape:cx="243.85857"
-     inkscape:cy="276.37304"
+     inkscape:zoom="1.4361764"
+     inkscape:cx="466.86464"
+     inkscape:cy="276.08028"
      inkscape:window-width="1366"
      inkscape:window-height="715"
      inkscape:window-x="-8"
@@ -34,7 +34,7 @@
      inkscape:current-layer="layer1"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="true" />
@@ -632,5 +632,81 @@
        height="137.96768"
        x="15.245464"
        y="6.6983199" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
+       d="m 100.94721,42.789847 h 56.20441"
+       id="path1006" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26499999,0.26499999;stroke-dashoffset:0"
+       d="M 108.44723,54.455384 H 156.9674"
+       id="path1008" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
+       d="M 121.94717,57.631165 H 156.9674"
+       id="path1010" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26499999,0.26499999;stroke-dashoffset:0"
+       d="m 108.44719,75.682158 h 48.33598"
+       id="path1248" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 155.03494,42.789847 -0.18422,11.665537"
+       id="path1407" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 149.96675,54.455384 V 75.682156"
+       id="path1411" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lend);marker-end:url(#Arrow1Lstart)"
+       d="M 154.85072,57.631165 V 54.455384"
+       id="path1413" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="152.96144"
+       y="65.678551"
+       id="text2575"><tspan
+         sodipodi:role="line"
+         id="tspan2573"
+         style="stroke-width:0.264583"
+         x="152.96144"
+         y="65.678551">A.y</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="152.96144"
+         y="69.287498"
+         id="tspan2577">21,21 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="158.44122"
+       y="56.306458"
+       id="text7641"><tspan
+         sodipodi:role="line"
+         id="tspan7639"
+         style="stroke-width:0.264583"
+         x="158.44122"
+         y="56.306458">C.y</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="158.44122"
+         y="59.915409"
+         id="tspan7643">3,18 mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="157.08746"
+       y="47.224155"
+       id="text7641-2"><tspan
+         sodipodi:role="line"
+         id="tspan7639-0"
+         style="stroke-width:0.264583"
+         x="157.08746"
+         y="47.224155">B.y</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="157.08746"
+         y="50.833107"
+         id="tspan7643-6">11,67 mm</tspan></text>
   </g>
 </svg>
