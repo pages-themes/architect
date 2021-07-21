@@ -118,12 +118,15 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |A.x|15,00 mm|x Coordinate of A from the rhombus center. A can be visualized as the bottom point of the 6 "craters" of the puzzle. |f1|
 |A.y|21,21 mm|y Coordinate of A from the rhombus center.|d1+f1 * slope *or* f1 * (4/3)/sin(rdan)|
 |B.x|-7,50 mm|x Coordinate (relative to A) of B, pivot point on face 1.|-f1/2|
-|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|d2-l*slope/2|
+|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|d2-l * slope/2|
 |C.x|13,5 mm|x Coordinate (relative to A) of C, pivot point on face 2.|f2/2|
-|C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2/2)*slope-d1/2|
+|C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2/2) * slope-d1/2|
+
+
+Verification of the calculations using Shadertoy.
+
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-Verification of the calculations using Shadertoy.
 
 ## Is it possible to use polar domain repetition ?
 
