@@ -34,8 +34,6 @@ A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angl
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_angle.svg)
 
-![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_face1.svg)
-
 When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
 
 The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 and n2 identifying the normals of the planes of 2 faces rotating.
@@ -58,25 +56,27 @@ the dot product simplifies to cos(r)=1/3, meaning
     float r = acos(1./3.);
 ```
 
->I found interesting that the Wikipedia page speaking about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
+The Wikipedia page about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
-The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence.
+The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence. [Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
 
 ```
 2*arctan(1/√2)-arccos(1/3) = 0
 ```
 
-[Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
+Shadertoy illustration of the arrangement of the sticks on the puzzle.
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
->When assembling the Sticks 4 by for, the 90° rotation symetry is clearly visible.
+The 90° rotation arrangement is clearly visible around the "craters" of the puzzle.
 
 ## The Puzzling World of Polyhedral Dissections
 
 With Philippe Cichon's blog, I discovered an incredible book available online for free.
 
-This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
+[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
+
+The Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** has been made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
 
 >The Puzzling World of Polyhedral Dissections was obviously not written by Stewart to get rich. Anyone who produces such works does it as a labor of love for a subject that is very dear to them. As puzzle collectors, we owe Stewart a huge debt of gratitude for sharing with us his knowledge about the mathematics, aesthetics and philosophy of geometric puzzles. If you enjoy it as much as I do, drop Stewart a line and thank him for his unselfish gesture.
 
@@ -87,27 +87,35 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 [PuzzlingWorld By Stewart T. Coffin](https://johnrausch.com/PuzzlingWorld/contents.htm)
 
-[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
-
 ## Position the pieces on the Rhombic dodecahedron
 
-The face 1 is for me where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. 
+![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_face1.svg)
 
-![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
->Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2.
-    
-## Position of the contact surfaces and pin point on each face
+Details of the front view of one of the 24 puzzle's pieces.
+The diameters of the holes and the pins can be 6,0 mm, drilling no more than 10,0 mm
 
-Compute the bend angle between two pieces is good but not enough.
+|symbol|value|explanation|calculation|
+|---|---|---|---|
+|trunc|10%|pencentage of trucation of the top of the piece.|free choosen value, adds complexity in the calculations compared to a simple triangular shape.|
+|k|1,732|square root of 3, Pythagorean theorem applied to the height of an half equilateral triangle.|sqrt(3)|
+|f1|15.0 mm|width of face 1|unit for calculations|
+|f2|27.0 mm|width of face 2| 2 * f1 * (1-trunc)|
+|f3|1.5 mm|width of face 3| f1 * pot|
+|f4|23.4 mm|width of face 3| f1 * k * (1-trunc) |
 
-One can find on [this schema](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg) the calculations using painfull but basic trigonomerty formulas.
+![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_rhombus.svg) 
 
-![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
+Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2. Face 1 is where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. 
 
-And it works !
+|symbol|value|explanation|calculation|
+|---|---|---|---|
+|rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
+|d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
+|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombus.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
+|slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3xsin(rda))|
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
+Verification of the calculations using Shadertoy.
 
 ## Is it possible to use polar domain repetition ?
 

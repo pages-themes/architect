@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="scorpius_puzzle_rhombus.svg"
+   sodipodi:docname="scorpius_puzzle_rhombus_backup.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7684263"
-     inkscape:cx="340.6984"
-     inkscape:cy="309.03183"
+     inkscape:zoom="1.2504662"
+     inkscape:cx="483.4197"
+     inkscape:cy="310.68413"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1358"
@@ -137,12 +137,6 @@
      id="layer1"
      transform="translate(2.9558465,5.4048613)">
     <path
-       style="fill:#f8f8f8;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 93.447164,120.2401 -14.954941,5.29581 -0.045,-89.099915 14.999986,-5.31173 -4.5e-5,89.115835"
-       id="path16137"
-       inkscape:transform-center-x="7.4999705"
-       inkscape:transform-center-y="2.6479149" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 78.447192,5.8125667 V 148.49864"
        id="path861"
@@ -209,6 +203,17 @@
          style="stroke-width:0.264583"
          x="110.14558"
          y="22.153496">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="138.97563"
+       y="46.877022"
+       id="text7595-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan7593-8-6"
+         style="stroke-width:0.264583"
+         x="138.97563"
+         y="46.877022">B</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 136.75543,44.43098 40.352355,78.569025"
@@ -232,47 +237,47 @@
        style="font-size:10.9121px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';white-space:pre;shape-inside:url(#rect22213)"><tspan
          x="448.53906"
          y="349.67028"
-         id="tspan33211">Coordinates of A from the rhombus center
+         id="tspan1117">Coordinates of A from the rhombus center
 </tspan><tspan
          x="448.53906"
          y="363.31042"
-         id="tspan33213">x = l = 15 mm
+         id="tspan1119">x = l = 15 mm
 </tspan><tspan
          x="448.53906"
          y="376.95055"
-         id="tspan33215">y = d1+l*slope = l*(4/3)/sin(r)
+         id="tspan1121">y = d1+l*slope = l*(4/3)/sin(r)
 </tspan><tspan
          x="448.53906"
          y="390.59069"
-         id="tspan33217">= 21,21 mm
+         id="tspan1123">= 21,21 mm
 </tspan><tspan
          x="448.53906"
          y="404.23083"
-         id="tspan33219">Coordinates of pin point from A
+         id="tspan1125">Coordinates of pin point from A
 </tspan><tspan
          x="448.53906"
          y="417.87096"
-         id="tspan33221">x = -l/2 = - 7,5 mm
+         id="tspan1127">x = -l/2 = - 7,5 mm
 </tspan><tspan
          x="448.53906"
          y="431.5111"
-         id="tspan33223">y = d2-l*slope/2 = 11,67 mm
+         id="tspan1129">y = d2-l*slope/2 = 11,67 mm
 </tspan><tspan
          x="448.53906"
          y="445.15124"
-         id="tspan33225">Coordinates of hole
+         id="tspan1131">Coordinates of hole
 </tspan><tspan
          x="448.53906"
          y="458.79137"
-         id="tspan33227"> on face 2 from A
+         id="tspan1133"> on face 2 from A
 </tspan><tspan
          x="448.53906"
          y="472.43151"
-         id="tspan33229">reflect(pin,N)
+         id="tspan1135">reflect(pin,N)
 </tspan><tspan
          x="448.53906"
          y="486.07165"
-         id="tspan33231">N = vec2(sin(r/2),cos(r/2))</tspan></text>
+         id="tspan1137">N = vec2(sin(r/2),cos(r/2))</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="M 78.44719,22.21641 108.44723,11.59289"
@@ -284,7 +289,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
-       d="M 93.447189,123.23048 H 108.44724"
+       d="M 93.447189,125.87633 H 108.44724"
        id="path874" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
@@ -314,158 +319,198 @@
        id="path1035" />
     <text
        xml:space="preserve"
-       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="100.01859"
-       y="127.94532"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="95.848557"
+       y="123.18281"
        id="text7595-3"><tspan
          sodipodi:role="line"
          id="tspan7593-2"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="100.01859"
-         y="127.94532">f1</tspan><tspan
-         sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="100.01859"
-         y="131.55428"
-         id="tspan8513">15 mm</tspan></text>
+         style="stroke-width:0.264583"
+         x="95.848557"
+         y="123.18281">l=15 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
        x="85.673744"
-       y="139.08923"
+       y="134.85596"
        id="text7595-3-828"><tspan
+         sodipodi:role="line"
+         id="tspan7593-2-6"
+         style="stroke-width:0.264583"
+         x="85.673744"
+         y="134.85596">2xface 1</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="85.673744"
-         y="139.08923"
-         id="tspan18034">30,0 mm</tspan></text>
+         y="138.4649"
+         id="tspan18034">2*l=30,0 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="132.68456"
-       y="24.629564"
+       x="134.80119"
+       y="27.2754"
        id="text7595-3-82"><tspan
          sodipodi:role="line"
+         id="tspan7593-2-7"
          style="stroke-width:0.264583"
-         x="132.68456"
-         y="24.629564"
-         id="tspan12522">27,0 mm</tspan></text>
+         x="134.80119"
+         y="27.2754">Capped face 2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="134.80119"
+         y="30.88435"
+         id="tspan46683">of next piece</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="134.80119"
+         y="34.493301"
+         id="tspan12522">2*l*(1-c)=27,0 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="110.05008"
-       y="86.810593"
+       x="109.52091"
+       y="73.052246"
        id="text7595-3-82-3"><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="110.05008"
-         y="86.810593"
+         x="109.52091"
+         y="73.052246"
          id="tspan43999" /><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="110.05008"
-         y="90.41954"
-         id="tspan12522-0" /><tspan
+         x="109.52091"
+         y="76.661194"
+         id="tspan12522-0">l*(1-c)=</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="110.05008"
-         y="94.028496"
+         x="109.52091"
+         y="80.270149"
          id="tspan51968">13,5 mm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="122.84545"
-       y="102.04961"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="121.98994"
+       y="98.027084"
        id="text7595-3-82-3-9"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="122.84545"
-         y="102.04961"
-         id="tspan12522-0-3">f2</tspan><tspan
+         style="stroke-width:0.264583"
+         x="121.98994"
+         y="98.027084"
+         id="tspan43999-8">developed face 2</tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="122.84545"
-         y="105.65856"
-         id="tspan1369">27,0 mm</tspan></text>
+         style="stroke-width:0.264583"
+         x="121.98994"
+         y="101.63603"
+         id="tspan12522-0-3">2*l*(1-c)=27,0 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="20.452892"
-       y="84.39473"
+       x="22.39789"
+       y="83.347427"
        id="text7595-3-82-6"><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="20.452892"
-         y="84.39473"
+         x="22.39789"
+         y="83.347427"
          id="tspan12522-6">Face of the enclosed</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="20.452892"
-         y="88.003677"
-         id="tspan78411">Rhombic Dodecahedron</tspan><tspan
+         x="22.39789"
+         y="86.956375"
+         id="tspan26384">Rhombic Dodecahedron</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="20.452892"
-         y="91.612633"
-         id="tspan79545" /><tspan
+         x="22.39789"
+         y="90.565331"
+         id="tspan30585">Rhombus angle </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="20.452892"
-         y="95.221581"
+         x="22.39789"
+         y="94.174278"
+         id="tspan37552">r=ACOS(1/3) =70,5°</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="97.783226"
+         id="tspan56797">half side of the Rhombus = </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="101.39218"
+         id="tspan78411">d1 = l/sin(r) = 15,91 mm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="105.00113"
+         id="tspan79541">slope of the lines</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="108.61008"
+         id="tspan79543">slope = 1/tan(r)=1/(3xsin(r))</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="112.21902"
+         id="tspan79545">= 35,36%</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="22.39789"
+         y="115.82798"
          id="tspan56801" /></text>
     <text
        xml:space="preserve"
-       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="43.282112"
-       y="65.906799"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
+       x="0.84208125"
+       y="63.662575"
        id="text7595-3-82-6-1"><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="43.282112"
-         y="65.906799"
-         id="tspan21254">d2</tspan><tspan
+         style="stroke-width:0.264583"
+         x="0.84208125"
+         y="63.662575"
+         id="tspan56797-8">Corrected half side of the Rhombus = </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="43.282112"
-         y="69.515747"
-         id="tspan28025">14,32 mm</tspan><tspan
+         style="stroke-width:0.264583"
+         x="0.84208125"
+         y="67.271523"
+         id="tspan79545-6">d2 = d1*(1-c) </tspan><tspan
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="43.282112"
-         y="73.124702"
+         style="stroke-width:0.264583"
+         x="0.84208125"
+         y="70.880478"
+         id="tspan21252">= (1-c)*l/sin(r) </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="0.84208125"
+         y="74.489426"
+         id="tspan21254">= 15,91 mm</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="0.84208125"
+         y="78.098373"
          id="tspan56801-9" /></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="79.900513"
+       x="79.371346"
        y="98.494209"
        id="text7595-3-8"><tspan
          sodipodi:role="line"
          id="tspan7593-2-1"
          style="stroke-width:0.264583"
-         x="79.900513"
-         y="98.494209">rda</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="79.900513"
-         y="102.10316"
-         id="tspan14300">70,5°</tspan></text>
+         x="79.371346"
+         y="98.494209">r=70,5°</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="97.404053"
-       y="61.61969"
+       x="96.090515"
+       y="64.874779"
        id="text7595-3-8-0"><tspan
          sodipodi:role="line"
          id="tspan7593-2-1-7"
          style="stroke-width:0.264583"
-         x="97.404053"
-         y="61.61969">rda</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="97.404053"
-         y="65.228638"
-         id="tspan15142">70,5°</tspan></text>
+         x="96.090515"
+         y="64.874779">r=70,5°</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
@@ -496,7 +541,7 @@
          y="41.254753">2xl/sin(r)=31,82 mm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
-       d="m 78.44719,135.03908 h 30.00005"
+       d="m 78.44719,129.74738 h 30.00005"
        id="path17573" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.238791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -605,11 +650,11 @@
        id="path42290" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
-       d="m 108.44724,97.774577 h 27"
+       d="m 108.44724,90.366239 h 27"
        id="path42414" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-5);marker-end:url(#Arrow1Lend-5)"
-       d="m 108.44719,89.989564 13.50002,-0.01657"
+       d="m 108.44719,86.285395 13.50002,-0.01657"
        id="path42414-0"
        sodipodi:nodetypes="cc" />
     <path
@@ -640,35 +685,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
-       d="M 52.734341,74.184346 V 59.841339"
+       d="M 67.174558,69.070803 V 54.727796"
        id="path11231" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 83.671315,92.069397 -1.49615,1.27173"
-       id="path17891" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 84.344585,92.967089 -2.019806,1.047305"
-       id="path17893" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 105.08746,74.288412 1.49616,-1.27173"
-       id="path17891-6" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 104.41419,73.390712 2.01982,-1.0473"
-       id="path17893-9" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 102.11619,59.105601 1.49616,-1.27173"
-       id="path17891-6-2" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.44292,58.207901 2.01982,-1.0473"
-       id="path17893-9-8" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 56.441362,84.36422 82.324779,71.646932"
-       id="path26426" />
   </g>
 </svg>
