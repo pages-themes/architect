@@ -91,13 +91,11 @@ This is the story of the Stewart Coffin's book **The Puzzling World of Polyhedra
 
 ## Position the pieces on the Rhombic dodecahedron
 
-The face 1 is for me where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. Let's have our coordinates system start in the square angle edge of the face 1.
+The face 1 is for me where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. 
 
-    float edge = (1.0/sin(r/2.0))*.5;  // length of the edge of the rhombus 
-    float scale = edge*cos(PI/2.0-r); // base of the equilateral triangle
-
+![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle.svg)
+>Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2.
     
-
 ## Position of the contact surfaces and pin point on each face
 
 Compute the bend angle between two pieces is good but not enough.
