@@ -115,12 +115,12 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
 |d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
 |slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3 * sin(rda))|
-|A.x|15,00 mm|x Coordinate of A from the rhombus center. A can be visualized as the bottom point of the 6 "craters" of the puzzle. |f1|
+|A.x|15,00 mm|x Coordinate of A from the rhombus center. This point can be visualized as the bottom point of the 6 "craters" of the puzzle ! |f1|
 |A.y|21,21 mm|y Coordinate of A from the rhombus center.|d1+f1 * slope *or* f1 * (4/3)/sin(rdan)|
 |B.x|-7,50 mm|x Coordinate (relative to A) of B, pivot point on face 1.|-f1/2|
-|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|d2-l * slope/2|
+|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|(d2-f1 * slope)/2|
 |C.x|13,5 mm|x Coordinate (relative to A) of C, pivot point on face 2.|f2/2|
-|C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2/2) * slope-d1/2|
+|C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2 * slope-d1)/2|
 
 
 Verification of the calculations using Shadertoy.
