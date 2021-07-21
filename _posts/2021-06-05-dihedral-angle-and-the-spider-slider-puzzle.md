@@ -68,11 +68,11 @@ Shadertoy illustration of the arrangement of the sticks on the puzzle.
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
-The 90° rotation arrangement is clearly visible around the "craters" of the puzzle.
+90° rotation arrangement visible around the "craters" of the puzzle.
 
 ## The Puzzling World of Polyhedral Dissections
 
-With Philippe Cichon's blog, I discovered an incredible book available online for free.
+With Philippe Cichon's blog, I discovered an incredible book available online for free !
 
 [he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
 
@@ -92,7 +92,7 @@ The Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** has b
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_face1.svg)
 
 Details of the front view of one of the 24 puzzle's pieces.
-The diameters of the holes and the pins can be 6,0 mm, drilling no more than 10,0 mm
+The diameters of the holes and the pivots can be 6,0 mm, drilling no more than 10,0 mm
 
 |symbol|value|explanation|calculation|
 |---|---|---|---|
@@ -107,13 +107,13 @@ The diameters of the holes and the pins can be 6,0 mm, drilling no more than 10,
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_rhombus.svg) 
 
-Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2. Face 1 is where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. 
+Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2. Face 1 is where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pivots that must match an hole on face 2 of the locked neighbouring piece. 
 
 |symbol|value|explanation|calculation|
 |---|---|---|---|
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
 |d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
-|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
+|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1 * (1-trunc) *or* (1-trunc) * f1/sin(rdan)|
 |slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3 * sin(rda))|
 |A.x|15,00 mm|x Coordinate of A from the rhombus center. This point can be visualized as the bottom point of the 6 "craters" of the puzzle ! |f1|
 |A.y|21,21 mm|y Coordinate of A from the rhombus center.|d1+f1 * slope *or* f1 * (4/3)/sin(rdan)|
@@ -135,17 +135,13 @@ The polar repetition is based on non-overlapping domains, and the bending of the
 This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
 We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but may be later.
 
-## More about the Rhombic Dodecahedron
+## References
 
-If you want to build a fantastic light using this geometric shape have a look at the youtube video below.
-
-[Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
+- [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
 
 ![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
 
-Using this SDF from yx, I can verify that. 
-
-[Rhombic Dodecahedron SDF](https://www.shadertoy.com/view/Wd2Gzt)
+- SDF from yx on Shadertoy
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wd2Gzt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
@@ -166,11 +162,7 @@ float scene(vec3 p)
 }
 ```
 
-I published the animation showing this neat fact and was happy to get some likes.  
-
-I also made an effort to extensibly comment the code, taking Shane as reference for the formatting.
-
-**Rhombic Dodecahedron Enclosing**
+- My illustration on Shadertoy
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slSGzy?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
