@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="199.25032mm"
-   height="153.9035mm"
-   viewBox="0 0 199.25032 153.9035"
+   width="156.67007mm"
+   height="138.23431mm"
+   viewBox="0 0 156.67007 138.23431"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7684263"
-     inkscape:cx="340.6984"
-     inkscape:cy="309.03183"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1358"
+     inkscape:zoom="0.83039936"
+     inkscape:cx="243.85857"
+     inkscape:cy="276.37304"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -40,6 +40,12 @@
      inkscape:snap-center="true" />
   <defs
      id="defs2">
+    <rect
+       x="485.17712"
+       y="343.24304"
+       width="92.47258"
+       height="46.810387"
+       id="rect32508" />
     <marker
        style="overflow:visible"
        id="Arrow1Lend"
@@ -135,7 +141,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2.9558465,5.4048613)">
+     transform="translate(-15.112149,-6.5650049)">
     <path
        style="fill:#f8f8f8;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 93.447164,120.2401 -14.954941,5.29581 -0.045,-89.099915 14.999986,-5.31173 -4.5e-5,89.115835"
@@ -190,17 +196,6 @@
     <text
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="110.24841"
-       y="47.89296"
-       id="text7595-38-4"><tspan
-         sodipodi:role="line"
-         id="tspan7593-3-5"
-         style="stroke-width:0.264583"
-         x="110.24841"
-         y="47.89296">N</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
        x="110.14558"
        y="22.153496"
        id="text7595-1"><tspan
@@ -225,54 +220,6 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 196.25031,-5.2801578 99.847245,28.857888"
        id="path16827-2-0" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-113.91279,-87.512642)"
-       id="text22211"
-       style="font-size:10.9121px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';white-space:pre;shape-inside:url(#rect22213)"><tspan
-         x="448.53906"
-         y="349.67028"
-         id="tspan33211">Coordinates of A from the rhombus center
-</tspan><tspan
-         x="448.53906"
-         y="363.31042"
-         id="tspan33213">x = l = 15 mm
-</tspan><tspan
-         x="448.53906"
-         y="376.95055"
-         id="tspan33215">y = d1+l*slope = l*(4/3)/sin(r)
-</tspan><tspan
-         x="448.53906"
-         y="390.59069"
-         id="tspan33217">= 21,21 mm
-</tspan><tspan
-         x="448.53906"
-         y="404.23083"
-         id="tspan33219">Coordinates of pin point from A
-</tspan><tspan
-         x="448.53906"
-         y="417.87096"
-         id="tspan33221">x = -l/2 = - 7,5 mm
-</tspan><tspan
-         x="448.53906"
-         y="431.5111"
-         id="tspan33223">y = d2-l*slope/2 = 11,67 mm
-</tspan><tspan
-         x="448.53906"
-         y="445.15124"
-         id="tspan33225">Coordinates of hole
-</tspan><tspan
-         x="448.53906"
-         y="458.79137"
-         id="tspan33227"> on face 2 from A
-</tspan><tspan
-         x="448.53906"
-         y="472.43151"
-         id="tspan33229">reflect(pin,N)
-</tspan><tspan
-         x="448.53906"
-         y="486.07165"
-         id="tspan33231">N = vec2(sin(r/2),cos(r/2))</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="M 78.44719,22.21641 108.44723,11.59289"
@@ -385,7 +332,7 @@
          sodipodi:role="line"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="122.84545"
-         y="105.65856"
+         y="105.65855"
          id="tspan1369">27,0 mm</tspan></text>
     <text
        xml:space="preserve"
@@ -436,6 +383,27 @@
          id="tspan56801-9" /></text>
     <text
        xml:space="preserve"
+       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="57.637054"
+       y="94.325562"
+       id="text7595-3-82-6-1-0"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="57.637054"
+         y="94.325562"
+         id="tspan21254-4">d1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="57.637054"
+         y="97.934509"
+         id="tspan28025-4">15,91 mm</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="57.637054"
+         y="101.54346"
+         id="tspan56801-9-0" /></text>
+    <text
+       xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
        x="79.900513"
        y="98.494209"
@@ -444,7 +412,7 @@
          id="tspan7593-2-1"
          style="stroke-width:0.264583"
          x="79.900513"
-         y="98.494209">rda</tspan><tspan
+         y="98.494209">rdan</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="79.900513"
@@ -460,23 +428,12 @@
          id="tspan7593-2-1-7"
          style="stroke-width:0.264583"
          x="97.404053"
-         y="61.61969">rda</tspan><tspan
+         y="61.61969">rdan</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="97.404053"
          y="65.228638"
          id="tspan15142">70,5°</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
-       x="113.89471"
-       y="50.062885"
-       id="text7595-3-8-0-1"><tspan
-         sodipodi:role="line"
-         id="tspan7593-2-1-7-2"
-         style="stroke-width:0.264583"
-         x="113.89471"
-         y="50.062885">r/2</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 78.44719,91.1935 c 3.488901,-0.991004 5.10844,0.485191 5.307703,3.835881"
@@ -485,15 +442,15 @@
     <text
        xml:space="preserve"
        style="font-size:2.25162px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.206341"
-       x="71.20034"
-       y="41.254753"
+       x="79.409401"
+       y="41.563461"
        id="text7595-3-4"
        transform="rotate(-17.084888)"><tspan
          sodipodi:role="line"
          id="tspan7593-2-5"
          style="stroke-width:0.206341"
-         x="71.20034"
-         y="41.254753">2xl/sin(r)=31,82 mm</tspan></text>
+         x="79.409401"
+         y="41.563461">31,82 mm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="m 78.44719,135.03908 h 30.00005"
@@ -540,13 +497,7 @@
          id="tspan7593-6"
          style="stroke-width:0.264583"
          x="94.793922"
-         y="43.384693">pin</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 108.42989,54.479912 117.0871,42.230256"
-       id="path26304"
-       inkscape:transform-center-y="-6.100299"
-       inkscape:transform-center-x="-4.311264" />
+         y="43.384693">B</tspan></text>
     <path
        style="fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100.9472,57.111293 -0.0225,-14.313474 7.52255,-2.663867 1e-5,14.32143 -7.50003,2.655911"
@@ -565,7 +516,7 @@
          id="tspan7593-6-2"
          style="stroke-width:0.264583"
          x="123.00885"
-         y="59.594463">hole</tspan></text>
+         y="59.594463">C</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 102.47663,56.569702 c 0.0564,3.791776 1.5958,5.857438 5.97061,4.62289"
@@ -592,13 +543,13 @@
        xml:space="preserve"
        style="font-size:2.88716px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';stroke-width:0.264583"
        x="109.05019"
-       y="57.763924"
+       y="52.472252"
        id="text7595"><tspan
          sodipodi:role="line"
          id="tspan7593"
          style="stroke-width:0.264583"
          x="109.05019"
-         y="57.763924">A</tspan></text>
+         y="52.472252">A</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 135.44721,60.806903 V 91.989687"
@@ -634,11 +585,6 @@
        d="m 108.44719,54.455406 h -7.50416"
        id="path9511" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 113.6327,52.589723 c 0.0373,-1.644731 -0.96322,-2.308591 -2.46865,-2.319036"
-       id="path26942"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
        d="M 52.734341,74.184346 V 59.841339"
        id="path11231" />
@@ -670,5 +616,21 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 56.441362,84.36422 82.324779,71.646932"
        id="path26426" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.9558465,-5.4048613)"
+       id="text32506"
+       style="font-size:10.9121px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';white-space:pre;shape-inside:url(#rect32508)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.44723,57.631166 h 13.49995"
+       id="path33681" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect35141"
+       width="156.40344"
+       height="137.96768"
+       x="15.245464"
+       y="6.6983199" />
   </g>
 </svg>

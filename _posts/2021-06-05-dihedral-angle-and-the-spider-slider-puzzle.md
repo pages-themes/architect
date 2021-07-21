@@ -103,6 +103,8 @@ The diameters of the holes and the pins can be 6,0 mm, drilling no more than 10,
 |f3|1.5 mm|width of face 3| f1 * trunc|
 |f4|23.4 mm|width of face 3| f1 * k * (1-trunc) |
 
+
+
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_rhombus.svg) 
 
 Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view of face 2. Face 1 is where most of the magic happens, because it's the contact face this the inner Rhombic Dodecahedron. This is also the location of the pin that must match an hole on face 2 of the locked neighbouring piece. 
@@ -112,7 +114,13 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
 |d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
 |d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
-|slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3xsin(rda))|
+|slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3 * sin(rda))|
+|A.x|15,00 mm|x Coordinate of A from the rhombus center. A can be visualized as the bottom point of the 6 "craters" of the puzzle. |f1|
+|A.y|21,21 mm|y Coordinate of A from the rhombus center.|d1+f1 * slope *or* f1 * (4/3)/sin(rdan)|
+|B.x|-7,50 mm|x Coordinate (relative to A) of B, pivot point on face 1.|-f1/2|
+|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|d2-l*slope/2|
+|C.x|13,5 mm|x Coordinate (relative to A) of C, pivot point on face 2.|f2/2|
+|C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2/2)*slope-d1/2|
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 Verification of the calculations using Shadertoy.
