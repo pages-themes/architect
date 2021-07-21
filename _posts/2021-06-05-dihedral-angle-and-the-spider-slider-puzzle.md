@@ -20,7 +20,7 @@ This video of Philippe Cichon shows how to mount and unmout it (in French)
 
 ## Calculation of the angle to bend the pieces : The Dihedrial angle
 
-What fascinated me is the rotation angle needed to bend each little piece when mounting the puzzle.
+The rotation angle needed to bend each little piece when mounting the puzzle is quite annoying.
 
 Refering to the article on [Philippe Cichon's blog (French)](https://puzzles-et-casse-tete.blog4ever.com/le-scorpius-1), this bend angle is 70 degres, but why this value ?  
 All pieces have a triangular section, with angles 30, 60 and 90 degres, this is an half equilateral triangle with sides 1,2,sqrt(3), but when assembled, all 4 pieces are connected with a polar symetry of 90 degres around a central point.
@@ -28,7 +28,7 @@ All pieces have a triangular section, with angles 30, 60 and 90 degres, this is 
 I suspected that 70 degres was not an exact value, and wanted to compute it by myself using some basic geometry. Below my try for an explanation.
 
 ![faces numbers](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769120_202010011725351.png)
->Philippe's picture with the numbering of the faces, I will keep this convention here.
+Philippe's picture with the numbering of the faces, convention I kept here.
 
 A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angle between two intersecting planes
 
@@ -100,7 +100,7 @@ The diameters of the holes and the pins can be 6,0 mm, drilling no more than 10,
 |k|1,732|square root of 3, Pythagorean theorem applied to the height of an half equilateral triangle.|sqrt(3)|
 |f1|15.0 mm|width of face 1|unit for calculations|
 |f2|27.0 mm|width of face 2| 2 * f1 * (1-trunc)|
-|f3|1.5 mm|width of face 3| f1 * pot|
+|f3|1.5 mm|width of face 3| f1 * trunc|
 |f4|23.4 mm|width of face 3| f1 * k * (1-trunc) |
 
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_rhombus.svg) 
@@ -111,7 +111,7 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |---|---|---|---|
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
 |d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
-|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombus.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
+|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1*(1-trunc) *or* (1-trunc)*f1/sin(rdan)|
 |slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3xsin(rda))|
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
