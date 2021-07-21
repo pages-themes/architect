@@ -37,6 +37,8 @@ Additionally, you may choose to set the following optional variables:
 
 ```yml
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+    zip_url: ["true" or "false" to indicate whether to provide a .zip download URL]
+    tar_url: ["true" or "false" to indicate whether to provide a .tar.gz download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
@@ -74,7 +76,7 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
     ```yml
     github:
       zip_url: http://example.com/download.zip
-      another_url: another value
+      tar_url: http://example.com/download.tar.gz
     ```
 3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
