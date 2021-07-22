@@ -36,25 +36,29 @@ A [dihedral angle](https://mathworld.wolfram.com/DihedralAngle.html) is the angl
 
 When assembled, the Dihedral angle of the planes of one pieces with the next one should be 90 degres, in order to get this **4 times** rotation symetry.
 
+|symbol|value|explanation|calculation|
+|---|---|---|---|
+|rdan|???| rotation needed to bend the neighbouring piece when assembled. |???|
+
 The dihedral angle is given by the formula **cos(angle) = dot(n1,n2)**, with n1 and n2 identifying the normals of the planes of 2 faces rotating.
 - we want the angle between the faces to be 90 degres
 - as cos(90 degres)=0 we need to solve dot(n1,n2) = 0.
 
-Given there is a 60 degre rotation angle on the vertical axis to get the planes 1 and 2 assembled, we can compute like below.
+Given there is a 60 degre rotation angle on the vertical axis to get the face 1 of a piece in contact with the face 2 of the neighbouring piece.
 
-```
-// looking for r
-n1 = vec3(-sqrt(3)/2.0,1/2,0)  
-n2 = vec3(-cos(r)* sqrt(3)/2,-1/2,-sin(r)*sqrt(3)/2)
+ <img src="https://latex.codecogs.com/svg.image?n_1=\begin{bmatrix}-\sqrt{3}/2&space;\\1/2&space;\\0&space;\\\end{bmatrix}" title="n_1=\begin{bmatrix}-\sqrt{3}/2 \\1/2 \\0 \\\end{bmatrix}" /> <br/><br/>
 
-dot(n1,n2) = 3/4*cos(r) - 1/4 
-```
-the dot product simplifies to cos(r)=1/3, meaning 
-```
-    // Bend angle of approx 70,52877937 degres
-    // This is the first key value to build the puzzle
-    float r = acos(1./3.);
-```
+ <img src="https://latex.codecogs.com/svg.image?n_2=\begin{bmatrix}-\cos(r)*|\sqrt{3}/2&space;\\-1/2&space;\\-\sin(r)*|\sqrt{3}/2&space;\\\end{bmatrix}" title="n_2=\begin{bmatrix}-\cos(r)*|\sqrt{3}/2 \\-1/2 \\-\sin(r)*|\sqrt{3}/2 \\\end{bmatrix}" /> <br/><br/>
+
+ <img src="https://latex.codecogs.com/svg.image?n_1.n_2=3/4*cos(r)-1/4" title="n_1.n_2=3/4*cos(r)-1/4" /> <br/><br/>
+
+the dot product simplifies to  
+
+<img src="https://latex.codecogs.com/svg.image?cos(r)=1/3" title="cos(r)=1/3" />
+
+|symbol|value|explanation|calculation|
+|---|---|---|---|
+|rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
 
 The Wikipedia page about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
@@ -64,11 +68,10 @@ The French version says that it's value is **2*arctan(1/√2)** and it appears t
 2*arctan(1/√2)-arccos(1/3) = 0
 ```
 
-Shadertoy illustration of the arrangement of the sticks on the puzzle.
-
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
-90° rotation arrangement visible around the "craters" of the puzzle.
+![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
+<br/><br/>
+The Puzzling World of Polyhedral Dissections illustration.  
+A 90° rotation arrangement visible around the "craters" of the puzzle.
 
 ## The Puzzling World of Polyhedral Dissections
 
@@ -139,31 +142,12 @@ We also need to take these plans into account in the ray marching. This is quite
 
 - [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
 
-![preview](https://johnrausch.com/PuzzlingWorld/images/fig093.gif)
-
 - SDF from yx on Shadertoy
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wd2Gzt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
-```cpp
-float scene(vec3 p)
-{
-    // minified version
-    p = abs(p);
-    p += p.yzx;
-    return (max(max(p.x,p.y),p.z)-1.) * sqrt(.5);
-    
-    // initial version - intersection of 3 planes in a mirrored space
-    /*p = abs(p);
-    float a = dot(p,normalize(vec3(0,1,1)))-sqrt(2.)*.5;
-    float b = dot(p,normalize(vec3(1,0,1)))-sqrt(2.)*.5;
-    float c = dot(p,normalize(vec3(1,1,0)))-sqrt(2.)*.5;
-    return max(max(a,b),c);*/
-}
-```
+- My illustrations on Shadertoy
 
-- My illustration on Shadertoy
-
+<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slfSRj?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/slSGzy?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
 
