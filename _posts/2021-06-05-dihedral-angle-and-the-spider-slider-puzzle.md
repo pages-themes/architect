@@ -61,7 +61,7 @@ the dot product simplifies to
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
   
 
-The Wikipedia page about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
+The Wikipedia page about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. The explanation is in the Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
 The French version says that it's value is **2*arctan(1/√2)** and it appears that this is the same value. I would be happy to have the explanation of this equivalence. [Wolfram's calculation confirmation](https://www.wolframalpha.com/input/?i=2*arctan%281%2F%E2%88%9A2%29-arccos%281%2F3%29)
 
@@ -100,7 +100,7 @@ The diameters of the holes and the pivots can be 6,0 mm, drilling no more than 8
 
 |symbol|value|explanation|calculation|
 |---|---|---|---|
-|trnc|10%|pencentage of trucation of the top of the piece.|free choosen value, adds complexity in the calculations compared to a simple triangular shape.|
+|trnc|10%|pencentage of trucation of the top of the piece.|free choosen value, adds complexity in the calculations compared to a simple triangular shape. My own version has no truncation.|
 |k|1,732|square root of 3, Pythagorean theorem applied to the height of an half equilateral triangle.|sqrt(3)|
 |f1|15.0 mm|width of face 1|unit for calculations|
 |f2|27.0 mm|width of face 2| 2 * f1 * (1-trnc)|
@@ -142,7 +142,7 @@ This makes me think of [Wythoff polyhedrons](https://www.shadertoy.com/results?q
 
 - [Adam Savage's One Day Builds: Rhombic Dodecahedron with Matt Parker!](https://www.youtube.com/watch?v=65r_1TzJXaQ)
 
-- SDF from yx on Shadertoy
+- Rhombic dodecahedron SDF from yx on Shadertoy
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wd2Gzt?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
