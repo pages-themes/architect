@@ -7,7 +7,7 @@ tags: shadertoy
 # Dihedral angle and the scorpius spider slider puzzle
 ## What is this ?
 
-When I was a child, I had the chance to own a "scorpius slider spider puzzle", a piece of wood art bought 30 years ago.
+I have the chance to own a "scorpius slider spider puzzle", a piece of wood art offered to me 30 years ago as I was a child.
 
 ![preview](https://static.blog4ever.com/2008/06/213622/artfichier_213622_8769121_202010012502419.png)
 
