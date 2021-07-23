@@ -96,7 +96,7 @@ The Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** has b
 ![preview](https://sylvain69780.github.io/assets/images/scorpius_puzzle_face1.svg)
 
 Details of the front view of one of the 24 puzzle's pieces.
-The diameters of the holes and the pivots can be 6,0 mm, drilling no more than 10,0 mm
+The diameters of the holes and the pivots can be 6,0 mm, drilling no more than 8,0 mm. Seems to me 5,0 mm is good enough.
 
 |symbol|value|explanation|calculation|
 |---|---|---|---|
@@ -127,17 +127,16 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2 * slope-d1)/2|
 
 
-Verification of the calculations using Shadertoy.
-
+Verification of the calculations using Shadertoy.  
+Seems it works !
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nlf3W2?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
 ## Is it possible to use polar domain repetition ?
 
 Domain repetition enables to compute a shape only once by defining repetition domains, like a grid for example.  
-The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this [impossible](https://www.shadertoy.com/view/slfGDf). But we can use a simple dicotomy to identify the domain by testing the dihedral plans.  
-This is in relation with [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) on Shadertoy.  
-We also need to take these plans into account in the ray marching. This is quite complicated but needs to be tried but may be later.
+The polar repetition is based on non-overlapping domains, and the bending of the pieces makes this probably [impossible](https://www.shadertoy.com/view/slfGDf). May be we can use a simple dicotomy to identify the domain by testing the plans positions.  
+This makes me think of [Wythoff polyhedrons](https://www.shadertoy.com/results?query=tag%3Dwythoff) nice illustrations on Shadertoy.  
 
 ## References
 
