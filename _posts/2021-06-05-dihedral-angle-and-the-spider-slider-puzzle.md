@@ -48,7 +48,7 @@ Given there is a 60 degre rotation angle on the vertical axis to get the face 1 
 
  <img src="https://latex.codecogs.com/svg.image?n_1=\begin{bmatrix}-\sqrt{3}/2&space;\\1/2&space;\\0&space;\\\end{bmatrix}" title="n_1=\begin{bmatrix}-\sqrt{3}/2 \\1/2 \\0 \\\end{bmatrix}" /> <br/><br/>
 
- <img src="https://latex.codecogs.com/svg.image?n_2=\begin{bmatrix}-\cos(r)*|\sqrt{3}/2&space;\\-1/2&space;\\-\sin(r)*|\sqrt{3}/2&space;\\\end{bmatrix}" title="n_2=\begin{bmatrix}-\cos(r)*|\sqrt{3}/2 \\-1/2 \\-\sin(r)*|\sqrt{3}/2 \\\end{bmatrix}" /> <br/><br/>
+ <img src="https://latex.codecogs.com/svg.image?n_2=\begin{bmatrix}-\cos(r)*\sqrt{3}/2&space;\\-1/2&space;\\-\sin(r)*|\sqrt{3}/2&space;\\\end{bmatrix}" title="n_2=\begin{bmatrix}-\cos(r)*|\sqrt{3}/2 \\-1/2 \\-\sin(r)*\sqrt{3}/2 \\\end{bmatrix}" /> <br/><br/>
 
  <img src="https://latex.codecogs.com/svg.image?n_1.n_2=3/4*cos(r)-1/4" title="n_1.n_2=3/4*cos(r)-1/4" /> <br/><br/>
 
@@ -59,6 +59,7 @@ the dot product simplifies to
 |symbol|value|explanation|calculation|
 |---|---|---|---|
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
+  
 
 The Wikipedia page about the [Rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron) mention that **arccos(1/3)** is the acute angles on each face. Of course there is the explanation in Stewart Coffin's book **The Puzzling World of Polyhedral Dissections**.
 
@@ -75,9 +76,9 @@ A 90° rotation arrangement visible around the "craters" of the puzzle.
 
 ## The Puzzling World of Polyhedral Dissections
 
-With Philippe Cichon's blog, I discovered an incredible book available online for free !
+With Philippe Cichon's blog, I discovered a puzzling book available online for free !
 
-[he rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
+[The rhombic dodecahedron can be totally enclosed by a symmetrical cluster of 12 sticks having equilateral-triangular cross-section](https://johnrausch.com/PuzzlingWorld/chap08.htm). This is the key of the design of this puzzle. There is many variations on it.
 
 The Stewart Coffin's book **The Puzzling World of Polyhedral Dissections** has been made available on the Internet by [John Rausch](https://www.puzzle-place.com/wiki/John_Rausch)
 
@@ -99,12 +100,12 @@ The diameters of the holes and the pivots can be 6,0 mm, drilling no more than 1
 
 |symbol|value|explanation|calculation|
 |---|---|---|---|
-|trunc|10%|pencentage of trucation of the top of the piece.|free choosen value, adds complexity in the calculations compared to a simple triangular shape.|
+|trnc|10%|pencentage of trucation of the top of the piece.|free choosen value, adds complexity in the calculations compared to a simple triangular shape.|
 |k|1,732|square root of 3, Pythagorean theorem applied to the height of an half equilateral triangle.|sqrt(3)|
 |f1|15.0 mm|width of face 1|unit for calculations|
-|f2|27.0 mm|width of face 2| 2 * f1 * (1-trunc)|
-|f3|1.5 mm|width of face 3| f1 * trunc|
-|f4|23.4 mm|width of face 3| f1 * k * (1-trunc) |
+|f2|27.0 mm|width of face 2| 2 * f1 * (1-trnc)|
+|f3|1.5 mm|width of face 3| f1 * trnc|
+|f4|23.4 mm|width of face 3| f1 * k * (1-trnc) |
 
 
 
@@ -116,12 +117,12 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |---|---|---|---|
 |rdan|70,5°| the acute angles on each face of the rhombic dodecahedron|acos(1/3)|
 |d1|15,91 mm|half side of the Rhombic face.|f1/sin(rdan)|
-|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1 * (1-trunc) *or* (1-trunc) * f1/sin(rdan)|
+|d2|14,32 mm|Corrected (because of truncation) half side of the Rhombic face.|d1 * (1-trnc) *or* (1-trnc) * f1/sin(rdan)|
 |slope|35,36%|slope of the bended lines in comparison with an horizontal line. Usefull to compute the point coordonates.|1/tan(rda) *or* 1/(3 * sin(rda))|
 |A.x|15,00 mm|x Coordinate of A from the rhombus center. This point can be visualized as the bottom point of the 6 "craters" of the puzzle ! |f1|
 |A.y|21,21 mm|y Coordinate of A from the rhombus center.|d1+f1 * slope *or* f1 * (4/3)/sin(rdan)|
 |B.x|-7,50 mm|x Coordinate (relative to A) of B, pivot point on face 1.|-f1/2|
-|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|(d2-f1 * slope)/2|
+|B.y|11,67 mm|y Coordinate (relative to A) of B, pivot point on face 1.|d2-f1 * slope/2|
 |C.x|13,5 mm|x Coordinate (relative to A) of C, pivot point on face 2.|f2/2|
 |C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2 * slope-d1)/2|
 
