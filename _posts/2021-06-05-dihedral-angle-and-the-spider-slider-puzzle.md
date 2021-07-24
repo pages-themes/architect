@@ -128,7 +128,7 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 
 Details of the calculations using Desmos.  
 
-<iframe src="https://www.desmos.com/calculator/egszivljxr?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/855odhp6gd?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Verification of the calculations using Shadertoy.  
 Seems it works !
