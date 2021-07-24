@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Dihedral angle and the scorpius spider slider puzzle"
+title: "Puzzling Rhombic Dodecahedron"
 tags: shadertoy
 ---
 
-# Dihedral angle and the scorpius spider slider puzzle
+# Puzzling Rhombic Dodecahedron
 ## What is this ?
 
 I have the chance to own a "scorpius slider spider puzzle", a piece of wood art offered to me 30 years ago as I was a child.
@@ -126,6 +126,9 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |C.x|13,5 mm|x Coordinate (relative to A) of C, pivot point on face 2.|f2/2|
 |C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2 * slope-d1)/2|
 
+Details of the calculations using Desmos.  
+
+<iframe src="https://www.desmos.com/calculator/egszivljxr?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Verification of the calculations using Shadertoy.  
 Seems it works !
