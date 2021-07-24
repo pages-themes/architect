@@ -127,7 +127,7 @@ Top view of face 1 on the Rhombic dodecahedron rhombus face and developed view o
 |C.y|-3,18 mm|y Coordinate (relative to A) of C, pivot point on face 2.|(f2 * slope-d1)/2|
 
 Details of the calculations using Desmos.  
-
+ 
 <iframe src="https://www.desmos.com/calculator/855odhp6gd?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Verification of the calculations using Shadertoy.  
