@@ -1,14 +1,14 @@
-# The Architect theme
+# Printable Architect theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/architect/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
 
-*Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
+*Architect is a Jekyll theme for GitHub Pages which is designed to print cleanly. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
 
 ![Thumbnail of Architect](thumbnail.png)
 
 ## Usage
 
-To use the Architect theme:
+To use the printable Architect theme:
 
 1. Add the following to your site's `_config.yml`:
 
@@ -95,7 +95,7 @@ See the [open issues](https://github.com/pages-themes/architect/issues) for a li
 
 ## Project philosophy
 
-The Architect theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+The Architect theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website and is designed to print cleanly. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
 ## Contributing
 
