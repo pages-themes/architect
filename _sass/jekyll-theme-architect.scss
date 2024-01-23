@@ -446,6 +446,14 @@ footer a:hover {
     margin-left: 0;
     content: none;
   }
+  #main-content h1,
+  #main-content h2,
+  #main-content h3,
+  #main-content h4,
+  #main-content h5,
+  #main-content h6 {
+    text-indent: 0;
+  }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
