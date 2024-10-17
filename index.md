@@ -1,123 +1,88 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Who We Are
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**INTELLIBUILD** is a leading reseller and installer of cutting-edge home automation solutions, dedicated to transforming ordinary living spaces into smart, efficient, and secure environments. With a passion for technology and a commitment to excellence, we provide tailored solutions that enhance the quality of life for our clients.
 
 
-### Definition lists can be used with HTML syntax.
+## Mission Statement
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Our mission is to empower homeowners with innovative automation technologies that improve convenience, security, and energy efficiency. We strive to deliver exceptional service and expert installation, ensuring that our customers experience the full benefits of smart home living.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Services
 
-```
-The final element.
-```
+1. **Consultation and Planning**: Assessing client needs and designing custom automation systems.
+
+2. **Installation Services**: Setting up devices such as smart lighting, thermostats, security systems, and home entertainment systems.
+
+3. **Product Sales**: Reselling home automation products, including smart hubs, sensors, cameras, and appliances.
+
+4. **System Integration**: Ensuring that different devices work together seamlessly, including compatibility with existing systems.
+
+5. **Customization**: Programming and configuring systems to meet specific user preferences and requirements.
+
+6. **Training**: Educating clients on how to use their new systems effectively.
+
+7. **Maintenance and Support**: Offering ongoing support, troubleshooting, and maintenance services to ensure optimal performance.
+
+8. **Upgrades and Expansions**: Assisting clients with adding new devices or features to their existing systems.
+
+9. **Remote Monitoring Services**: Providing options for clients to monitor their homes remotely via mobile apps or web interfaces.
+
+10. **Security Solutions**: Installing and integrating alarm systems, surveillance cameras, and access control systems.
+
+
+#### Products
+
+
+| **Category**               | **Products**                                                   |
+|----------------------------|---------------------------------------------------------------|
+| **Smart Lighting**         | - Smart LED Bulbs (e.g., Philips Hue, LIFX)                  |
+|                            | - Smart Light Switches                                        |
+|                            | - Smart Dimmer Switches                                       |
+|                            | - Motion Sensor Lights                                        |
+| **Security Systems**       | - Smart Cameras (indoor and outdoor)                          |
+|                            | - Video Doorbells (e.g., Ring, Nest Hello)                   |
+|                            | - Smart Locks (e.g., August, Yale)                           |
+|                            | - Security Alarms and Sensors (door/window, motion)          |
+| **Climate Control**        | - Smart Thermostats (e.g., Nest, Ecobee)                     |
+|                            | - Smart Vent Systems                                          |
+|                            | - Smart Air Quality Monitors                                  |
+|                            | - Smart Fans and Heaters                                      |
+| **Home Entertainment**     | - Smart Speakers (e.g., Amazon Echo, Google Nest)            |
+|                            | - Streaming Devices (e.g., Roku, Apple TV)                   |
+|                            | - Smart TVs                                                  |
+|                            | - Multi-Room Audio Systems                                    |
+| **Smart Hubs and Controllers** | - Smart Home Hubs (e.g., Samsung SmartThings, Hubitat)   |
+|                            | - Voice Assistants (Amazon Alexa, Google Assistant)          |
+|                            | - Universal Remotes                                          |
+| **Energy Management**      | - Smart Plugs and Outlets                                    |
+|                            | - Energy Monitors                                            |
+|                            | - Smart Power Strips                                         |
+| **Home Appliances**        | - Smart Refrigerators                                        |
+|                            | - Smart Ovens and Ranges                                     |
+|                            | - Smart Washers and Dryers                                    |
+|                            | - Smart Coffee Makers                                         |
+| **Gardening and Outdoor**  | - Smart Irrigation Systems                                    |
+|                            | - Smart Weather Stations                                      |
+|                            | - Smart Outdoor Lighting                                      |
+| **Home Health**            | - Smart Health Monitors (e.g., sleep monitors)               |
+|                            | - Smart Pill Dispensers                                       |
+| **Customization and Accessories** | - Sensors (temperature, humidity, motion)                |
+|                            | - Smart Curtains and Blinds                                   |
+|                            | - Integration Services and Kits                                |
+
+
+
+##### Gallery
+
+Images and videos of completed projects and installations.
+
+###### Testimonials
+Customer reviews and success stories.
+
+### Contact 
+Rushikesh Mali 
+**7057900025**
+
+
+
