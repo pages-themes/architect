@@ -1,123 +1,101 @@
+# 👩‍💻 Hemamalini Murugan
+
+**M.Tech Computer Science Engineering Student**  
+Sri Ramakrishna Engineering College, Coimbatore  
+📫 Email: hemasanjeev007@gmail.com | 📞 +91 8778217229  
+🔗 [LinkedIn](https://linkedin.com/in/hemamalini005) | 🔗 [GitHub](https://github.com/HEMAM005)
+
 ---
-layout: default
+
+## 🎯 Career Objective
+
+A driven and empathetic learner pursuing a 5-year integrated M.Tech in Computer Science Engineering. With a solid foundation in full-stack development, machine learning, and mobile technologies, I thrive in collaborative and independent environments. I'm passionate about building impactful digital solutions to solve real-world challenges and aim to contribute meaningfully to forward-thinking tech organizations.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🎓 Education
 
-[Link to another page](./another-page.html).
+**Sri Ramakrishna Engineering College (2022–2027)**  
+Master of Technology in Computer Science Engineering  
+CGPA: 7.96
 
-There should be whitespace between paragraphs.
+**Vikas Vidyalaya Matric Hr. Sec. School**  
+- 12th Grade (2022): 94.01%  
+- 10th Grade (2020): 90.6%
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🚀 Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 🩺 Pneumonia Detection Using Chest X-ray Images  
+- Built a CNN-based deep learning model for pneumonia detection.  
+- Used OpenCV for preprocessing and TensorFlow for training.  
+- Achieved high diagnostic accuracy using Kaggle dataset.
 
-## Header 2
+**Tech Stack**: Python, TensorFlow, OpenCV, Kaggle
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+### 🔥 Crematorium Service Application  
+- Mobile app for crematorium bookings with real-time notifications.  
+- Designed secure login for user/admin portals and location-based filtering.  
+- Prioritized accessibility and intuitive UI/UX.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Tech Stack**: Flutter, Supabase, Firebase, Dart
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+### 🧠 Identification of Algorithm Using Datasets  
+- Analyzed datasets to recommend suitable ML algorithms.  
+- Differentiated classification vs. regression problems.  
+- Visualized performance metrics for easy comparison.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Tech Stack**: Python, Pandas, Matplotlib
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## ⚙️ Skills
 
-###### Header 6
+**Programming Languages**: Python, C, Dart, JavaScript (React.js)  
+**Frameworks & Libraries**: Flutter, TensorFlow, Supabase  
+**Tools & Platforms**: Cypress, Visual Studio, Git, Gen AI  
+**Practices**: Agile Methodology, API Integration, Version Control  
+**Soft Skills**: Problem Solving, Leadership, Team Collaboration, Empathy-driven Design
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 🏆 Achievements
 
-* * *
+**Certifications**:  
+- Python for Machine Learning — Great Learning  
+- Computer Architecture & Digital Logic Circuits — Great Learning  
+- C Programming — eBox  
+- MongoDB Series — ICT Academy  
+- Dark Web — EC Council  
+- Privacy & Security — NPTEL  
+- Blockchain and Its Applications — NPTEL
 
-### Here is an unordered list:
+**Recognition**:  
+- Natural Club Executive Member  
+- Student Representative for 4 years
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 🧑‍💼 Internship
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Software Development Intern — Prodapt (6 months)**  
+- Contributed to automation & deployment via Cypress and Gen AI.  
+- Supported delivery pipelines through testing, debugging, and optimization.  
+- Collaborated across teams to integrate production-ready modules.
 
-### And a nested list:
+---
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## 💡 Interests
 
-### Small image
+- Full-Stack Development, Hackathons, Tech Meetups  
+- UI/UX Design, Creative Writing, Public Speaking  
+- Agile Project Collaboration, Organizing Tech Events  
+- Mentoring, Workshop Hosting  
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
