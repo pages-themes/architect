@@ -1,5 +1,9 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Hemamalini Murugan"
+description: "Full-Stack Developer | ML Enthusiast | Software Architect"
+url: "https://HEMAM005.github.io"
 theme: jekyll-theme-architect
+
+social_links:
+  github: HEMAM005
+  linkedin: hemamalini005
+  email: hemasanjeev007@gmail.com
