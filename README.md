@@ -14,9 +14,9 @@ To use the Architect theme:
 
     ```yml
     remote_theme: pages-themes/architect@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+plugins:
+  - jekyll-remote-theme
+  - 
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
