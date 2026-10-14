@@ -1,0 +1,73 @@
+<style>
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+:root {
+  --magnifier: 8;
+  --gap: 0vmax;
+  --transition: 0.5s;
+}
+  
+.expandingGallery {
+  width: 100%;
+  height: 50vh;
+  padding:15px;
+    background: url(https://www.fightersgeneration.com/nx7/game/aof2-airport.gif)
+    no-repeat center center fixed;
+    line-height: 1.5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+  
+   
+}
+
+.expandingGallery > img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 50vh;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery > img:hover {
+
+  flex: var(--magnifier);
+}
+</style>
+
+
+
+
+
+<div class="expandingGallery">
+  
+<img src="https://raw.githubusercontent.com/thakarashard/saa2/master/assets/images/sartu_rik_equal_ek.png" />
+<img src="https://i1.sndcdn.com/artworks-D91rb2LE45DCZq47-cKlxJg-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-yp5s7R5Iq55q-0-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-P2PTj5dAzg6o2EFl-FUqxIw-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-XuEIzk2XtG1w-0-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-3pLwykq3ZwnP-0-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-QwpUDhaNaX8l-0-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-c8b32a26-992b-4caf-b624-a35574dee181-0-t500x500.jpg" />
+<img src="https://i1.sndcdn.com/artworks-pTTYEez5J7KK-0-t500x500.jpg" />
+<img src=" https://i1.sndcdn.com/artworks-000652828381-8tet2w-t500x500.jpg" >
+<img src=" https://i1.sndcdn.com/artworks-L3b6Dwse4RJe-0-t500x500.jpg" >
+<img src=" https://i1.sndcdn.com/artworks-ikxDwx60XoJJ-0-t500x500.jpg" >
+<img src="https://i1.sndcdn.com/artworks-Tz3UrUOI1wzpn6Qm-jwEiJQ-t500x500.jpg" />
+
+
+</div>
+
+
