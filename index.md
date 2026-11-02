@@ -15,8 +15,18 @@ mathjax: true
 </picture>
 
 
+### [HOT 97](https://www.hot97.com/) TV feat [Lana J Harris](https://www.tiktok.com/@lanajharris/video/7516651426123123982)
+[Georgia Prison Lockdown @foratlanta @dhs-gov](https://www.wjcl.com/article/georgia-prison-lockdown-update/74284393) [[1](https://www.fox5atlanta.com/news/state-places-26-georgia-prisons-lockdown-over-threat-activity)], Chili’s Margarita Burns & $10K Beef Heist
+
+[`WATCH` - youtu.be/4UGkzhgsYA4](https://youtu.be/4UGkzhgsYA4)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7523eb52-9b02-425c-8a88-b04c5650e61b" />
+@howard-university-web-services @foratlanta @ajcnews hi [Lana @tiktok broke again hi @deptofwar](https://www.tiktok.com/@lanajharris)
+<img alt="image" src="https://github.com/user-attachments/assets/201bb5b5-43b1-4a2d-8cef-4fc2706171b1" />
+<img   alt="image" src="https://github.com/user-attachments/assets/9a62ac74-cac4-493c-aef9-73b9f3238d53" />
 
 
+![https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wjcl/logo.png background hi @nasa-pds](https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wjcl/logo.png)
 
 [@nasa-jpl hi Who You Wit - Lil Jon & The East Side Boyz @CityOfSantaMonica](https://youtu.be/Z2QNLU9wV9U?t=29) // [@Blackgirlscode @foratlanta @ajcnews J.E.E.Z.Y. · Young Jeezy](https://youtu.be/o_Kz2-3bIUY?list=PLjzGTUqYI0lQV3lFXx9LLCs71eSS6ekZD&t=20) //[Kilo Ali - Cocaine (America Has a Problem) (@ForAtlanta Classic 1990 @ajcnews)](https://youtu.be/RaHlnFPcNx0?si=z52JbNun42cm_qK_) // [Kilo Ali - The Piz (True Atlanta Classic) 1991 @nbcnews](https://youtu.be/Oo5SrXA7AM8?list=RDOo5SrXA7AM8&t=20) // [DJ Magic Mike-Feel The Bass Again(part 2)](https://youtu.be/gy5P3i6zIaQ?list=PLxNho4akT00HgFt97CZHm-FtkpfLFKQFV&t=24) // [U.N.K.L.E vs Scratch Perverts Breezeblock Show @bbc](https://youtu.be/DdTcYQrPHSg?si=7eOcMALr-Wlwb0rh)
 
