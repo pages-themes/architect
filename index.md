@@ -14,6 +14,9 @@ mathjax: true
   
 </picture>
 
+[@deptofwar much cleaner than clementine! @nasa @la-county-isd pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd06/art002e012728_nkd5015_prc_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd06/art002e012728_nkd5015_prc_v01.tif)
+
+<img  alt="art002e012728_nkd5015_prc_v01" src="https://github.com/user-attachments/assets/9619100f-13ff-4333-9462-def915441bda" />
 
 <img  alt="art002e012658_nkd5015_prc_v01" src="https://github.com/user-attachments/assets/8d4297d1-f922-409c-9416-f7533fc8ce06" />
 
