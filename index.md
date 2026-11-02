@@ -15,6 +15,11 @@ mathjax: true
 </picture>
 
 
+
+## art002e015230_nkz9019_src_v01.nef @nasa
+[pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef)
+<img   alt="art002e015230_nkz9019_prc_v01" src="https://github.com/user-attachments/assets/50301b7d-9414-4c4e-8c26-781f2ab43eaa" />
+
 ### [HOT 97](https://www.hot97.com/) TV feat [Lana J Harris](https://www.tiktok.com/@lanajharris/video/7516651426123123982)
 [Georgia Prison Lockdown @foratlanta @dhs-gov](https://www.wjcl.com/article/georgia-prison-lockdown-update/74284393) [[1](https://www.fox5atlanta.com/news/state-places-26-georgia-prisons-lockdown-over-threat-activity)], Chili’s Margarita Burns & $10K Beef Heist
 
