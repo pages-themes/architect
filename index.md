@@ -19,8 +19,8 @@ mathjax: true
 [Georgia Prison Lockdown @foratlanta @dhs-gov](https://www.wjcl.com/article/georgia-prison-lockdown-update/74284393) [[1](https://www.fox5atlanta.com/news/state-places-26-georgia-prisons-lockdown-over-threat-activity)], Chili’s Margarita Burns & $10K Beef Heist
 
 [`WATCH` - youtu.be/4UGkzhgsYA4](https://youtu.be/4UGkzhgsYA4)
-
-[@saccounty Stockton Mom Went Silent for 4 Days… Her Mother Broke In and Her Killer Was Still Inside](https://youtu.be/o_81x7hGkA8?si=m6xfKQQ1Ss3SsxH0)
+[@nasa @whitehouse Herbie Hancock - Rockit ](https://youtu.be/GHhD4PD75zY?list=RDGHhD4PD75zY&t=95)  Lana j Harris seduced me to hid behind a freeway wall and touch myself using some [cop weapo](https://www.criticalts.com/articles/what-is-lrad-and-how-to-use-it/?srsltid=AYCX9vIEcn2U8JJsJiXhft7VoP9_2fYsfwyhDxVMN3zqoyY2E3Yjsabj) and a [haptic suit](https://teslasuit.io/)
+[@saccounty Stockton Mom Went Silent for 4 Days… Her Mother Broke In and Her Killer Was Still Inside](https://youtu.be/o_81x7hGkA8?si=m6xfKQQ1Ss3SsxH0) @deptofwar Howard, I guess its not a paper degree, its a meathead cert @blackgirlscode 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7523eb52-9b02-425c-8a88-b04c5650e61b" />
 
