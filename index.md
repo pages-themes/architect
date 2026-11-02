@@ -26,7 +26,7 @@ mathjax: true
 
 @howard-university-web-services @foratlanta @ajcnews hi [Lana @tiktok broke again hi @deptofwar](https://www.tiktok.com/@lanajharris)
 <img alt="image" src="https://github.com/user-attachments/assets/201bb5b5-43b1-4a2d-8cef-4fc2706171b1" />
-<img   alt="image" src="https://github.com/user-attachments/assets/9a62ac74-cac4-493c-aef9-73b9f3238d53" />
+
 
 
 ![https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wjcl/logo.png background hi @nasa-pds](https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wjcl/logo.png)
