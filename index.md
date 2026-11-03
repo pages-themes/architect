@@ -17,6 +17,15 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+
+[@cityoflosangeles `Mayor Karen Bass`](https://earth.google.com/web/@34.11191375,-118.24546049,133.01852265a,76893.69509577d,35y,65.53009531h,59.62262935t,0r/data=CgRCAggBMikKJwolCiExNGlSUEwyaEpEM0RfQUZuRWJHUWcwUFV6MkhOaTA0Y0QgAToDCgEwQgIIAEoHCKnLk1YQAQ?utm_source=google&utm_medium=cpc&utm_campaign=earth26_pmax_v2&utm_content=concept_1&gclsrc=aw.ds&gad_source=1&gad_campaignid=24398738081&gbraid=0AAAAAD7yuMsizu65fod56neY4LmaDtD0U&gclid=CjwKCAiAhqHXBhAXEiwATbksUyBHH0V1AokfG85zPvC5hut1nYGsFAmhqupxQTYxcy1ZMieSBhkOCRoCFAYQAvD_BwE) average street temperature
+<img  alt="image" src="https://github.com/user-attachments/assets/3d843a24-e60e-4c60-afa4-590052359906" />
+
+
+## @cityoflosangeles
+[Pennzoil](https://www.pennzoil.com/) shot a commercial @hulu @blackgirlscode lets be balanced man, I am watching praying beiber or one of your other hotshot boyfriends don't discourage me, but @nasa-jpl has a lot of stranded guys that are waiting for partners to show up, and man things are still fun alone [Long May We Drive  The Streets of LA](https://youtu.be/CoAhLJJKf08)
+<img  alt="image" src="https://github.com/user-attachments/assets/577131a7-997e-4904-865f-965a517bbd07" />
+
 [`WATCH` - The IT Crowd @caltech! Italian for Beginners](https://youtu.be/yNf8ZkD-41I?t=494) /// [The Boondocks “The Story of Catcher Freeman" ](https://youtu.be/I5VQO5EGLDM) // [`ATL` @nasa-jpl @la-county-isd @cityoflosangeles `youtu.be/ybzh6_5GFD0?si=1m_oJUSNbaWxxsH`](https://youtu.be/ybzh6_5GFD0?si=1m_oJUSNbaWxxsH_) // [Mean Girls @cbsinteractive](https://youtu.be/HPkDFc8hq5c)
 <img alt="image" src="https://github.com/user-attachments/assets/42a83230-ebb1-4e87-8339-83b0f67475d8" />
 
@@ -61,9 +70,6 @@ _bouncingCats_
 
 
 
-## @cityoflosangeles
-[Pennzoil](https://www.pennzoil.com/) shot a commercial @hulu @blackgirlscode lets be balanced man, I am watching praying beiber or one of your other hotshot boyfriends don't discourage me, but @nasa-jpl has a lot of stranded guys that are waiting for partners to show up, and man things are still fun alone [Long May We Drive  The Streets of LA](https://youtu.be/CoAhLJJKf08)
-<img  alt="image" src="https://github.com/user-attachments/assets/577131a7-997e-4904-865f-965a517bbd07" />
 
 ## art002e015230_nkz9019_src_v01.nef @nasa
 [pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef) @NOAA-Big-Data-Program
