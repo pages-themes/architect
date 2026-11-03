@@ -28,6 +28,9 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+[@SWOTcommunity huggingface.co/spaces/iuryt/whereisswot @CityofSantaMonica](https://huggingface.co/spaces/iuryt/whereisswot)
+<img  alt="image" src="https://github.com/user-attachments/assets/cbef5e8a-5905-4929-aee0-295ce4684652" />
+
 <img alt="GIOVANNI-output7upfMERF @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/57ac4cfa-f08d-49e9-b2ae-2705a70add5a" />
 <img  alt="GIOVANNI-outputrfKpd3EU @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/0260a45b-6691-4475-a929-71009d28d23b" />
 <img  alt="GIOVANNI-outputEoM8PpNe @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/bc3dd1fa-a664-4b77-8036-e0466c5845dc" />
