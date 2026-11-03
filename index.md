@@ -15,10 +15,14 @@ mathjax: true
 </picture>
 
 
+[Deacon Blues · Steely Dan](https://youtu.be/iac-vLq6tnY?si=c3-2gJmqLCl7_CtB) // [Bill Withers - Just The Two Of Us](https://youtu.be/Uw5OLnN7UvM?list=RDUw5OLnN7UvM) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?list=RDXCz2BhlS1YM) // [Ludacris - Get Back](https://youtu.be/5yt849wJyVk?list=RD5yt849wJyVk) // [Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // 
+
+
+
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
-[@cityoflosangeles `Mayor Karen Bass`](https://earth.google.com/web/@34.11191375,-118.24546049,133.01852265a,76893.69509577d,35y,65.53009531h,59.62262935t,0r/data=CgRCAggBMikKJwolCiExNGlSUEwyaEpEM0RfQUZuRWJHUWcwUFV6MkhOaTA0Y0QgAToDCgEwQgIIAEoHCKnLk1YQAQ?utm_source=google&utm_medium=cpc&utm_campaign=earth26_pmax_v2&utm_content=concept_1&gclsrc=aw.ds&gad_source=1&gad_campaignid=24398738081&gbraid=0AAAAAD7yuMsizu65fod56neY4LmaDtD0U&gclid=CjwKCAiAhqHXBhAXEiwATbksUyBHH0V1AokfG85zPvC5hut1nYGsFAmhqupxQTYxcy1ZMieSBhkOCRoCFAYQAvD_BwE) average street temperature
+[@cityoflosangeles `Mayor Karen Bass`](https://earth.google.com/web/@34.11191375,-118.24546049,133.01852265a,76893.69509577d,35y,65.53009531h,59.62262935t,0r/data=CgRCAggBMikKJwolCiExNGlSUEwyaEpEM0RfQUZuRWJHUWcwUFV6MkhOaTA0Y0QgAToDCgEwQgIIAEoHCKnLk1YQAQ?utm_source=google&utm_medium=cpc&utm_campaign=earth26_pmax_v2&utm_content=concept_1&gclsrc=aw.ds&gad_source=1&gad_campaignid=24398738081&gbraid=0AAAAAD7yuMsizu65fod56neY4LmaDtD0U&gclid=CjwKCAiAhqHXBhAXEiwATbksUyBHH0V1AokfG85zPvC5hut1nYGsFAmhqupxQTYxcy1ZMieSBhkOCRoCFAYQAvD_BwE) average street temperature // [Deacon Blues @ForAtlanta @AJCNEWS · Steely Dan](https://youtu.be/iac-vLq6tnY?si=c3-2gJmqLCl7_CtB) + [Ludacris - Rollout (My Business) ](https://youtu.be/t21DFnu00Dc?si=x1xlchq1w_9lZQAp)
 <img  alt="image" src="https://github.com/user-attachments/assets/3d843a24-e60e-4c60-afa4-590052359906" />
 
 [Robin Obrien](https://www.gettyimages.com/detail/news-photo/ground-data-engineer-robin-obrien-points-to-her-computer-news-photo/52024216?slot=18) [[1](https://ntrs.nasa.gov/citations/19890043692)] , [@CityOfLosAngeles Mayor Karen @UCLA](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) BUT I FOUND THE WEATHER MAP WITH THE NUMBERS [lINDSEY @LA-COUNTY-ISD](https://lindseyhorvath.lacounty.gov/) I WILL CONTINUE PUTTING THE WEATHER TOGETHER, SO I WANT YOU TO KNOW I MADE PROGRESS using available gear @nasa-jpl @commercegov @noaagov 
