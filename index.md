@@ -15,18 +15,34 @@ mathjax: true
 </picture>
 
 
-[Deacon Blues · Steely Dan](https://youtu.be/iac-vLq6tnY?si=c3-2gJmqLCl7_CtB) // [Bill Withers - Just The Two Of Us](https://youtu.be/Uw5OLnN7UvM?list=RDUw5OLnN7UvM) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?list=RDXCz2BhlS1YM) // [Ludacris - Get Back](https://youtu.be/5yt849wJyVk?list=RD5yt849wJyVk) // [Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // 
 
+[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2)
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
 # US Midterm Elections 2026
-@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov
+@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov @howard-university-web-services @nbcnews @ajcnews
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png)
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
+
+
+@nasa-jpl hi its @ra5hard @nasa-pds ... [Lucy](https://etd.gsfc.nasa.gov/our-work/lucy-spacecraft/), [Europa Clipper](https://www.jpl.nasa.gov/missions/europa-clipper/) and [ParkerSolarProbe](https://parkersolarprobe.jhuapl.edu/The-Mission/index.php) are transmitting in [Goldstone @StateOFCalifornia @cityOfLosAngeles](https://satellitegroundstation.com/ground-stations/goldstone-deep-space-communications-complex-gdscc-goldstone-observatory/) @nasa-pds [Escapade Gold](https://rocketlabcorp.com/missions/escapade/) [[1](https://escapade.ssl.berkeley.edu/)]  and [James Webb](https://esawebb.org/) transmitting in [Madrid](https://www.mdscc.nasa.gov/) // @eosdis-nasa I'm starting to get that [NASA's Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/mission/launch.php) is a separate machine from [ParkerSolarProbe @nasa-jpl @JHUAPL](https://parkersolarprobe.jhuapl.edu/)
+<img alt="image" src="https://github.com/user-attachments/assets/b7480c1c-e6e2-4246-b8ea-d13fb3db79fe" />
+
+![https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png) 
+
+![https://upload.wikimedia.org/wikipedia/commons/a/a9/Europa_Clipper_patch.png](https://upload.wikimedia.org/wikipedia/commons/a/a9/Europa_Clipper_patch.png) 
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/SDO_VO3.gif](https://sdo.gsfc.nasa.gov/assets/img/latest/SDO_VO3.gif) 
+
+![https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
+![https://upload.wikimedia.org/wikipedia/commons/8/81/Lucy_insignia.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/Lucy_insignia.svg)
+
+[Deacon Blues · Steely Dan](https://youtu.be/iac-vLq6tnY?si=c3-2gJmqLCl7_CtB) // [Bill Withers - Just The Two Of Us](https://youtu.be/Uw5OLnN7UvM?list=RDUw5OLnN7UvM) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?list=RDXCz2BhlS1YM) // [Ludacris - Get Back](https://youtu.be/5yt849wJyVk?list=RD5yt849wJyVk) // [Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // 
 
 ![ @fecgov @saccounty @nasa @whitehouse @dhs-gov https://run.imgix.net/a90ac9ef-afc5-45cb-9070-17e5ee6fc6d5/888e84f5-86a9-497b-a27a-79c561579b70/888e84f5-86a9-497b-a27a-79c561579b70.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C1436%2C304&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=6cf68b220d3cff5a79616afa1aeaa8d7](https://run.imgix.net/a90ac9ef-afc5-45cb-9070-17e5ee6fc6d5/888e84f5-86a9-497b-a27a-79c561579b70/888e84f5-86a9-497b-a27a-79c561579b70.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C1436%2C304&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=6cf68b220d3cff5a79616afa1aeaa8d7) 
 
