@@ -23,11 +23,18 @@ mathjax: true
 
 
 # US Midterm Elections 2026
-@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds
+@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png)
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+<img alt="GIOVANNI-output7upfMERF @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/57ac4cfa-f08d-49e9-b2ae-2705a70add5a" />
+<img  alt="GIOVANNI-outputrfKpd3EU @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/0260a45b-6691-4475-a929-71009d28d23b" />
+<img  alt="GIOVANNI-outputEoM8PpNe @nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds @weather-gov @commercegov @dhs-gov" src="https://github.com/user-attachments/assets/bc3dd1fa-a664-4b77-8036-e0466c5845dc" />
+
+<img alt="GIOVANNI-outputxpUkL6HD" src="https://github.com/user-attachments/assets/3c6384c8-baaa-4360-b5c2-1b84d369f485" />
+<img  alt="GIOVANNI-outputPs5nFtxN" src="https://github.com/user-attachments/assets/6c868882-0ce0-4c2e-b544-c64b4d4462c0" />
+<img  alt="GIOVANNI-outputbr3bqFwm" src="https://github.com/user-attachments/assets/84a65f59-1e87-44a8-bbf3-7d1e1ff868e4" />
 
 [Ludacris - Rollout (My Business) ](https://youtu.be/t21DFnu00Dc?si=x1xlchq1w_9lZQAp) ///  [Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // 
 <img  alt="image" src="https://github.com/user-attachments/assets/95f5289e-bb50-4352-b6c7-5b67ff628451" />
