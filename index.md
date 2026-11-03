@@ -22,6 +22,13 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
+# US Midterm Elections 2026
+@nasa-jpl @cityoflosangeles @eosdis-nasa @nasa-pds
+![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168.2-s2x.png)
+[doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
+![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
+
+
 [Ludacris - Rollout (My Business) ](https://youtu.be/t21DFnu00Dc?si=x1xlchq1w_9lZQAp) ///  [Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // 
 <img  alt="image" src="https://github.com/user-attachments/assets/95f5289e-bb50-4352-b6c7-5b67ff628451" />
 
