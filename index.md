@@ -14,13 +14,31 @@ mathjax: true
   
 </picture>
 
+[@deptofwar much cleaner than clementine! @nasa @la-county-isd pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd06/art002e012728_nkd5015_prc_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd06/art002e012728_nkd5015_prc_v01.tif)
+
+<img  alt="art002e012728_nkd5015_prc_v01" src="https://github.com/user-attachments/assets/9619100f-13ff-4333-9462-def915441bda" />
+
+<img  alt="art002e012658_nkd5015_prc_v01" src="https://github.com/user-attachments/assets/8d4297d1-f922-409c-9416-f7533fc8ce06" />
+
+<img src="blob:chrome-untrusted://media-app/b2aebe3d-1b47-408b-ab19-75bbee84ca53" alt="art002e000192_nkd5017_prc_v01.png"/>
+
+
+
+
+## @cityoflosangeles
+[Pennzoil](https://www.pennzoil.com/) shot a commercial @hulu @blackgirlscode lets be balanced man, I am watching praying beiber or one of your other hotshot boyfriends don't discourage me, but @nasa-jpl has a lot of stranded guys that are waiting for partners to show up, and man things are still fun alone [Long May We Drive  The Streets of LA](https://youtu.be/CoAhLJJKf08)
+<img  alt="image" src="https://github.com/user-attachments/assets/577131a7-997e-4904-865f-965a517bbd07" />
+
+## art002e015230_nkz9019_src_v01.nef @nasa
+[pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd06/art002e015230_nkz9019_src_v01.nef) @NOAA-Big-Data-Program
+<img   alt="art002e015230_nkz9019_prc_v01" src="https://github.com/user-attachments/assets/50301b7d-9414-4c4e-8c26-781f2ab43eaa" />
 
 ### [HOT 97](https://www.hot97.com/) TV feat [Lana J Harris](https://www.tiktok.com/@lanajharris/video/7516651426123123982)
 [Georgia Prison Lockdown @foratlanta @dhs-gov](https://www.wjcl.com/article/georgia-prison-lockdown-update/74284393) [[1](https://www.fox5atlanta.com/news/state-places-26-georgia-prisons-lockdown-over-threat-activity)], Chili’s Margarita Burns & $10K Beef Heist
 
 [`WATCH` - youtu.be/4UGkzhgsYA4](https://youtu.be/4UGkzhgsYA4)
-
-[@saccounty Stockton Mom Went Silent for 4 Days… Her Mother Broke In and Her Killer Was Still Inside](https://youtu.be/o_81x7hGkA8?si=m6xfKQQ1Ss3SsxH0)
+[@nasa @whitehouse Herbie Hancock - Rockit ](https://youtu.be/GHhD4PD75zY?list=RDGHhD4PD75zY&t=95)  Lana j Harris seduced me to hid behind a freeway wall and touch myself using some [cop weapo](https://www.criticalts.com/articles/what-is-lrad-and-how-to-use-it/?srsltid=AYCX9vIEcn2U8JJsJiXhft7VoP9_2fYsfwyhDxVMN3zqoyY2E3Yjsabj) and a [haptic suit](https://teslasuit.io/)
+[@saccounty Stockton Mom Went Silent for 4 Days… Her Mother Broke In and Her Killer Was Still Inside](https://youtu.be/o_81x7hGkA8?si=m6xfKQQ1Ss3SsxH0) @deptofwar Howard, I guess its not a paper degree, its a meathead cert @blackgirlscode 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7523eb52-9b02-425c-8a88-b04c5650e61b" />
 
