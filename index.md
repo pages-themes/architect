@@ -17,7 +17,10 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-The IT Crowd S01 (360p dvdrip)
+[`WATCH` - The IT Crowd @caltech! Italian for Beginners](https://youtu.be/yNf8ZkD-41I?t=494)
+<img alt="image" src="https://github.com/user-attachments/assets/42a83230-ebb1-4e87-8339-83b0f67475d8" />
+
+The IT Crowd S01 (360p dvdrip @nasa-pds I think @gatech was the bassist @caltech)
 @blackgirlscode @FORATLanta share your experiences with rashard @nasa-jpl
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
