@@ -21,6 +21,10 @@ mathjax: true
 [@cityoflosangeles `Mayor Karen Bass`](https://earth.google.com/web/@34.11191375,-118.24546049,133.01852265a,76893.69509577d,35y,65.53009531h,59.62262935t,0r/data=CgRCAggBMikKJwolCiExNGlSUEwyaEpEM0RfQUZuRWJHUWcwUFV6MkhOaTA0Y0QgAToDCgEwQgIIAEoHCKnLk1YQAQ?utm_source=google&utm_medium=cpc&utm_campaign=earth26_pmax_v2&utm_content=concept_1&gclsrc=aw.ds&gad_source=1&gad_campaignid=24398738081&gbraid=0AAAAAD7yuMsizu65fod56neY4LmaDtD0U&gclid=CjwKCAiAhqHXBhAXEiwATbksUyBHH0V1AokfG85zPvC5hut1nYGsFAmhqupxQTYxcy1ZMieSBhkOCRoCFAYQAvD_BwE) average street temperature
 <img  alt="image" src="https://github.com/user-attachments/assets/3d843a24-e60e-4c60-afa4-590052359906" />
 
+[Robin Obrien](https://www.gettyimages.com/detail/news-photo/ground-data-engineer-robin-obrien-points-to-her-computer-news-photo/52024216?slot=18) [[1](https://ntrs.nasa.gov/citations/19890043692)] , [@CityOfLosAngeles Mayor Karen @UCLA](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) BUT I FOUND THE WEATHER MAP WITH THE NUMBERS [lINDSEY @LA-COUNTY-ISD](https://lindseyhorvath.lacounty.gov/) I WILL CONTINUE PUTTING THE WEATHER TOGETHER, SO I WANT YOU TO KNOW I MADE PROGRESS using available gear @nasa-jpl @commercegov @noaagov 
+<img  alt="image" src="https://github.com/user-attachments/assets/4ddbeb61-696f-426e-b99b-7cdc0b0f3659" />
+[awpc.cattcenter.iastate.edu didn’t send any data.](https://awpc.cattcenter.iastate.edu/directory/karen-bass)
+<img alt="image" src="https://github.com/user-attachments/assets/e2bada27-aa66-40cd-b150-2632fbdd498f" />
 
 ## @cityoflosangeles
 [Pennzoil](https://www.pennzoil.com/) shot a commercial @hulu @blackgirlscode lets be balanced man, I am watching praying beiber or one of your other hotshot boyfriends don't discourage me, but @nasa-jpl has a lot of stranded guys that are waiting for partners to show up, and man things are still fun alone [Long May We Drive  The Streets of LA](https://youtu.be/CoAhLJJKf08)
