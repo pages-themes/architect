@@ -28,6 +28,9 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+[@la-county-isd Holly J Mitachell I was checking sealevel @LACMTA](https://www.earthdata.nasa.gov/data/tools/swot-swath-visualizer) when the screen went no connection or whatever [@Cityoflosangeles earthdata.nasa.gov/data/tools/swot-swath-visualizer](https://www.earthdata.nasa.gov/data/tools/swot-swath-visualizer)  you can see incoming waves hi @blackgirlscode @whitehouse @deptofwar 
+<img  alt="image" src="https://github.com/user-attachments/assets/9fc82a2c-4dea-4396-9493-417d9fb218cc" />
+
 [@SWOTcommunity huggingface.co/spaces/iuryt/whereisswot @CityofSantaMonica](https://huggingface.co/spaces/iuryt/whereisswot)
 <img  alt="image" src="https://github.com/user-attachments/assets/cbef5e8a-5905-4929-aee0-295ce4684652" />
 
