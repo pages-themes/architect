@@ -28,6 +28,9 @@ mathjax: true
 [doodles.google/doodle/us-midterm-elections-2026/](https://doodles.google/doodle/us-midterm-elections-2026/)
 ![https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png](https://www.google.com/logos/doodles/2026/us-midterm-elections-2026-6753651837111168-2x.png) 
 
+[Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=75)
+<img  alt="image" src="https://github.com/user-attachments/assets/e022bc8d-b128-446a-94f8-dff18f7a1cfd" />
+
 ![@nasa-pds @cityoflosangeles @whitehouse eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png background ](https://eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png)
 ![https://eyes.nasa.gov/apps/dsn-now/images/jpl_caltech_logo.png background ](https://eyes.nasa.gov/apps/dsn-now/images/jpl_caltech_logo.png)
 
