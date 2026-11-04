@@ -15,7 +15,7 @@ mathjax: true
 </picture>
 
 
-[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9)
+[Roll Out - Ludacris](https://youtu.be/3ArhZPYplFk?list=RD3ArhZPYplFk) // [Ludacris - Southern Hospitality (Official Music Video) ft. Pharrell](https://youtu.be/2QWQVm9J5DM?list=RD3ArhZPYplFk&t=17) // [Big Tymers - Still Fly](https://youtu.be/9iCd6UHR-3I?list=RD9iCd6UHR-3I&t=2) // [Lil Wayne - Go DJ](https://youtu.be/MNS-Ho5tWo0?list=RDMNS-Ho5tWo0&t=13) // [Birdman, Lil Wayne - Stuntin' Like My Daddy @ForAtlanta ](https://youtu.be/_hDPUoUi6_s?t=3) // [David Banner - Like A Pimp (Official Music Video) ft. Lil' Flip @AJCNEWS](https://youtu.be/MKGQ5cIw_ew?list=RDMKGQ5cIw_ew&t=19) // [Mike Jones feat. Slim Thug and Paul Wall - Still Tippin' (Official Video) ](https://youtu.be/7ZAYzLjQAd4?list=RD7ZAYzLjQAd4&t=17) // [Jeezy - 05 - Hell You Talkin Bout](https://youtu.be/0uLa4nIhIkE?si=TUXfg1ASNmMUdUP9) // [Pressure · Jeezy · Kodak Black · YG](https://youtu.be/EEq-4A846KA?list=RDEEq-4A846KA&t=12) // [Your Eyes · Bombay Bicycle Club](https://youtu.be/0_Wsb92tT1M?list=RD0_Wsb92tT1M&t=12)
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
@@ -31,7 +31,13 @@ mathjax: true
 
 MRO MARCI Weather Report for the week of
 31 January 2022 – 6 February 2022
-@planetary-society [Dr.Tyson](https://startalkmedia.com/bio/neil-degrasse-tyson/)
+@planetary-society [Dr.Tyson](https://startalkmedia.com/bio/neil-degrasse-tyson/) [Robin Obrien]() told me to keep up with this, and its about [4 years behind](http://www.msss.com/msss_images/2022/02/09/map_movie_220131_220206.mp4), but please understand I have no idea what's going on there! There is air, and wind, and some worm looking tunnels I saw on radar and the way [MRO](https://science.jpl.nasa.gov/projects/mro/) captured it it looks like water... I see I have about 7 people to make a goal of contacting to get my new instructions... Data Release 79 is [scheduled to be finished on the 1st of dec @nasa-pds @wustl](https://pds-geosciences.wustl.edu/) [[1 @usgs @nasa-jpl](https://pds.nasa.gov/data/pds4/releases/)] . Long story short my work with @eosdis-nasa is helping me understand what to do on Mars, but the landers are turned off, and I can be mature with [@FoxBroadcasting @foratlanta I made a page about insight and cant find it @nasa-jpl ra5hard.github.io/justmars](https://ra5hard.github.io/justmars)
+
+
+[https://ra5hard.github.io/mars/2026/09/22/MARS2020Perseverance.html](https://ra5hard.github.io/mars/2026/09/22/MARS2020Perseverance.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/11382470-ef82-4660-9a4d-5026b7e304a3" />
+
+![https://startalkmedia.com/wp-content/uploads/2023/05/neil-degrasse-tyson-750x770.webp @cityoflosangeles ](https://startalkmedia.com/wp-content/uploads/2023/05/neil-degrasse-tyson-750x770.webp) 
 <img  alt="image" src="https://github.com/user-attachments/assets/e022bc8d-b128-446a-94f8-dff18f7a1cfd" />
 
 ![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif
